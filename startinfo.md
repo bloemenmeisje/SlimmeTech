@@ -22,3 +22,14 @@ Deze assistent is erg geschikt voor financiele hulp, muziek te beluisteren met A
 ## Google Assistent
 
 Deze assistent heeft meerdere gebruikersprofielen. Een heel goede betekenis herkening maar een erg onaangename stem. Google Asssistent heeft geen voornaam gekregen
+
+## Google assistent als experiment
+
+Voor mijn jaarwerk heb ik mijn Google assistent ingeschakelt als experiment. ik von het best een moeilijke beslissing omdat er ook enkele nadelen aan verbonden zijn(Google herkent je stem, weet wat je opzoekt). Toch wou ik zien hoe een spraakassistent in real life werkt en hoe het verandert doorheen de tijd.
+
+#### het onderzoek
+
+De eerste opdracht was een beetje onderzoek te doen. Al snel kwam ik erachter dat je beste veel nodig hebt om zo'n assistent op je gsm of tablet te activeren
+
+
+#### het inschakelen
