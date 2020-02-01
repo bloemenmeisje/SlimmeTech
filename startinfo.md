@@ -29,7 +29,12 @@ Voor mijn jaarwerk heb ik mijn Google assistent ingeschakelt als experiment. ik 
 
 #### het onderzoek
 
-De eerste opdracht was een beetje onderzoek te doen. Al snel kwam ik erachter dat je beste veel nodig hebt om zo'n assistent op je gsm of tablet te activeren
+De eerste opdracht was een beetje onderzoek te doen. Al snel kwam ik erachter dat je beste veel nodig hebt om zo'n assistent op je gsm of tablet te activeren.
+Je hebt 1 GB nodig op je apparaat,de versie 5.0 van androit en 6.13 van googleapp en google play services.Ook moest ik spraakservices instellen als de assistent dat niet automatisch  deed.
 
 
 #### het inschakelen
+
+ Ik deed de updates van androit en googel en downloade de google play services. OOk maakt ik plaats door de foto's van interne opslag naar mijn SD- kaart te verplaatsen, dit deed ik ook met videos en muziek.
+
+
