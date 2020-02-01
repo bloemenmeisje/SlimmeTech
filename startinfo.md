@@ -30,13 +30,15 @@ Voor mijn jaarwerk heb ik mijn Google assistent ingeschakelt als experiment. ik 
 #### het onderzoek
 
 De eerste opdracht was een beetje onderzoek te doen. Al snel kwam ik erachter dat je beste veel nodig hebt om zo'n assistent op je gsm of tablet te activeren.
-Je hebt 1 GB nodig op je apparaat,de versie 5.0 van androit en 6.13 van googleapp en google play services.Ook moest ik spraakservices instellen als de assistent dat niet automatisch deed.
+Je hebt de google assistent app en 1 GB nodig op je apparaat,de versie 5.0 van androit en 6.13 van googleapp en google play services.Ook moest ik spraakservices instellen als de assistent dat niet automatisch deed.
 Ook vond ik enkele informatie over wat je eventueel nog kon instellen nadien, zo kan je een andere stem kiezen of bepaalde services toelaten op je vergrendelscherm.
-Ook vond ik wat je allemaal ka
+Ook vond ik wat je allemaal kan vragen of doen met je assistent. Je kan ergens naartoe navigeren en dan 
+tegen je assistent zeggen 'Navigeer naar huis', Ald je locatie dan aanstaat kan je zonder enig probleem je route te zien krijgen. Ook kan je zeggen tegen je assistent:' herrinner me eraan dat ik moet bel naar mijn moeder', zonder eventuele problemen zal de assistent je vragen wanneer en waar hij je er aan moet herinneren. Daarna zal de assistent je vragen om dit op te slaan en als je dit vervolgt zal je een melding krijgen wanneer u wil.
+Ook kan je een vraag stellen zoals 'Wanneer is mijn volgende afspraak' of ' Wie is de keizer van japan'.
 
 
 #### het inschakelen
 
- Ik deed de updates van androit en googel en downloade de google play services. OOk maakt ik plaats door de foto's van interne opslag naar mijn SD- kaart te verplaatsen, dit deed ik ook met videos en muziek.
+Ik deed de updates van androit en googel en downloade de google play services. OOk maakt ik plaats door de foto's van interne opslag naar mijn SD- kaart te verplaatsen, dit deed ik ook met videos en muziek. Vol verwachtingen opende ik de app van de assistent maar deze vertelde me dat er nog iets niet was. Ik chekte  de benodigdheden en kwam erachter dat alles in orde was. Na erover te hebben gediscusieerd met mijn papa startte ik mijn gsm helemaal opnieuw op. hierna werkte het wel en vroeg ik wat voor het weer het ging zijn
 
 
