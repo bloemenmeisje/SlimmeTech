@@ -43,6 +43,5 @@ Ik deed de updates van androit en googel en downloade de google play services. O
 
 #### leren werken met google assistent
 
-Ik vond het best moeilijk om dingen te vragen aan 'mijn' assistent.
-
+Ik vond het best moeilijk om dingen te vragen aan 'mijn' assistent. in het begin was het voornamelijk de basic vragen die ik stelde:" wat voor weer wordt het morgen?"," Wie is de  president van amerika?" en " wat is de wortel van 9?". Ik bedacht me dat ik mischien wel muziek kon laten afspelen of iemand bellen. na  een paar keer geprobeert te hebben lukte het bellen maar de muziek laten spelen was een hele leerzame tijd
 
