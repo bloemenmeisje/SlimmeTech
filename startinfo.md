@@ -22,6 +22,8 @@ Deze assistent is erg geschikt voor financiele hulp, muziek te beluisteren met A
 ## Google Assistent
 
 Deze assistent heeft meerdere gebruikersprofielen. Een heel goede betekenis herkening maar een erg onaangename stem. Google Asssistent heeft geen voornaam gekregen
+## bixby
+
 
 ## Google assistent als experiment
 
@@ -43,5 +45,7 @@ Ik deed de updates van androit en googel en downloade de google play services. O
 
 #### leren werken met google assistent
 
-Ik vond het best moeilijk om dingen te vragen aan 'mijn' assistent. in het begin was het voornamelijk de basic vragen die ik stelde:" wat voor weer wordt het morgen?"," Wie is de  president van amerika?" en " wat is de wortel van 9?". Ik bedacht me dat ik mischien wel muziek kon laten afspelen of iemand bellen. na  een paar keer geprobeert te hebben lukte het bellen maar de muziek laten spelen was een hele leerzame tijd
+Ik vond het best moeilijk om dingen te vragen aan 'mijn' assistent. in het begin was het voornamelijk de basic vragen die ik stelde:" wat voor weer wordt het morgen?"," Wie is de  president van amerika?" en " wat is de wortel van 9?". Ik bedacht me dat ik mischien wel muziek kon laten afspelen of iemand bellen. na  een paar keer geprobeert te hebben lukte het bellen maar de muziek laten spelen was een hele leerzame tijd. Eerst vroeg ik een nummer af te spelen door middel van een atist, album en/of de titel. Nadien vroeg ik om YouTube te openen en een liedje op te zoeken,dit ging al wel. Toen ik hetzelfde vroeg met YouTube Music App werkte dit echter niet. Nadat ik dit enkele keren had geprobeert werkte het uiteindelijk wel.
+
+Nu ik muziek kon afspelen zou ik ook een bericht kun moeten sturen bedacht ik me dus ik vroeg aan google via WhatsApp een bericht te sturen, dit deed hij echter niet en leidde mij via berichten op mijn gsm dan via mijn WhatsApp.
 
