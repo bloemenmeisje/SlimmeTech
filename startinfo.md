@@ -39,6 +39,7 @@ Ook kan je een vraag stellen zoals 'Wanneer is mijn volgende afspraak' of ' Wie 
 
 #### het inschakelen
 
-Ik deed de updates van androit en googel en downloade de google play services. OOk maakt ik plaats door de foto's van interne opslag naar mijn SD- kaart te verplaatsen, dit deed ik ook met videos en muziek. Vol verwachtingen opende ik de app van de assistent maar deze vertelde me dat er nog iets niet was. Ik chekte  de benodigdheden en kwam erachter dat alles in orde was. Na erover te hebben gediscusieerd met mijn papa startte ik mijn gsm helemaal opnieuw op. hierna werkte het wel en vroeg ik wat voor het weer het ging zijn
+Ik deed de updates van androit en googel en downloade de google play services. OOk maakt ik plaats door de foto's van interne opslag naar mijn SD- kaart te verplaatsen, dit deed ik ook met videos en muziek. Vol verwachtingen opende ik de app van de assistent maar deze vertelde me dat er nog iets niet was. Ik chekte  de benodigdheden en kwam erachter dat alles in orde was. Na erover te hebben gediscusieerd met mijn papa startte ik mijn gsm helemaal opnieuw op. Hierna werkte het wel en vroeg ik wat voor het weer het ging zijn
+
 
 
