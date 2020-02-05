@@ -24,10 +24,14 @@ Deze assistent is erg geschikt voor financiele hulp, muziek te beluisteren met A
 Deze assistent heeft meerdere gebruikersprofielen. Een heel goede betekenis herkening maar een erg onaangename stem. Google Asssistent heeft geen voornaam gekregen
 ## bixby
 
+Bixby is de slimme assistent van Samsung. Deze assistent heeft als doel je dagelijkse routine makkelijker te maken en je te helpen bij afspraken of betalingen uit te voeren of als huishoudhulp te dienen. Bixby leert je kennen via het gebruik van je apps en opzoekwerk.Zo kan hij je helpen met reistijden, het nieuws of weer, je stappen te tellen en eten te bestellen of een tafel te boeken.
+Bixby kan je ook gebruiken voor tegen te praten. Zo kan je een heel gesprek voereen tegen je slimme assistent door hey bixby te zeggen.
+Zo heb je ook nog andere manieren om een gesprek te starten met bixby. De eerste en simpelste manier is de bixby button induwen en hey bixby zeggen. Daarnaast heb je nog een manier om via typen je assistent te activeren of via de 'press en hold bixby button' methode.
+Dit lijkt op de knijpmethode van google maar dan met een andere houding en knop. Bixby is beschikbaar in het Engels(VS en GB), in het frans(Frankrijk),Spaans (Spanje), Italiaans, Zuid-Koreaans, Duits (Duitsland) en Mandarijns(China). Ook kan bixby telefoongesprekken aannemen en berichten sturen, Bixby helpt je ook met plannen en hulp bij andere slimme apparaten(bv. Kiezen van tv-kanalen via een smart Tv). Bixby kan ook alle 'bekende' Apps openen en muziek afspelen. De slimme assistent heeft ook de functie 'Quick Command', dit houdt in dat Bixby wordt getriggerd door een bepaalde zin en daardoor een hele reeks aan opdrachten voltooid. Deze kan je helemaal zelf maken . Je maakt een 'quick command' door bij 'Bixby home page' naar 'more'te gaan en daar naar'Quick commands=oed voorbeeld is "It's run time",als Bixby dit hoord
 
 ## Google assistent als experiment
 
-Voor mijn jaarwerk heb ik mijn Google assistent ingeschakelt als experiment. ik von het best een moeilijke beslissing omdat er ook enkele nadelen aan verbonden zijn(Google herkent je stem, weet wat je opzoekt). Toch wou ik zien hoe een spraakassistent in real life werkt en hoe het verandert doorheen de tijd.
+Voor mijn jaarwerk heb ik mijn Google assistent ingeschakeld als experiment. ik von het best een moeilijke beslissing omdat er ook enkele nadelen aan verbonden zijn(Google herkent je stem, weet wat je opzoekt). Toch wou ik zien hoe een spraakassistent in real life werkt en hoe het verandert doorheen de tijd.
 
 #### het onderzoek
 
