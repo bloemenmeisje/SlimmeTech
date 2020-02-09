@@ -34,7 +34,9 @@ Eventueel kan je ook artikels over lifestyle laten voorlezen als je ze hebt inge
 Je kan fit en begeleid sporten via een PS app(personal training app). Via ontspanningsgeluiden kan je assistent je helpen met meditatie. ook kan hij je zorgaanbieders aanraden en je medicatieschema bijhouden en beheren.
 Voor reizen kan je slimme assistent je ook helpen. hij kan je alle reis en bestemmingsinfo geven , je vluchten- en rittijden controleren vervoer zoeken en boeken en reisadviezen opvragen.
 
-
 #### Communicatie,Shoppen en financien
+
+
+
 
 #### opleiding, zakelijk en nieuws
