@@ -14,7 +14,9 @@ https://assistant.google.com/intl/nl_nl/
 
 ## Boeken
 
-Titel: Deep Learning 
+Titel: Deep Learning
+ 
 Auteur: andrew W Trask
+
 ISBN : 9781617293702
 
