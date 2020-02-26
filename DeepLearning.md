@@ -1,4 +1,4 @@
-#### Deep Learning
+# Deep Learning
 
 Deep learning is een onderdeel van Machine learning. DL (Deep Learning) is meer een mentale groei en verbetering dan een machanische. Machine learning valt ook voor een deel in Artifiele inteligentie.
 In de industrie wordt DL voornamelijk gebruikt voor kleine practische problemen.
