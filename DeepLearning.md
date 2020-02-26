@@ -9,4 +9,6 @@ Een mooi vorbeeld van deep learning is dat als je alle schilderstechnieken en sc
 
 ### Hoe leren Machines
 
+Je hebt verschillende manieren om de machine iets te leren. Zo heb je Machine Learning en DL.
+DL onder ML(Machine Learning)hebben een totaal andere manier van iets leren. Zoals de naam zegt leert Machine Learning meer oppervlakkig dan Deep Learning.
 
