@@ -6,7 +6,7 @@ https://www.demorgen.be/tech-wetenschap/google-assistent-kan-nu-ook-berichten-ve
 
 https://assistant.google.com/intl/nl_nl/
 
-
+https://blog.floydhub.com/gpt2/
 
 
 
