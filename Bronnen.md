@@ -12,6 +12,7 @@ https://blog.floydhub.com/gpt2/
 
 ##video's en documentaires
 
+https://www.youtube.com/watch?v=YNLC0wJSHxI
 
 ## Boeken
 
