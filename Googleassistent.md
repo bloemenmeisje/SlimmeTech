@@ -33,11 +33,14 @@ Je kan je horoscoop en citaten of quotes laten voorlezen en lokale evenementen o
 Eventueel kan je ook artikels over lifestyle laten voorlezen als je ze hebt ingescant.
 Je kan fit en begeleid sporten via een PS app(personal training app). Via ontspanningsgeluiden kan je assistent je helpen met meditatie. ook kan hij je zorgaanbieders aanraden en je medicatieschema bijhouden en beheren.
 Voor reizen kan je slimme assistent je ook helpen. hij kan je alle reis en bestemmingsinfo geven , je vluchten- en rittijden controleren vervoer zoeken en boeken en reisadviezen opvragen.
-
+Met de vraag hoe is het weer morgen vind je assistent heel gemakkelijk de weersvoorspellingen.
 #### Communicatie,Shoppen en financien
 
-
-
+Google kan je ook helpen voor het shoppen,te communiceren en je financien in orde te houden.Zo kan je financien controleren,investeren en deze beheren,je uitgave beheren, boodschappenlijstjes te beheren en maken en dus ook productprijzen na gaan.
+voor het winkelen specifiek kan je ook winkels zoeken en hun producten bekijken,zoals kleding, accesoires, huishoudelijke producten,electonica, schoonheidsproducten maar ook eten en sport en outdoorartikelen.
+Via Google assistent kan je ook gemakkelijk communiceren. Ze lezen met gemak je berichten en e-mails voor en openen je social media.
+Je kan bellen met of zonder videoverbinding en kan je een nummer voorlezen.
+Met een paar instellingen kan je ook stylistadviezen of aanbiedingen en kortingen opvragen. Via deze assistent kan je ook bij de klantenondersteuning komen, door deze het gewoon te vragen.
 
 #### opleiding, zakelijk en nieuws
 
