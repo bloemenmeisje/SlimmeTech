@@ -12,3 +12,5 @@ Bixby Vision wordt gebruikt voor tekst te vertalen(Het herkent en toont vertaald
 
 Augmented Reality wordt gebruikt voor miskopen te vermijden. Zo kan je via A.R.(Augmented Reality) een bril die je wou kopen eerst passen op een foto voor je deze koopt. Via de camera kan je makeup en haarveranderingen laten plaatsvinden en Kan je de trailer van een film zien als je het reclamebord in je camera krijgt.Ook kan je je huis virtueel inrichten door middel van Augmented Reality.
 
+
+## brononderzoek
