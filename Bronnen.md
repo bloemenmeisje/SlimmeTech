@@ -8,9 +8,11 @@ https://assistant.google.com/intl/nl_nl/
 
 https://blog.floydhub.com/gpt2/
 
+## kranten
 
+https://www.wired.com/
 
-##video's en documentaires
+## video's en documentaires
 
 https://www.youtube.com/watch?v=YNLC0wJSHxI
 
@@ -29,6 +31,9 @@ ISBN : 9781617293702
 ##### Deep Learning
 
 https://www.deeplearning.ai/
+
+https://ai.google/about/
+
 
 ##### Bixby
 
