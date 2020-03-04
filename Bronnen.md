@@ -21,6 +21,7 @@ Auteur: andrew W Trask
 ISBN : 9781617293702
 
 ## websites
+
 ##### Deep Learning
 
 https://www.deeplearning.ai/
