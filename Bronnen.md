@@ -10,6 +10,7 @@ https://blog.floydhub.com/gpt2/
 
 
 
+##video's en documentaires
 
 
 ## Boeken
