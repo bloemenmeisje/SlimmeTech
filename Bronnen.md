@@ -14,6 +14,8 @@ https://blog.floydhub.com/gpt2/
 
 https://www.youtube.com/watch?v=YNLC0wJSHxI
 
+https://www.youtube.com/watch?v=wL7tSgUpy8w
+
 ## Boeken
 
 Titel: Deep Learning
