@@ -68,3 +68,7 @@ Men kan met een paar hyperlinks naar de google website zelf en ook naar de hulpp
 
 Op deze website vind je alle informatie die je nodig hebt om met google assistent te leren werken. Zo kan je hier voorbeelden vinden voor vragen en taken maar ook informatie en een link naar de hulppagina.
 Op de website zelf kan je ook enkele accesoires vinden om erbij te kopen( het economische gedeelte).
+
+Ook kan je de ondersteunde apps zien en de apps die kunnen helpen met het verkennen van je google assistent.
+Een klein overzichte van de apps en ideeen die je er kan vinden. Als je naar de tab wat kan het doen gaat zal je eerst een paar apps vinden die hij je aanraad en daaronder wat er nieuw is. Daarnaast kan je ook een hele lijst vinden van andere apps en opties: Bediening in huis, Eten en drinken, Film, foto en tv,Games en amusement, Gezondheid en fitness, Kinderen en gezin, Kunst en lifestyle, Lokaal, Muziek en audio, Nieuws en tijdschriften, Opleiding en naslag, Productiviteit, Reizen en vervoer, Shoppen, Sociaal en communicatie, Sport, Weer en ZAkelijk en financien.
+
