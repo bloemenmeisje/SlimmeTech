@@ -20,3 +20,13 @@ Ook kan je de ondersteunde apps zien en de apps die kunnen helpen met het verken
 Een klein overzichte van de apps en ideeen die je er kan vinden. Als je naar de tab wat kan het doen gaat zal je eerst een paar apps vinden die hij je aanraad en daaronder wat er nieuw is. Daarnaast kan je ook een hele lijst vinden van andere apps en opties: Bediening in huis, Eten en drinken, Film, foto en tv,Games en amusement, Gezondheid en fitness, Kinderen en gezin, Kunst en lifestyle, Lokaal, Muziek en audio, Nieuws en tijdschriften, Opleiding en naslag, Productiviteit, Reizen en vervoer, Shoppen, Sociaal en communicatie, Sport, Weer en ZAkelijk en financien.
 
 Er zijn nog 2 tabs waarvan er 1 een overzicht geeft en de ander om te zien waar het beschikbaar is.
+
+
+
+https://www.apple.com/siri/
+
+### informatie over de bron
+
+Deze bron is gemaakt door Apple met het doel om mensen het te laten gebruiken en extra te verkopen. De bron is gemaakt in Amerika en Apple verkoopt ook nog andere producten zoals een Iphone, Ipad en andere producten.
+Dit is ook een geschreven bron en ook deze is erg represantief voor dit werk. HEt publiek is voornamelijk bedoelt voor applegebruikers.
+Ik kan met deze mensen ook niet in contact treden.
