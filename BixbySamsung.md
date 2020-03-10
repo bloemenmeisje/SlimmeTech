@@ -14,3 +14,10 @@ Augmented Reality wordt gebruikt voor miskopen te vermijden. Zo kan je via A.R.(
 
 
 ## brononderzoek
+
+https://www.samsung.com/be/apps/bixby/
+
+### informatie over de bron
+
+
+
