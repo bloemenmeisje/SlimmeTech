@@ -21,7 +21,7 @@ Een klein overzichte van de apps en ideeen die je er kan vinden. Als je naar de 
 
 Er zijn nog 2 tabs waarvan er 1 een overzicht geeft en de ander om te zien waar het beschikbaar is.
 
-
+---
 
 https://www.apple.com/siri/
 
