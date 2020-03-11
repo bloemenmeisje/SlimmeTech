@@ -42,7 +42,7 @@ Het doel van deze website is dan ook om mensen met de producten te leren werken 
 het publiek voornamelijk Samsung gebruikers zijn.
 
 Samsung verkoopt dus niet alleen Bixby maar ook andere producten zoals; Soundbars,Tv's, Smartphones, Tablets, Was- en droogmachines, inbouw van slimme aparaten en ook extra accesoires en apparte onderdelen.
-Dit is dus de Auteur van deze bron. JE kan contact met ze maken maar dan kom je bij de klantendienst die je zowel via Whatsapp, Messanger, Facebook, Twitter en Samsung Comunity een bericht kan sturen. Ook kan je bellen of langs gaan in hun servicelocaties waar ze vragen kunnen beantwoorden en reparatie service toepassen.
+Dit is dus de Auteur van deze bron. Je kan contact met ze maken maar dan kom je bij de klantendienst die je zowel via Whatsapp, Messanger, Facebook, Twitter en Samsung Comunity een bericht kan sturen. Ook kan je bellen of langs gaan in hun servicelocaties waar ze vragen kunnen beantwoorden en reparatie service toepassen.
 
 Op deze website kan je geen propaganda vinden
 
