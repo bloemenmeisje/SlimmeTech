@@ -20,7 +20,8 @@ https://www.samsung.com/be/apps/bixby/
 ### informatie over de bron
 
 De info die je kan vinden op deze website is zeer actueel. men kan zelf de taal selecteren en dit is ook juist taalgebruik. De hyperlinks werken en men kan alle soorten informatie vinden op de site. Zo kan je teksten vinden maar ook lijstjes en video's. Deze website heeft een heel erg informatief en economish karakter.
- Het doel van deze website is dan ook om mensen met de producten te leren werken en ook extra verkopen. Het publiek is ook erg duidelijk dat
+Het doel van deze website is dan ook om mensen met de producten te leren werken en ook extra verkopen. Het is dan ook erg duidelijk dat
+het publiek voornamelijk Samsung gebruikers zijn.
 
 Samsung verkoopt dus niet alleen Bixby maar ook andere producten zoals; Soundbars,Tv's, Smartphones, Tablets, Was- en droogmachines, inbouw van slimme aparaten en ook extra accesoires en apparte onderdelen.
 Dit is dus de Auteur van deze bron. JE kan contact met ze maken maar dan kom je bij de klantendienst die je zowel via Whatsapp, Messanger, Facebook, Twitter en Samsung Comunity een bericht kan sturen. Ook kan je bellen of langs gaan in hun servicelocaties waar ze vragen kunnen beantwoorden en reparatie service toepassen.
