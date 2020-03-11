@@ -30,3 +30,19 @@ https://www.apple.com/siri/
 Deze bron is gemaakt door Apple met het doel om mensen het te laten gebruiken en extra te verkopen. De bron is gemaakt in Amerika en Apple verkoopt ook nog andere producten zoals een Iphone, Ipad en andere producten.
 Dit is ook een geschreven bron en ook deze is erg represantief voor dit werk. Het publiek is voornamelijk bedoelt voor applegebruikers.
 Ik kan met deze mensen ook niet in contact treden.
+
+---
+
+https://www.samsung.com/be/apps/bixby/
+
+### informatie over de bron
+
+De info die je kan vinden op deze website is zeer actueel. men kan zelf de taal selecteren en dit is ook juist taalgebruik. De hyperlinks werken en men kan alle soorten informatie vinden op de site. Zo kan je teksten vinden maar ook lijstjes en video's. Deze website heeft een heel erg informatief en economish karakter.
+Het doel van deze website is dan ook om mensen met de producten te leren werken en ook extra verkopen. Het is dan ook erg duidelijk dat
+het publiek voornamelijk Samsung gebruikers zijn.
+
+Samsung verkoopt dus niet alleen Bixby maar ook andere producten zoals; Soundbars,Tv's, Smartphones, Tablets, Was- en droogmachines, inbouw van slimme aparaten en ook extra accesoires en apparte onderdelen.
+Dit is dus de Auteur van deze bron. JE kan contact met ze maken maar dan kom je bij de klantendienst die je zowel via Whatsapp, Messanger, Facebook, Twitter en Samsung Comunity een bericht kan sturen. Ook kan je bellen of langs gaan in hun servicelocaties waar ze vragen kunnen beantwoorden en reparatie service toepassen.
+
+Op deze website kan je geen propaganda vinden
+
