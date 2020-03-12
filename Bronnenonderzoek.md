@@ -2,7 +2,7 @@
 
 https://assistant.google.com/
 
-### informatie over de bron
+####### informatie over de bron
 
 De bron is een primaire bron. Deze bron is geschreven en heeft een informatief en economisch doel.
 Deze bron gaat over Google assistent en is vrij bertrouwbaar want het is gemaakt door de maker van Google assistent namelijk Google.
@@ -25,7 +25,7 @@ Er zijn nog 2 tabs waarvan er 1 een overzicht geeft en de ander om te zien waar 
 
 https://www.apple.com/siri/
 
-### informatie over de bron
+##### informatie over de bron
 
 Deze bron is gemaakt door Apple met het doel om mensen het te laten gebruiken en extra te verkopen. De bron is gemaakt in Amerika en Apple verkoopt ook nog andere producten zoals een Iphone, Ipad en andere producten.
 Dit is ook een geschreven bron en ook deze is erg represantief voor dit werk. Het publiek is voornamelijk bedoelt voor applegebruikers.
@@ -35,7 +35,7 @@ Ik kan met deze mensen ook niet in contact treden.
 
 https://www.samsung.com/be/apps/bixby/
 
-### informatie over de bron
+##### informatie over de bron
 
 De info die je kan vinden op deze website is zeer actueel. men kan zelf de taal selecteren en dit is ook juist taalgebruik. De hyperlinks werken en men kan alle soorten informatie vinden op de site. Zo kan je teksten vinden maar ook lijstjes en video's. Deze website heeft een heel erg informatief en economish karakter.
 Het doel van deze website is dan ook om mensen met de producten te leren werken en ook extra verkopen. Het is dan ook erg duidelijk dat
