@@ -22,3 +22,5 @@ Ik vond het best moeilijk om dingen te vragen aan 'mijn' assistent. in het begin
 
 Nu ik muziek kon afspelen zou ik ook een bericht kun moeten sturen bedacht ik me dus ik vroeg aan google via WhatsApp een bericht te sturen, dit deed hij echter niet en leidde mij via berichten op mijn gsm dan via mijn WhatsApp.
 
+Nadat ik mijn gsm terug op nul had gezet,ging ik opnieuw van start met mijn google assistent. Dit keer probeerde ik het alleen en het duurde 2 weken voordat hij terug werkte. 
+
