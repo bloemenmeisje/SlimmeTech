@@ -4,7 +4,9 @@ Deze assistent staat bekend om haar prachtige stem. Ook al vinden zoveel mensen 
 De slimme assistent staat bekend als Apple Siri maar is in feite pas in 2010 overgenomen door apple. Dat is 3 jaar na de eerste ontwikkelingen.Het is dus ook geen verrassing als ik zeg dat Siri goed werkt met Appledevices en apple diensten. Siri is echter onbruikbaar op een apparaat dat niet van apple is. Ook zijn er weinig opties qua hardware en skills. De skills die er zijn zijn vrijwel in orde, maar de resultaten van vragen en opdrachten zijn niet helemaal goed uitgevoerd of beantwoord.
 Daarentegen hebben we dan een slechte beoordeling voor spraakuitvoer,apparaatkeuze, begrijpen van betekenis en de mogelijkheden.
 
-Deze assistent is erg geschikt voor financiele hulp, muziek te beluisteren met AirPlay2 en iTunes.Via de smartfhone kan men ook  de thermostaat en roluiken beheren.
+
+De assistent wordt gebruikt voor financiele hulp zoals betalingen en investeringen beheren maar ook rekeningen en facturen opmaken en doorsturen. Muziek luisteren met AirPlay2, Spotify en iTunes is vrij eenvoudig, met andere muziekspelers lukt dit echter niet. Dit geldt ook voor foto's en films.
+Slimme aparaten worden ook door Siri bestuurd maar ook hierbij moet het besturingssysteem aanvaard worden door apple.
 
 ## brononderzoek
 
