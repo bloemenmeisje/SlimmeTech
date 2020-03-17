@@ -15,6 +15,6 @@ https://www.apple.com/siri/
 ### informatie over de bron
 
 Deze bron is gemaakt door Apple met het doel om mensen het te laten gebruiken en extra te verkopen. De bron is gemaakt in Amerika en Apple verkoopt ook nog andere producten zoals een Iphone, Ipad en andere producten.
-Dit is ook een geschreven bron en ook deze is erg represantief voor dit werk. Het publiek is voornamelijk bedoelt voor applegebruikers.
-Ik kan met deze mensen ook niet in contact treden.
+Dit is ook een geschreven bron en niet erg represantief voor dit werk. Op de website vind je amper info over het product en heeft enkel het doel om er mooi uit te zien en te verkopen. Het publiek is dan ook voornamelijk bedoelt voor applegebruikers.
+Ik kan met deze mensen ook niet in contact treden, want dan kom je bij de klantenservice.
 
