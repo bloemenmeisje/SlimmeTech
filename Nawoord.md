@@ -1,0 +1,1 @@
+Alles lijkt economisch ingesteld
