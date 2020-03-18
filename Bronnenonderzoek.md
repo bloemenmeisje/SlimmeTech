@@ -85,7 +85,7 @@ ISBN : 9781617293702
 ##### Informatie over de bron
 
 Dit is een geschreven bron geschreven door Andrew W. Trask . Andrew trask is een Oxford student en onderzoeker bij Deepmind. Het doel van dit boek is om op een vrij eenvoudige manier Deep learning uit te leggen en te vertellen waarom hij vindt dat iedereen het moet leren. Het is zeer actuele informatie en gedrukt in Amerika. In tegenstelling tot de bovenstaande bronnen is deze bron totaal niet bedoelt om een product te verkopen maar om informatie te geven en iemand aan te moedigen om iets te leren.
-
+In het boek wordt uitgelegd wat een neural network is door middel van stoplichten. 
 
 
 
