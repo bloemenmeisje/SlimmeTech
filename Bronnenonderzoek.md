@@ -75,5 +75,15 @@ Het doel van deze website is dan ook om mensen met de producten te leren werken 
 Samsung verkoopt dus niet alleen Bixby maar ook andere producten zoals; Soundbars,Tv's, Smartphones, Tablets, Was- en droogmachines, inbouw van slimme aparaten en ook extra accessoires en aparte onderdelen.
 Samsung is dus de auteur van deze bron. Je kan contact met ze maken maar dan kom je opnieuwd bij de klantendienst die je zowel via Whatsapp, Messanger, Facebook, Twitter en Samsung Comunity een bericht kan sturen. Ook kan je bellen of langsgaan in hun servicelocaties waar ze vragen kunnen beantwoorden en reparatie service kunnen toepassen.
 
+---
+
+Titel: Deep learning
+
+Auteur: Andrew W. Trask
+
+ISBN : 9781617293702
+
+##### Informatie over de bron
+
 
 
