@@ -1,16 +1,27 @@
 # bronnen
 
-## Artikels
+## tijdschrift Artikels
+
+* tijdschrift:C'T
+
+  Uitgave: 12/2019
+
+  Pagina: 34 tot 47
+
+* Tijdschrift: C'T
+
+  Uitgave: 1-2/2020
+
+  Pagina: 
+
+
+## krantenartikels
+
+https://www.wired.com/
 
 https://www.demorgen.be/tech-wetenschap/google-assistent-kan-nu-ook-berichten-verzenden-zo-doe-je-het~b95785c8/
 
-https://assistant.google.com/intl/nl_nl/
-
 https://blog.floydhub.com/gpt2/
-
-## kranten
-
-https://www.wired.com/
 
 ## video's en documentaires
 
@@ -20,11 +31,11 @@ https://www.youtube.com/watch?v=wL7tSgUpy8w
 
 ## Boeken
 
-Titel: Deep Learning
+* Titel: Deep Learning
  
-Auteur: andrew W Trask
+  Auteur: andrew W Trask
 
-ISBN : 9781617293702
+  ISBN : 9781617293702
 
 ## websites
 
