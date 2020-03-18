@@ -21,24 +21,24 @@ Ook kan je de ondersteunende apps zien en de apps die kunnen helpen met het verk
 Hieronder een klein overzichtje van de apps en ideeën die je er kan vinden. 
 Als je naar de tab "Wat kan het doen" gaat, zal je eerst een paar apps vinden die Goodgle je adviseerten daaronder wat er nieuw is. 
 Daarnaast kan je ook een hele lijst vinden van andere apps en opties: 
-Bediening voor in huis ( hiermee kan je verlichting, verwarming en huishoudelijke apparatuur regelen enz. )
-Eten en drinken ( hiermee kan je maaltijden/koffie bestellen, recepten opzoeken, restaurants en cafés opzoeken enz.)
-Film, foto en tv ( hiermee kan je tv-programma's/films opzoekenen bekijken, Youtube videos opzoeken en bekijken, foto's beheren enz) 
-Games en amusement ( hiermee kan je games spelen, een quiz maken, citaten lezen, een moppentrommel raadplegen, verhalen zoeken en vertellen enz. )
-Gezondheid en fitness ( hiermee kan je informatie opzoeken over gezondheid en fitness, je kan ook begeleide oefeningen starten, voedingswaarde opzoeken, je bewegingsniveau bijbouden en aanpassingsmogelijkheid geven, medicatie bijhouden enz. )
-Kinderen en gezin ( 
-Kunst en lifestyle, 
-Lokaal, 
-Muziek en audio, 
-Nieuws en tijdschriften, 
-Opleiding en naslag, 
-Productiviteit, 
-Reizen en vervoer, 
-Shoppen, 
-Sociaal en communicatie, 
-Sport, 
-Weer,
-Zakelijk en financien.
+- Bediening voor in huis ( hiermee kan je verlichting, verwarming en huishoudelijke apparatuur regelen enz. )
+- Eten en drinken ( hiermee kan je maaltijden/koffie bestellen, recepten opzoeken, restaurants en cafés opzoeken enz.)
+- Film, foto en tv ( hiermee kan je tv-programma's/films opzoekenen bekijken, Youtube videos opzoeken en bekijken, foto's beheren enz) 
+- Games en amusement ( hiermee kan je games spelen, een quiz maken, citaten lezen, een moppentrommel raadplegen, verhalen zoeken en vertellen enz. )
+- Gezondheid en fitness ( hiermee kan je informatie opzoeken over gezondheid en fitness, je kan ook begeleide oefeningen starten, voedingswaarde opzoeken, je bewegingsniveau bijbouden en aanpassingsmogelijkheid geven, medicatie bijhouden enz. )
+- Kinderen en gezin ( hiermee kan je verhalen opzoeken en vertellen, een moppentrommel raadplegen, educatieve games opzoeken enz. )
+- Kunst en lifestyle ( hiermee kan je informatie opzoeken over kunst en cultuur, stijladviezen opvragen,horoscopen bekijken, schoonheidssalons opzoeken, lokale evenementen zoeken enz. )
+- Lokaal ( hiermee kan je allerhande lokale diensten opzoeken )
+- Muziek en audio ( hiermee kan je muziek en allerhande podcasts opzoeken, afspelen en beheren. )
+- Nieuws en tijdschriften ( hiermee kan je allerhande nieuws opvragen en lezen. )
+- Opleiding en naslag ( hiermee kan je allerlei informatie opvragen over verschillende domeinen, vertaalwerk doen, valuta omrekenen enz .)
+- Productiviteit ( hiermee kan je allerlei tijdsfuncties oproepen en beheren, agenda en afspraken regelen en beheren enz. )
+- Reizen en vervoer( hiermee kan je allerlei verkeersinformatie oproepen en boeken, hotels boeken enz. )
+- Shoppen ( hiermee kan je allerlei winkels zoeken, producten vergelijken, boodschappenlijstjes maken enz. )
+- Sociaal en communicatie ( hiermee kan je je contacten regelen, beheren, contacteren enz. )
+- Sport ( hiermee kan je allerhande informatie opvragen over sport, wedstrijden enz. )
+- Weer (  hiermee kan je allerhande weersnuttige informatie bekijken, opvragen enz. )
+- Zakelijk en financiën ( hiermee kan je financiële markten checken en controleren, financiële diensten opvragen enz. )
 
 Er zijn nog 2 tabs waarvan er 1 een overzicht geeft en de ander om te zien waar het beschikbaar is.
 
