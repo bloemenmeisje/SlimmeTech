@@ -11,7 +11,6 @@ De publiciteitsdatum kon ik niet vinden, maar de informatie is zeker actueel. De
 Het is erg duidelijk wat de organisatie voor doel heeft met de website. Ook de doelgroep is heel duidelijk, de Google gebruikers.
 Men kan met een paar hyperlinks naar de Google website zelf en ook naar de hulppagina voor Google assistent.
 
-### gevonden informatie bij de bron
 
 Op deze website vind je alle informatie die je nodig hebt om met Google assistent te leren werken. 
 Zo kan je hier voorbeelden vinden voor vragen en taken maar ook informatie en een link naar de hulppagina.
@@ -84,6 +83,9 @@ Auteur: Andrew W. Trask
 ISBN : 9781617293702
 
 ##### Informatie over de bron
+
+Dit is een geschreven bron geschreven door Andrew W. Trask . Andrew trask is een Oxford student en onderzoeker bij Deepmind. Het doel van dit boek is om op een vrij eenvoudige manier Deep learning uit te leggen en te vertellen waarom hij vindt dat iedereen het moet leren. Het is zeer actuele informatie en gedrukt in Amerika. In tegenstelling tot de bovenstaande bronnen is deze bron totaal niet bedoelt om een product te verkopen maar om informatie te geven en iemand aan te moedigen om iets te leren.
+
 
 
 
