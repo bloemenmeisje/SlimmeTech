@@ -21,13 +21,12 @@ Ook kan je de ondersteunende apps zien en de apps die kunnen helpen met het verk
 Hieronder een klein overzichtje van de apps en ideeën die je er kan vinden. 
 Als je naar de tab "Wat kan het doen" gaat, zal je eerst een paar apps vinden die Goodgle je adviseerten daaronder wat er nieuw is. 
 Daarnaast kan je ook een hele lijst vinden van andere apps en opties: 
-Bediening in huis, 
-Eten en drinken, 
-Film, 
-foto en tv,
-Games en amusement, 
-Gezondheid en fitness, 
-Kinderen en gezin, 
+Bediening voor in huis ( hiermee kan je verlichting, verwarming en huishoudelijke apparatuur regelen enz. )
+Eten en drinken ( hiermee kan je maaltijden/koffie bestellen, recepten opzoeken, restaurants en cafés opzoeken enz.)
+Film, foto en tv ( hiermee kan je tv-programma's/films opzoekenen bekijken, Youtube videos opzoeken en bekijken, foto's beheren enz) 
+Games en amusement ( hiermee kan je games spelen, een quiz maken, citaten lezen, een moppentrommel raadplegen, verhalen zoeken en vertellen enz. )
+Gezondheid en fitness ( hiermee kan je informatie opzoeken over gezondheid en fitness, je kan ook begeleide oefeningen starten, voedingswaarde opzoeken, je bewegingsniveau bijbouden en aanpassingsmogelijkheid geven, medicatie bijhouden enz. )
+Kinderen en gezin ( 
 Kunst en lifestyle, 
 Lokaal, 
 Muziek en audio, 
