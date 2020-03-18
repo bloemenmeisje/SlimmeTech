@@ -48,9 +48,22 @@ https://www.apple.com/siri/
 
 ##### informatie over de bron
 
-Deze bron is gemaakt door Apple met het doel om mensen het te laten gebruiken en extra te verkopen. De bron is gemaakt in Amerika en Apple verkoopt ook nog andere producten zoals een Iphone, Ipad en andere producten.
-Dit is ook een geschreven bron en niet erg represantief voor dit werk. Op de website vind je amper info over het product en heeft enkel het doel om er mooi uit te zien en te verkopen. Het publiek is dan ook voornamelijk bedoelt voor applegebruikers.
-Ik kan met deze mensen ook niet in contact treden, want dan kom je bij de klantenservice.
+Deze bron is gemaakt door Apple, met het doel, om mensen het te laten gebruiken en extra media te verkopen, er is dus een economisch doel. De bron is gemaakt in Amerika en Apple verkoopt ook nog andere producten zoals Iphone, Ipad en andere producten.
+
+Dit is ook een geschreven bron en niet erg representatief voor mijn jaarwerk. Op de website vind je amper info over het product en die heeft enkel tot doel om het er mooi uit te laten zien en zodoende meer te verkopen. Het publiek voor deze website bestaat dan voornamelijk bedoelt uit Applegebruikers.
+Dus vind je informatie over het gebruik voor Siri. Wat biedt Siri de mens allemaal aan ?
+-telefonie en berichten : Siri maakt het mogelijk om ten allen tijde in contact te staan met de wereld, zonder dat je daarvoor je vinger moet oplichten.
+- alledaagse taken : Siri is een snelle, gemakkelijke manier om allerlei nuttige dingen te doen doorheen je dag. 
+- muziek : Siri kan alle liedjes die jij wil horen, heel gemakkelijk vinden. Vraag het gewoon !
+- thuis : Siri is een slimme tool om je "smart" huis te regelen.
+- oneindige kennis ten allen tijde beschikbaar : Siri heeft antwoorden op alle mogelijke en allerhande vragen.
+- krachtige tool : Siri zoekt, verzendt en boekt sneller dat jij ooit zou kunnen.
+- Siri blijft voortdurend leren om jou steeds meer en optimaal te kunnen helpen. "Machine learning" maakt Siri steeds slimmer.
+- Siri houdt al jouw persoonlijke informatie bij en op een veilige manier.
+
+
+
+Ik kan met deze mensen/dit bedrijf ook niet in contact treden, want dan kom je bij een klantenservice.
 
 
 ---
