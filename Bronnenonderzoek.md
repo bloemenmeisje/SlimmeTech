@@ -4,16 +4,16 @@ https://assistant.google.com/
 
 ####### informatie over de bron
 
-De bron is een primaire bron. Deze bron is geschreven en heeft een informatief en economisch doel.
-Deze bron gaat over Google assistent en is vrij bertrouwbaar want het is gemaakt door de maker van Google assistent namelijk Google.
+De bron is een primaire bron. Het is een geschreven bron en heeft een informatief en economisch doel.
+Deze bron gaat over Google assistent en is vrij betrouwbaar want het is gemaakt door de maker van Google assistent namelijk Google.
 
-De publiciteitsdatum kon ik net vinden, maar de informatie is zeker actueel. De hyperlinks werken op de website en het taalgebruik kan men instellen in verschillende talen.
-Het is erg duidelijk wat de organisatie voor doel heeft met de website en de doelgroep is ook heel duidelijk, de Google gebruikers.
-Men kan met een paar hyperlinks naar de google website zelf en ook naar de hulppagina voor google asistent.
+De publiciteitsdatum kon ik niet vinden, maar de informatie is zeker actueel. De hyperlinks werken op de website en het taalgebruik kan men instellen in verschillende talen.
+Het is erg duidelijk wat de organisatie voor doel heeft met de website. Ook de doelgroep is heel duidelijk, de Google gebruikers.
+Men kan met een paar hyperlinks naar de Google website zelf en ook naar de hulppagina voor Google assistant.
 
 ### gevonden informatie bij de bron
 
-Op deze website vind je alle informatie die je nodig hebt om met google assistent te leren werken. Zo kan je hier voorbeelden vinden voor vragen en taken maar ook informatie en een link naar de hulppagina.
+Op deze website vind je alle informatie die je nodig hebt om met Google assistent te leren werken. Zo kan je hier voorbeelden vinden voor vragen en taken maar ook informatie en een link naar de hulppagina.
 Op de website zelf kan je ook enkele accesoires vinden om erbij te kopen( het economische gedeelte).
 
 Ook kan je de ondersteunde apps zien en de apps die kunnen helpen met het verkennen van je google assistent.
