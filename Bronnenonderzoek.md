@@ -61,10 +61,7 @@ Dus vind je informatie over het gebruik voor Siri. Wat biedt Siri de mens allema
 - Siri blijft voortdurend leren om jou steeds meer en optimaal te kunnen helpen. "Machine learning" maakt Siri steeds slimmer.
 - Siri houdt al jouw persoonlijke informatie bij en op een veilige manier.
 
-
-
 Ik kan met deze mensen/dit bedrijf ook niet in contact treden, want dan kom je bij een klantenservice.
-
 
 ---
 
@@ -72,7 +69,7 @@ https://www.samsung.com/be/apps/bixby/
 
 ##### informatie over de bron
 
-De info die je kan vinden op deze website is zeer actueel. men kan zelf de taal selecteren en dit is ook juist taalgebruik. De hyperlinks werken en men kan alle soorten informatie vinden op de site. Zo kan je teksten vinden maar ook lijstjes en video's. Deze website heeft een heel erg informatief en economish karakter.
+De info die je kan vinden op deze website is zeer actueel. Men kan zelfs de taal selecteren en dit is ook juist taalgebruik. De hyperlinks werken en men kan alle soorten informatie vinden op de site. Zo kan je teksten vinden maar ook lijstjes en video's. Deze website heeft een heel erg informatief maar ook economisch karakter.
 Het doel van deze website is dan ook om mensen met de producten te leren werken en ook extra verkopen. Het is dan ook erg duidelijk dat
 het publiek voornamelijk Samsung gebruikers zijn.
 
