@@ -1,6 +1,9 @@
-# Amazon alexa
+# Amazon Alexa
 
-Amazon kent wereldwijd succes met Alexa en zijn assistenten. Ze hebben 2 reeksen van assistenten, amazon Echo en Amazon Fire en de beroemde amazon Alexa. Alexa staat bekend om haar aangename stem en de goede uitspraak van moeilijke zinnen. Je kan buiten hun eigen echo-reeks en fire-reeks ook met 'alexa-build-in' in andere apparaten werken. En dit kan zelfs bij andere fabrikanten.
+Amazon kent wereldwijd succes met Alexa en zijn assistenten. Alexa is het spraaksysteem van Amazon. Het is genoemd naar de wereldberoemde bibliotheek van Alexandrië en het kan vragen beantwoorden en opdrachten uitvoeren die jij met je stem geeft. Zo kun je Alexa vragen om muziek af te spelen of de lampen te dimmen. 
+Je activeert Alexa door het activatiewoord te roepen, gevolgd door de opdracht. Als activatiewoord kun je kiezen uit vier opties: Alexa, Echo, Amazon of Computer. Je moet één van deze vier woorden kiezen. Daarna zeg je wat je gedaan wilt hebben. Hiervoor gebruik je natuurlijke taal, al helpt het wel als je zo duidelijk mogelijk bent. 
+
+Ze hebben 2 reeksen van assistenten, amazon Echo en Amazon Fire en de beroemde amazon Alexa. Alexa staat bekend om haar aangename stem en de goede uitspraak van moeilijke zinnen. Je kan buiten hun eigen echo-reeks en fire-reeks ook met 'alexa-build-in' in andere apparaten werken. En dit kan zelfs bij andere fabrikanten.
 
 Amazon Alexa is helaas niet Nederlandstalig . Bij de brief- mode reageert Alexa door middel van korte of lange tonen.
 Ook is Alexa niet de beste in kennisvragen (bv. hoe oud is de Taj Mahal?  Hier antwoordde Alexa dat het monument 77 jaar oud is maar ze bedoelde hiermee een gelijknamige muzikant.).
