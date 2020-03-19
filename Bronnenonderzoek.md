@@ -84,8 +84,59 @@ ISBN : 9781617293702
 
 ##### Informatie over de bron
 
-Dit is een geschreven bron geschreven door Andrew W. Trask . Andrew trask is een Oxford student en onderzoeker bij Deepmind. Het doel van dit boek is om op een vrij eenvoudige manier Deep learning uit te leggen en te vertellen waarom hij vindt dat iedereen het moet leren. Het is zeer actuele informatie en gedrukt in Amerika. In tegenstelling tot de bovenstaande bronnen is deze bron totaal niet bedoelt om een product te verkopen maar om informatie te geven en iemand aan te moedigen om iets te leren.
+Dit is een geschreven bron geschreven door Andrew W. Trask . Andrew trask is een Oxford student en onderzoeker bij Deepmind.Het is in het engels geschreven. Het doel van dit boek is om op een vrij eenvoudige manier Deep learning uit te leggen en te vertellen waarom hij vindt dat iedereen het moet leren. Het is zeer actuele informatie en gedrukt in Amerika. In tegenstelling tot de bovenstaande bronnen is deze bron totaal niet bedoelt om een product te verkopen maar om informatie te geven en iemand aan te moedigen om iets te leren.
 In het boek wordt uitgelegd wat een neural network is door middel van stoplichten. 
+Per hoofdsctuk leer je iets nieuw bij:
 
+- H1: In dit hoofdstuk vertelt hij je waarom hij vindt dat iedereen Deep learning zou moeten leren
+- H2: Hij geeft je in dit hoofdstuk machine learning in een hele kleine notendop en welke methodes er zijn voor machine learning toe te passen
+- H3: In dit hoofdstuk leer je wat een "Neural Network" is, wat het doet en hoe je maakt.
+- H4: Hij leert je dat Error altijd positief moet zijn en hoe je om moet gaan met de vergelijking "Weight_delta"
+- H5: hij leert je de vergelijking "Weight_delta" gebruiken met meerdere "Weights" tegelijkertijd.
+- H6: 
 
+---
 
+magazine: C'T
+
+Uitgave: 12/2019
+
+Pagina: 34 tot 47
+
+##### Informatie over de bron
+
+Dit is een geschreven bron en een primaire bron. Ook dit is niet echt economisch bedoelt maar ook voor info te geven en extra te beseffen wat het inhoud.
+In deze uitgave kan je een mooi overzicht over wat assistent kunnen, de assistent van de toekomst,over de combinatie van assistenten en privacy en de test tussen verschillende assistenten. Er wordt in een tabel duidelijk weergegeven wat de basis verschillen zijn tussen de verschillende assistenten.
+Zo leer je niet alleen de grote verschillen, maar ook waar je ze kan vinden en wat er in de toekomst gaat gebeuren.
+
+De slimme assistenten zitten tegenwoordig in veel aparaten ingebouwd.dit noemt men dan slimme aparaten. hier is een kleine opsomming van waar ze het meest te vinden zijn:
+
+- Smartspeakers en soundbars
+
+- Tv's en mediaspelers
+
+- Smartphones en tablets
+
+- Smartwatches
+
+- Smart-displays
+
+- in de auto
+
+Het artikel is onderverdeeld in verschillende onderdelen; Wat assistenten kunnen en wat ze voor bedoeling hebben(1), De test tussen verschillende assistenten (2), de assistent en de toekomst (3), assistenten en privacy (4).
+
+1. Wat assistenten kunnen en wat ze voor bedoeling hebben.
+
+In dit onderdeeltje wordt er in gegaan op de spraaksynthese, hoe dit werkt, waarom het online is en de functionaliteit.
+
+2. de test tussen verschillende assistenten.
+
+Er wordt ingegaan op de verschillende stemmen,dagelijkse bezigheden,de kennisdatabase, muziek en video,  smartphone,communicatie ,de conclusie, waar ze te vinden zijn. Ook zijn er 2 erg overzichtelijke tabellen.
+
+3. de assistent en de toekomst.
+
+Hier wordt er in gegaan over Apple, de verwachte vernieuwingen, de toekomstige auto's, de assistenten tegonver offline en de assistenten over bepaalde termijn.
+
+4. assistenten en privacy
+
+In dit onderdeeltje wordt er erg gefocust om "wat onthoudt de assistent?" en de relatie tussen assistenten en privacy.
