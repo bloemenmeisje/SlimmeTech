@@ -140,3 +140,8 @@ Hier wordt er in gegaan over Apple, de verwachte vernieuwingen, de toekomstige a
 4. assistenten en privacy
 
 In dit onderdeeltje wordt er erg gefocust om "wat onthoudt de assistent?" en de relatie tussen assistenten en privacy.
+
+---
+
+https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011
+

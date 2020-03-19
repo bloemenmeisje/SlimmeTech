@@ -58,6 +58,8 @@ https://www.amazon.com/b/ref=aeg_d_nav_cat/ref=s9_acss_bw_cg_acpnav_md1_w?node=1
 
 https://developer.amazon.com/en-US/alexa
 
+https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011
+
 ##### google assistent
 
 https://assistant.google.com/
