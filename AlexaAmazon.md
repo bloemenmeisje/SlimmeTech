@@ -6,9 +6,10 @@ Je activeert Alexa door het activatiewoord te roepen, gevolgd door de opdracht. 
 
 Ze hebben 2 reeksen van assistenten, amazon Echo en Amazon Fire en de beroemde amazon Alexa. Alexa staat bekend om haar aangename stem en de goede uitspraak van moeilijke zinnen. Je kan buiten hun eigen echo-reeks en fire-reeks ook met 'alexa-build-in' in andere apparaten werken. En dit kan zelfs bij andere fabrikanten.
 
-Amazon Alexa is helaas niet Nederlandstalig . Bij de brief- mode reageert Alexa door middel van korte of lange tonen.
+Amazon Alexa is helaas niet Nederlandstalig dus opdrachten moeten in het Engels gegeven worden.
+Of Amazon Alexa ooit Nederlands en Vlaams zal spreken, is een groot vraagteken. Momenteel werkt de assistent alleen in het Engels, Duits, Frans en Japans. Amazon zal in de toekomst ook eerder kiezen voor Spaans, Chinees en andere talen waarmee ze in één klap een groot gebied kunnen afvinken.
+
 Ook is Alexa niet de beste in kennisvragen (bv. hoe oud is de Taj Mahal?  Hier antwoordde Alexa dat het monument 77 jaar oud is maar ze bedoelde hiermee een gelijknamige muzikant.).
-Sinds kort is hier ook de optie te nemen voor gecombineerde zinnen, nu kan men dus 2 commando's geven in 1 zin.
 
 ## brononderzoek
 
