@@ -1,3 +1,4 @@
+
 # Amazon Alexa
 
 Amazon kent wereldwijd succes met Alexa en zijn assistenten. Alexa is het spraaksysteem van Amazon. Het is genoemd naar de wereldberoemde bibliotheek van Alexandrië en het kan vragen beantwoorden en opdrachten uitvoeren die jij met je stem geeft. Zo kun je Alexa vragen om muziek af te spelen of de lampen te dimmen. 
