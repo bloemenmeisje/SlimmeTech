@@ -1,1 +1,1 @@
-Alles lijkt economisch ingesteld
+Na een heleboel informatie te hebben verzameld heb ik het gevoel dat mijn mening wel veranderd is tegenover in het begin van het jaar. In het begin dacht er niet zo na over het gebruik van google assistent of andere assistenten. Ik dacht er niet bij echt bij na hoe veel Amazon en google van ons wist. Na zo een jaar te zoeken naar allemaal informatie heb ik wel verschillende schokkende ontdekkingen gedaan. Ik vind het schandalig dat google, Amazon en facebook zoveel weten van ons.
