@@ -1,3 +1,6 @@
-ik heb gekozen voor het onderwerp Slimme Technologie. Hieronder kon ik verschillende onderdelen kiezen. Ik ben gegaan voor spraakassisteneten met een beetje invloed van Dl (DeepLearning). Dl hoort onder onder Artificiele intelegentie net als MachineLearning (ML). ik vond het een interresant onderwerp omdat het iets is dat we nu, maar ook de komende jaren nog veel gaan gebruiken. Men ziet het steeds meer voorbij komen en superveel gezinnen hebben wel een spraakassistent thuis.
-Ik heb vorige jaren ook online gewerkt dus ga ik dit jaar ook online werken. Het is ook een goed onderwerp voor mijn jaarwerk online te maken.
-Ik hoop een antwoord te krijgen op 2 vragen; Hoe zal de technologie van nu veranderen naar de toekomst? en 
+ik heb gekozen voor het onderwerp Slimme Technologie. Hieronder kon ik verschillende onderdelen kiezen. Ik ben gegaan voor spraakassistenten met een beetje invloed van Dl (DeepLearning). Dl hoort onder onder Artificiele intelegentie net als MachineLearning (ML). ik vond het een interresant onderwerp omdat het iets is dat we nu, maar ook de komende jaren nog veel gaan gebruiken. Men ziet het steeds meer voorbij komen en superveel gezinnen hebben wel een spraakassistent thuis.
+Voor mijn "doe" deel besloot ik om een assistent te leren kennen en ermee te werken.
+Ik heb de vorige jaren ook online gewerkt dus ga ik dit jaar ook online werken. Het is ook een goed onderwerp voor mijn jaarwerk online te maken.
+Ik hoop een antwoord te krijgen op 2 vragen; Hoe zal de technologie van nu veranderen naar de toekomst? en hoe werkt zo een spraakassistent?.
+
+Ik begin met de informatie te verzamelen over verschillende spraakassistenten zoals; Google Assistent, Apple siri, Bixby van Samsung,.... Toen ik hier behoorlijk wat informatie over had gevonden, ben ik begonnen met dit op te schrijven en een boek  te lezen. Na dit boekl te lezen is het plan om andere bronnen ook te beschrijven.
