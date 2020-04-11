@@ -20,7 +20,12 @@ Ik deed de updates van androit en googel en downloade de google play services. O
 
 Ik vond het best moeilijk om dingen te vragen aan 'mijn' assistent. in het begin was het voornamelijk de basic vragen die ik stelde:" wat voor weer wordt het morgen?"," Wie is de  president van amerika?" en " wat is de wortel van 9?". Ik bedacht me dat ik mischien wel muziek kon laten afspelen of iemand bellen. na  een paar keer geprobeert te hebben lukte het bellen maar de muziek laten spelen was een hele leerzame tijd. Eerst vroeg ik een nummer af te spelen door middel van een atist, album en/of de titel. Nadien vroeg ik om YouTube te openen en een liedje op te zoeken,dit ging al wel. Toen ik hetzelfde vroeg met YouTube Music App werkte dit echter niet. Nadat ik dit enkele keren had geprobeert werkte het uiteindelijk wel.
 
-Nu ik muziek kon afspelen zou ik ook een bericht kun moeten sturen bedacht ik me dus ik vroeg aan google via WhatsApp een bericht te sturen, dit deed hij echter niet en leidde mij via berichten op mijn gsm dan via mijn WhatsApp.
+Nu ik muziek kon afspelen zou ik ook een bericht kunnen moeten sturen bedacht ik me dus ik vroeg aan google via WhatsApp een bericht te sturen, dit deed hij echter niet en leidde mij via berichten op mijn gsm dan via mijn WhatsApp.
 
-Nadat ik mijn gsm terug op nul had gezet,ging ik opnieuw van start met mijn google assistent. Dit keer probeerde ik het alleen en het duurde 2 weken voordat hij terug werkte. 
+ In de krokus vakantie zette ik mijn gsm op nul.Nadat ik dit had gedaan,ging ik opnieuw van start met mijn google assistent. dit betekende ook dat ik van nul moest beginnnen. Ik starte terug met alles na te kijken; 1 GB hebben ging niet moeilijk vanaf een lege telefoon,ik de mijn updates voor google en ook voor androit en instaleerde google play services. Toen ik dat allemaal had gedaan instaleerde ik de app van google assistent en opende de app op goed geluk. Het werkte niet, dat was erg jammer. Ik ging in mijn hoofd alle stappen na die ik  had gedaan maar kon de fout niet vinden. 
+De volgende dag besloot ik opnieuw te proberen en gooide de app van google assistent weg. IK bekeek alles opnieuw en merkte dat er een nieuwe update was voor google.  IK deed deze en probeerde opnieuw. Ik instaleerde google assitent en probeerde opnieuw. NOg steeds werkte het niet.
+IK liet het een week rusten en bedacht iedere dag wat er mis kon zijn.
+
+
+ Dit keer probeerde ik het alleen en het duurde 2 weken voordat hij terug werkte.
 
