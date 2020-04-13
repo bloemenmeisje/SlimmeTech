@@ -16,6 +16,8 @@ wat vind je van de privacy achter deze assistenten?
 
 Denk je dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
 
+vind je het ok dat Google, Amazon enz... zoveel weten van mensen?
 
+welke van de vier assistenten lijkt je beter en zou je eerder gebruiken?
 
 
