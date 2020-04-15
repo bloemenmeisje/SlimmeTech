@@ -10,14 +10,13 @@ Gelooft u dat deze vorm van Artifieciele Intiligentie gaat blijven groeien en wa
 
 Wat zijn volgens u de meest gebruikte assistenten ?
 
-Denkt u dat meer mensen ze  moeten gebruiken, waarom wel of niet?
-
+Vindt u dat men de spraakassistenten altijd en overal moeten toepassen, zoals we nu onze gsm gebruiken ?
 
 Denkt u dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
 
 Vindt u dat de grote assistenten ons genoeg privacy geven, of geven we onze privacy helemaal op?
 
 
-Welke van de vier assistenten lijkt u beter en zou u eerder gebruiken?
+
 
 
