@@ -28,4 +28,6 @@ IK liet het een week rusten en bedacht iedere dag wat er mis kon zijn. Dit was e
 Ik starte opnieuw met alles van apps voor mijn google assistent van mijn gsm te gooien en ze opnieuw te instaleren. Dit keer checkte ik ook op de 1 GB; dit was het probleem. IK zorgde voor de 1 GB en nu werkte het wel. Omdat ik het al een keer had ingesteld bij google(gberuik van antwoorden door google assistent) hoefde ik dit niet opnieuw te doen. In totaal lukte dit terug na 2 weken. Ik probeerde het dit keer alleen.
 
 Ik probeerde de youtube music app te openen rechtstreeks  door te vragen aan Google assistent. Dit lukte niet dus probeerde ik een andere manier te vragen. Eens dit lukte probeerde ik het ook via youtube, dit werkte ook.
-Ik zocht ook veel het weer op en na een week iedere dag het weer te vragen,begon google Assistent uit zichzelf meldingen te sturen met de voorspellingen
+Ik zocht ook veel het weer op en na een week iedere dag het weer te vragen,begon google Assistent uit zichzelf meldingen te sturen met de voorspellingen. hier verschoot ik best wel van want dit had ik niet verwacht.
+
+Ik probeerde ook een alarm in te stellen maar dit ging vanaf de eerste keer goed. bellen was echter een groter probleem, als je vroeg voor iemande op te bellen deed die dat via  gewoon contacten en dan bellen. Dit was echter wel handig maar ik mijn oorspronkelijke doel was om iemand te kunnen bellen via Whatsapp, dit lukte dus niet. Ik probeerde opnieuw door mijn vraag anders te formuleren : Bel ... via whatsapp.
