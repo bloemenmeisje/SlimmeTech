@@ -1,6 +1,6 @@
 ### intervieuw vragen en antwoorden
 
-Wat vindt u van gebruik van slimme spraakassistenten ?
+Wat vindt u van het gebruik van slimme spraakassistenten ?
 
 Gebruikt u zelf een slimme spraakassistent, zo ja welke?
 
@@ -8,9 +8,11 @@ Waarom heeft u hiervoor gekozen ?
 
 Gelooft u dat deze vorm van Artifieciele Intiligentie gaat blijven groeien en waarom ?
 
-Wat zijn volgens u de meest gebruikte assistenten ?
+Wat zijn volgens u de meest gebruikte spraakassistenten ?
 
-Vindt u dat men de spraakassistenten altijd en overal moeten toepassen, zoals we nu onze gsm gebruiken ?
+Wat zijn volgens u, de voordelen en nadelen van het gebruik van een spraakassistent?
+
+Vindt u dat men de spraakassistenten altijd en overal zouden moeten toepassen, zoals we nu onze gsm gebruiken ?
 
 Denkt u dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
 
