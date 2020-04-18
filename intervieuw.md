@@ -6,7 +6,7 @@ Gebruikt u zelf een slimme spraakassistent, zoja, welke?
 
 Waarom heeft u hiervoor gekozen ?
 
-Gelooft u dat deze vorm van Artificiele Intelligentie gaat blijven groeien en waarom ?
+Gelooft u dat deze vorm van Artificiële Intelligentie gaat blijven groeien en waarom ?
 
 Wat zijn volgens u de meest gebruikte spraakassistenten ?
 
