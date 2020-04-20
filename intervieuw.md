@@ -38,5 +38,5 @@ Op dit moment nog niet, maar toch, Tesla's zouden moeilijker te bedienen zijn. I
 
 ##### Vindt u dat de "grote" assistenten ons genoeg privacy geven, of geven we onze privacy helemaal op?
 
-nderdaad dit is het grootste negatief punt van deze technologie. Alhoewel jongeren er blijkbaar minder problemen mee hebben om hun privacy op te geven (is mijn indruk). De oudere generaties (zoals ik) hechten echter meer  belang aan hun privavy en zijn eerder sceptisch t.o.v. spraaktechnologie. Persoonlijk vind ik dat de technologie nog niet rijp genoeg is voor algemeen gebruik, maar over een paar jaar komt dit wel in orde.
+Inderdaad dit is het grootste negatief punt van deze technologie. Alhoewel jongeren er blijkbaar minder problemen mee hebben om hun privacy op te geven (is mijn indruk). De oudere generaties (zoals ik) hechten echter meer  belang aan hun privavy en zijn eerder sceptisch t.o.v. spraaktechnologie. Persoonlijk vind ik dat de technologie nog niet rijp genoeg is voor algemeen gebruik, maar over een paar jaar komt dit wel in orde.
 
