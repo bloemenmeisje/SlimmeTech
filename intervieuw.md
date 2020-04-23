@@ -40,10 +40,11 @@ Op dit moment nog niet, maar toch, Tesla's zouden moeilijker te bedienen zijn. I
 
 Inderdaad dit is het grootste negatief punt van deze technologie. Alhoewel jongeren er blijkbaar minder problemen mee hebben om hun privacy op te geven (is mijn indruk). De oudere generaties (zoals ik) hechten echter meer  belang aan hun privavy en zijn eerder sceptisch t.o.v. spraaktechnologie. Persoonlijk vind ik dat de technologie nog niet rijp genoeg is voor algemeen gebruik, maar over een paar jaar komt dit wel in orde.
 
+- - - 
 
 #### antwoorden van : Bert van Vreckem
 
-#####Wat vindt u van het gebruik van slimme spraakassistenten ? 
+##### Wat vindt u van het gebruik van slimme spraakassistenten ? 
 
 Ik vind deze een gevaar voor mijn privacy. Ik vertrouw de bedrijven die deze systemen verkopen niet. Zie bv. https://www.theguardian.com/technology/2019/jul/11/google-home-assistant-listen-recordings-users-privacy
 
@@ -82,4 +83,46 @@ Nee, totaal niet. Slimme assistenten zijn een luxe, men kan perfect zonder
 ##### Vindt u dat de "grote" assistenten ons genoeg privacy geven, of geven we onze privacy helemaal op?
 
 Ik denk dat mijn eerdere antwoorden al aangeven wat mijn standpunt hierover is... ;-) Ik vertrouw de bedrijven niet voldoende om onze privacy te bewaren. Het gaat hier per slot van rekening over Amerikaanse bedrijven die andere opvattingen hebben over welk recht op privacy wij, de gebruikers, hebben. De Europese wetgeving biedt gelukkig meer bescherming dan de Amerikaanse, maar inbreuken zullen ongetwijfeld blijven gebeuren.
+
+- - -
+ 
+#### antwoorden van: kris
+
+##### Wat vindt u van het gebruik van slimme spraakassistenten ?
+
+Meestal onbruikbaar.. 
+
+##### Gebruikt u zelf een slimme spraakassistent, zoja, welke?
+
+Neen.. telkens ik probeerde om ze te gebruiken kawm ik met slechte resultaten uit.   Muziek opzetten, Adressen invoeren .. telkens loop ik tegen veeel te hoge foutmarges tov input op en aandere
+manier.  Zelfs simpelweg licht aandoen via Google home zijn dingen die nog lang niet vlekkeloos werken.
+
+##### Waarom heeft u hiervoor gekozen ?
+
+##### Gelooft u dat deze vorm van Artificiële Intelligentie gaat blijven groeien en waarom ?
+
+Spraak herkenning heeft niets met artificiele intelligentie te maken..  dat is patroon analyse, conversie en daarna is het vandaag de dag nog voornamelijk traditionele search engines die hun werk doen
+voor het antwoorden 
+
+##### Wat zijn volgens u de meest gebruikte spraakassistenten ?
+
+Bij ons voornamelijk Alexa, Siri, Google  in Azie staan ze met andere talen al veel verder..
+
+##### Wat zijn volgens u, de voordelen en/of nadelen van het gebruik van een spraakassistent?
+
+Nadelen zijn voornamelijk het gebrek aan ondersteuning voor andere talen, en het feit dat een zeer groot deel van de instructies die je geeft ofwel fout ofwel half geinterpreteerd worden.
+Met sommige stemmen  hebben de tools het extreem moeilijk.
+
+##### Vindt u dat men de spraakassistenten altijd en overal zouden moeten toepassen, zoals we nu onze gsm gebruiken ?
+
+Nee, op andere maniere instructies geven aan devices gaat soms nog altijd veel sneller
+
+##### Denkt u dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
+
+Aangezien ik er quasi geen gebruik van maak.. denk ik niet dat er een groot verschil zou zijn..
+
+##### Vindt u dat de "grote" assistenten ons genoeg privacy geven, of geven we onze privacy helemaal op?
+
+Not even remotely ... , we hebben totaal geen controle over wat zij qua privacy garanderen,  als je die dingen begint te gebruiken ben je echt wel een aantal aspecten van je privacy aan het opvgeven.
+
 
