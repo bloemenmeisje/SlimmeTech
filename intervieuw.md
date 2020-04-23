@@ -40,6 +40,7 @@ Op dit moment nog niet, maar toch, Tesla's zouden moeilijker te bedienen zijn. I
 
 Inderdaad dit is het grootste negatief punt van deze technologie. Alhoewel jongeren er blijkbaar minder problemen mee hebben om hun privacy op te geven (is mijn indruk). De oudere generaties (zoals ik) hechten echter meer  belang aan hun privavy en zijn eerder sceptisch t.o.v. spraaktechnologie. Persoonlijk vind ik dat de technologie nog niet rijp genoeg is voor algemeen gebruik, maar over een paar jaar komt dit wel in orde.
 
+
 #### antwoorden van : Bert van Vreckem
 
 #####Wat vindt u van het gebruik van slimme spraakassistenten ? 
