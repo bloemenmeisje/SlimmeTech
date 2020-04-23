@@ -93,7 +93,7 @@ Per hoofdsctuk leer je iets nieuw bij:
 - H3: In dit hoofdstuk leer je wat een "Neural Network" is, wat het doet en hoe je maakt.
 - H4: Hij leert je dat Error altijd positief moet zijn en hoe je om moet gaan met de vergelijking "Weight_delta"
 - H5: hij leert je de vergelijking "Weight_delta" gebruiken met meerdere "Weights" tegelijkertijd.
-- H6: 
+- H6: Hij leert je je eerste Neural Network te maken
 
 ---
 
