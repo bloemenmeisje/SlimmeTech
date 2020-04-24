@@ -1,6 +1,6 @@
 ### intervieuw
 
-#### antwoorden van: Gratien D'haese
+#### antwoorder 1
 
 ##### Wat vindt u van het gebruik van slimme spraakassistenten ?
 
@@ -42,7 +42,7 @@ Inderdaad dit is het grootste negatief punt van deze technologie. Alhoewel jonge
 
 - - - 
 
-#### antwoorden van : Bert van Vreckem
+#### antwoorder 2
 
 ##### Wat vindt u van het gebruik van slimme spraakassistenten ? 
 
@@ -86,7 +86,7 @@ Ik denk dat mijn eerdere antwoorden al aangeven wat mijn standpunt hierover is..
 
 - - -
  
-#### antwoorden van: kris Buytaert
+#### antwoorder 3
 
 ##### Wat vindt u van het gebruik van slimme spraakassistenten ?
 

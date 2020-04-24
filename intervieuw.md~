@@ -86,7 +86,7 @@ Ik denk dat mijn eerdere antwoorden al aangeven wat mijn standpunt hierover is..
 
 - - -
  
-#### antwoorden van: kris
+#### antwoorden van: kris Buytaert
 
 ##### Wat vindt u van het gebruik van slimme spraakassistenten ?
 
