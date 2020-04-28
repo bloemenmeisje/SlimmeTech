@@ -1,3 +1,6 @@
+compleet
+# spraaktechnologie
+
 _Deze tekst is grotendeels overgenomen uit Nederlandse Wikipedia-artikelen:_
 
 - [Lernout_%26_Hauspie](https://nl.wikipedia.org/wiki/Lernout_%26_Hauspie)
@@ -7,7 +10,7 @@ _Deze tekst is grotendeels overgenomen uit Nederlandse Wikipedia-artikelen:_
 
 --- 
              
-# Lernout & Hauspie
+## Lernout & Hauspie
 
 Lernout & Hauspie was een door Jo Lernout, Pol Hauspie en Nico Willaert opgericht spraaktechnologiebedrijf Lernout & Hauspie Speech Products.
 

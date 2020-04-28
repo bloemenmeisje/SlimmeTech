@@ -9,7 +9,6 @@ _Deze tekst is grotendeels overgenomen uit Nederlandse Wikipedia-artikelen:_
              
 # Lernout & Hauspie
 
-
 Lernout & Hauspie was een door Jo Lernout, Pol Hauspie en Nico Willaert opgericht spraaktechnologiebedrijf Lernout & Hauspie Speech Products.
 
 Jo Lernout en Paul Hauspie begonnen in 1987 met een bedrijf in spraaktechnologie. Paul was boekhouder, Lernaut verkocht computers. Samen hadden ze de visie om computers met de stem te laten bedienen.
