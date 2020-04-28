@@ -125,4 +125,43 @@ Aangezien ik er quasi geen gebruik van maak.. denk ik niet dat er een groot vers
 
 Not even remotely ... , we hebben totaal geen controle over wat zij qua privacy garanderen,  als je die dingen begint te gebruiken ben je echt wel een aantal aspecten van je privacy aan het opvgeven.
 
+---
+
+#### antwoorder 4
+
+##### Gebruikt u zelf een slimme spraakassistent, zoja, welke?
+
+Ze begrijpt mij niet :).Wij komen niet zo goed overeen. Ik Heb alleen met de ene die in mijn Chinese pardon Koreaanse telefoon
+woont gesproken. Wist je dat: sinds 2015 heeft korea de Amerika verplaatst als grootste autofabrikant.
+
+##### Waarom heeft u hiervoor gekozen ?
+
+Omdat ze tegen mij gezegd hadden dat die op linux is gabakken. Maar ze hebben daar ook java op gesmeerd.
+
+##### Gelooft u dat deze vorm van Artificiële Intelligentie gaat blijven groeien en waarom ?
+
+In de ai wereld zijn er winters en zomers. Der is een paar decades de winter geweest. En nu is de winter terug vorbij. Ik had ergens gelezen dat er twee verschillende scholen zijn van ai. De ene van de vorige generatie. En de ene van nu. En ze spreken elkaar tegen op sommige vlakken. De antwoord zou zijn om van beide te leren en combineren.
+Wist je dat Dune van Frank Herbert blijkbaar over ai is? Dat wist ik niet.
+
+##### Wat zijn volgens u de meest gebruikte spraakassistenten ?
+
+Die van Fruit bedrijf, reklaam bedrijf, boekwinkel bedrijf en de vensters bedrijf. Ook chinesen hebben er ene zeker.
+
+##### Wat zijn volgens u, de voordelen en/of nadelen van het gebruik van een spraakassistent?
+
+Leven gemakkelijker voor de invaliden, of als je al in je bed ligt enwilt de wekker aanpassen kunde misschien roepen ipv opstaan.
+
+##### Vindt u dat men de spraakassistenten altijd en overal zouden moeten toepassen, zoals we nu onze gsm gebruiken ?
+
+Ik weet niet hoe dat het in Frankrijk met deze vraag zit. Ze kiezen wel standaard open source op het overheid nieuweau. Dus ze lijken redelijk progressief. Maar in de boek van jullian assange, de blonde gast die in Engeland zit opgesloten. Heb ik gelezen dat Duitsers een les hebben geleerd. En nu wordt er anti-centralisatie ingehammerd op alle onderwijs nieuweaus. Wist je dat de auteur van de blade runner geïnspireerd was door een agenda van een generaal van een concentratiekamp?
+
+##### Denkt u dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
+
+Op een of ander manier wat ik just aan dacht dat in de wereld van nu het is niet de God meer die in de wolken woont, maar de pinguïns naart schijnt. :D
+Ik weet niet hoe dat het assisteren zit. Maar het feit dat je een gadget kunt kopen die voor jou kan vertalen lijkt mij als een bevestiging dat the future is already here, its only not evenly distributed.
+
+##### Vindt u dat de "grote" assistenten ons genoeg privacy geven, of geven we onze privacy helemaal op?
+
+Misschien kunnen wij antwoorden op sommige van deze vragen in de culturen zoeken / vinden die al iets of wat hebben gezien. Als wij is de mensen in de buurt van de stadspark deze vragen kunnen stellen. Waarom
+dat ze geen tv of computer of internet thuis hebben. Bedoelde Johannes in de openbaring met een draak toevallig niet de Chinezen met hun traditionele draak? Die nu in de vorm van 5g aankomt. :)
 
