@@ -1,4 +1,3 @@
-niet compleet
 # bronnen
 
 ## tijdschrift Artikels
