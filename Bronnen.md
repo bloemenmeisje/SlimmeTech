@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=YNLC0wJSHxI
 
 https://www.youtube.com/watch?v=wL7tSgUpy8w
 
+Deel 1: https://www.youtube.com/watch?v=s0dMTAQM4cw
+
+Deel 2: https://www.youtube.com/watch?v=-ePZ7OdY-Dw
+
 ## Boeken
 
 * Titel: Deep Learning
