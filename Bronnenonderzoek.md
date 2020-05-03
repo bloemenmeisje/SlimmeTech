@@ -1,5 +1,4 @@
-﻿niet compleet
-# Bronnenonderzoek
+﻿# Bronnenonderzoek
 
 https://assistant.google.com/
 
