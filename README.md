@@ -1,4 +1,4 @@
-# Jaarwerk 10 de klas
+﻿# Jaarwerk 10 de klas
 ## Slimme technologie
 
 ### A.I

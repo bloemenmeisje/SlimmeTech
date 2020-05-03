@@ -1,12 +1,12 @@
-niet compleet
+﻿niet compleet
 # Bronnenonderzoek
 
 https://assistant.google.com/
 
 ######  informatie over de bron
 
-De bron is een primaire bron. Het is een geschreven bron en heeft een informatief en economisch doel.
-Deze bron gaat over Google assistent en is vrij betrouwbaar want het is gemaakt door de maker van Google assistent namelijk Google.
+Deze bron is een primaire bron. Het is een geschreven bron en heeft een informatief en economisch doel.
+Deze bron gaat over Google assistent en is vrij betrouwbaar want het is gemaakt door de maker van Google assistent zelf, namelijk Google.
 
 De publiciteitsdatum kon ik niet vinden, maar de informatie is zeker actueel. De hyperlinks werken op de website en het taalgebruik kan men instellen in verschillende talen.
 Het is erg duidelijk wat de organisatie voor doel heeft met de website. Ook de doelgroep is heel duidelijk, de Google gebruikers.
@@ -15,17 +15,18 @@ Men kan met een paar hyperlinks naar de Google website zelf en ook naar de hulpp
 
 Op deze website vind je alle informatie die je nodig hebt om met Google assistent te leren werken. 
 Zo kan je hier voorbeelden vinden voor vragen en taken maar ook informatie en een link naar de hulppagina.
-Op de website zelf kan je ook enkele accesoires vinden om erbij te kopen ( dit is het economische gedeelte).
+Op de website zelf kan je ook enkele accessoires vinden om erbij te kopen ( dit is het economische gedeelte).
 
 Ook kan je de ondersteunende apps zien en de apps die kunnen helpen met het verkennen van je Google assistent.
 Hieronder een klein overzichtje van de apps en ideeën die je er kan vinden. 
-Als je naar de tab "Wat kan het doen" gaat, zal je eerst een paar apps vinden die Goodgle je adviseerten daaronder wat er nieuw is. 
+
+Als je naar de tab "Wat kan het doen ? " gaat, zal je eerst een paar apps vinden die Google je adviseert en daaronder wat er nieuw is. 
 Daarnaast kan je ook een hele lijst vinden van andere apps en opties: 
 - Bediening voor in huis ( hiermee kan je verlichting, verwarming en huishoudelijke apparatuur regelen enz. )
 - Eten en drinken ( hiermee kan je maaltijden/koffie bestellen, recepten opzoeken, restaurants en cafés opzoeken enz.)
-- Film, foto en tv ( hiermee kan je tv-programma's/films opzoekenen bekijken, Youtube videos opzoeken en bekijken, foto's beheren enz) 
+- Film, foto en tv ( hiermee kan je tv-programma's/films opzoeken en bekijken, Youtube videos opzoeken en bekijken, foto's beheren enz) 
 - Games en amusement ( hiermee kan je games spelen, een quiz maken, citaten lezen, een moppentrommel raadplegen, verhalen zoeken en vertellen enz. )
-- Gezondheid en fitness ( hiermee kan je informatie opzoeken over gezondheid en fitness, je kan ook begeleide oefeningen starten, voedingswaarde opzoeken, je bewegingsniveau bijbouden en aanpassingsmogelijkheid geven, medicatie bijhouden enz. )
+- Gezondheid en fitness ( hiermee kan je informatie opzoeken over gezondheid en fitness, je kan ook begeleide oefeningen starten, voedingswaarde opzoeken, je bewegingsniveau bijhouden en aanpassingsmogelijkheid geven, medicatie bijhouden enz. )
 - Kinderen en gezin ( hiermee kan je verhalen opzoeken en vertellen, een moppentrommel raadplegen, educatieve games opzoeken enz. )
 - Kunst en lifestyle ( hiermee kan je informatie opzoeken over kunst en cultuur, stijladviezen opvragen,horoscopen bekijken, schoonheidssalons opzoeken, lokale evenementen zoeken enz. )
 - Lokaal ( hiermee kan je allerhande lokale diensten opzoeken )
@@ -37,7 +38,7 @@ Daarnaast kan je ook een hele lijst vinden van andere apps en opties:
 - Shoppen ( hiermee kan je allerlei winkels zoeken, producten vergelijken, boodschappenlijstjes maken enz. )
 - Sociaal en communicatie ( hiermee kan je je contacten regelen, beheren, contacteren enz. )
 - Sport ( hiermee kan je allerhande informatie opvragen over sport, wedstrijden enz. )
-- Weer (  hiermee kan je allerhande weersnuttige informatie bekijken, opvragen enz. )
+- Weer ( hiermee kan je allerhande nuttige informatie ivm het weer bekijken, opvragen enz. )
 - Zakelijk en financiën ( hiermee kan je financiële markten checken en controleren, financiële diensten opvragen enz. )
 
 Er zijn nog 2 tabs waarvan er 1 een overzicht geeft en de ander om te zien waar het beschikbaar is.
@@ -55,7 +56,7 @@ Dus vind je informatie over het gebruik voor Siri. Wat biedt Siri de mens allema
 -telefonie en berichten : Siri maakt het mogelijk om ten allen tijde in contact te staan met de wereld, zonder dat je daarvoor je vinger moet oplichten.
 - alledaagse taken : Siri is een snelle, gemakkelijke manier om allerlei nuttige dingen te doen doorheen je dag. 
 - muziek : Siri kan alle liedjes die jij wil horen, heel gemakkelijk vinden. Vraag het gewoon !
-- thuis : Siri is een slimme tool om je "smart" huis te regelen.
+- thuis : Siri is een slimme tool om je "smart-huis” te regelen.
 - oneindige kennis ten allen tijde beschikbaar : Siri heeft antwoorden op alle mogelijke en allerhande vragen.
 - krachtige tool : Siri zoekt, verzendt en boekt sneller dat jij ooit zou kunnen.
 - Siri blijft voortdurend leren om jou steeds meer en optimaal te kunnen helpen. "Machine learning" maakt Siri steeds slimmer.
@@ -70,10 +71,10 @@ https://www.samsung.com/be/apps/bixby/
 ##### informatie over de bron
 
 De info die je kan vinden op deze website is zeer actueel. Men kan zelfs de taal selecteren en dit is ook juist taalgebruik. De hyperlinks werken en men kan alle soorten informatie vinden op de site. Zo kan je teksten vinden maar ook lijstjes en video's. Deze website heeft een heel erg informatief maar ook economisch karakter.
-Het doel van deze website is dan ook om mensen met de producten te leren werken en ook extra verkopen. Het is dan ook erg duidelijk dat het publiek voor deze website voornamelijk Samsung gebruikers zijn.
+Het doel van deze website is dan ook om mensen met de producten te leren werken en dan ook extra te verkopen. Het is dan ook erg duidelijk dat het publiek voor deze website voornamelijk Samsung gebruikers zijn.
 
-Samsung verkoopt dus niet alleen Bixby maar ook andere producten zoals; Soundbars,Tv's, Smartphones, Tablets, Was- en droogmachines, inbouw van slimme aparaten en ook extra accessoires en aparte onderdelen.
-Samsung is dus de auteur van deze bron. Je kan contact met ze maken maar dan kom je opnieuwd bij de klantendienst die je zowel via Whatsapp, Messanger, Facebook, Twitter en Samsung Comunity een bericht kan sturen. Ook kan je bellen of langsgaan in hun servicelocaties waar ze vragen kunnen beantwoorden en reparatie service kunnen toepassen.
+Samsung verkoopt dus niet alleen Bixby maar ook andere producten zoals; Soundbars,Tv's, Smartphones, Tablets, wasmachines en droogmachines, inbouw van slimme apparaten en ook extra accessoires en aparte onderdelen.
+Samsung is dus de auteur van deze bron. Je kan contact met ze maken maar dan kom je opnieuw bij de klantendienst die je zowel via Whatsapp, Messanger, Facebook, Twitter en Samsung Community een bericht kan sturen. Ook kan je bellen of langsgaan in hun servicelocaties waar ze vragen kunnen beantwoorden en reparatie service kunnen toepassen.
 
 ---
 
@@ -85,25 +86,20 @@ ISBN : 9781617293702
 
 ##### Informatie over de bron
 
-Dit is een geschreven bron geschreven door Andrew W. Trask . Andrew trask is een Oxford student en onderzoeker bij Deepmind.Het is in het engels geschreven. Het doel van dit boek is om op een vrij eenvoudige manier Deep learning uit te leggen en te vertellen waarom hij vindt dat iedereen het moet leren. Het is zeer actuele informatie en gedrukt in Amerika. In tegenstelling tot de bovenstaande bronnen is deze bron totaal niet bedoelt om een product te verkopen maar om informatie te geven en iemand aan te moedigen om iets te leren.
+Dit is een geschreven bron geschreven door Andrew W. Trask . Andrew Trask is een Oxford student en onderzoeker bij Deepmind. Het is in het Engels geschreven. Het doel van dit boek is om op een vrij eenvoudige manier “Deep learning” uit te leggen en te vertellen waarom hij vindt dat iedereen het moet leren. Het is zeer actuele informatie en gedrukt in Amerika. In tegenstelling tot de bovenstaande bronnen is deze bron totaal niet bedoeld om een product te verkopen maar eerder om informatie te geven en iemand aan te moedigen om iets te leren.
 In het boek wordt uitgelegd wat een neural network is door middel van stoplichten. 
-Per hoofdsctuk leer je iets nieuw bij:
+Per hoofdstuk leer je iets nieuws bij:
 
-- H1: In dit hoofdstuk vertelt hij je waarom hij vindt dat iedereen Deep learning zou moeten leren
-- H2: Hij geeft je in dit hoofdstuk machine learning in een hele kleine notendop en welke methodes er zijn voor machine learning toe te passen
-- H3: In dit hoofdstuk leer je wat een "Neural Network" is, wat het doet en hoe je maakt.
-- H4: Hij leert je dat Error altijd positief moet zijn en hoe je om moet gaan met de vergelijking "Weight_delta"
-- H5: hij leert je de vergelijking "Weight_delta" gebruiken met meerdere "Weights" tegelijkertijd.
-- H6: Hij leert je je eerste neural netwerk te bouwen.
-- H7: Hij leert je hoe je zo een neural netwerk moet voorstellen,alles moet visualiseren en variabelen linken aan andere stappen die we maakten.
-- H8: Hij leert je hoe om te gaan met te grote neural networks en het gebruik van een dropout.
-- H9: hij leert je om te gaan met verschillende activerende functie's
-- H10: 
-
+- H1: In dit hoofdstuk vertelt de schrijver van het boek waarom hij vindt dat iedereen “Deep learning” zou moeten leren
+- H2: De schrijver geeft je in dit hoofdstuk “machine learning” in een hele kleine notendop en welke methodes er zijn om “machine learning” toe te passen
+- H3: In dit hoofdstuk leer je van de schrijver wat een "Neural Network" is, wat het doet en hoe je maakt.
+- H4: De schrijver leert je dat Error altijd positief moet zijn en hoe je om moet gaan met de vergelijking "Weight_delta".
+- H5: De schrijver leert je de vergelijking "Weight_delta" te gebruiken met meerdere "Weights" tegelijkertijd.
+- H6: In dit hoofdstuk leert de schrijver je een eerste Neural Network te maken.
 
 ---
 
-magazine: C'T
+magazine: C'T-magazine
 
 Uitgave: 12/2019
 
@@ -111,11 +107,14 @@ Pagina: 34 tot 47
 
 ##### Informatie over de bron
 
-Dit is een geschreven bron en een primaire bron. Ook dit is niet echt economisch bedoelt maar ook voor info te geven en extra te beseffen wat het inhoud.
-In deze uitgave kan je een mooi overzicht over wat assistent kunnen, de assistent van de toekomst,over de combinatie van assistenten en privacy en de test tussen verschillende assistenten. Er wordt in een tabel duidelijk weergegeven wat de basis verschillen zijn tussen de verschillende assistenten.
+Dit is een geschreven bron en een primaire bron. Ook dit is niet economisch bedoeld maar eerder ook om info te geven en extra te beseffen wat het inhoudt.
+In deze uitgave krijg je een mooi overzicht over wat assistenten kunnen, de assistent van de toekomst, over de combinatie van assistenten en privacy en een test tussen verschillende assistenten. Er wordt in een tabel duidelijk weergegeven wat de basisverschillen zijn tussen de verschillende assistenten.
 Zo leer je niet alleen de grote verschillen, maar ook waar je ze kan vinden en wat er in de toekomst gaat gebeuren.
 
-De slimme assistenten zitten tegenwoordig in veel aparaten ingebouwd.dit noemt men dan slimme aparaten. hier is een kleine opsomming van waar ze het meest te vinden zijn:
+De slimme assistenten zitten tegenwoordig in veel apparaten ingebouwd. Dit soort apparaten noemt men dan slimme apparaten.
+
+
+Hieronder een kleine opsomming van waar ze het meest terug te vinden zijn:
 
 - Smartspeakers en soundbars
 
@@ -127,25 +126,29 @@ De slimme assistenten zitten tegenwoordig in veel aparaten ingebouwd.dit noemt m
 
 - Smart-displays
 
-- in de auto
+- Smarttechnologie in de auto
 
-Het artikel is onderverdeeld in verschillende onderdelen; Wat assistenten kunnen en wat ze voor bedoeling hebben(1), De test tussen verschillende assistenten (2), de assistent en de toekomst (3), assistenten en privacy (4).
+Het artikel is onderverdeeld in verschillende onderdelen. 
+Wat assistenten kunnen en wat de assistenten als bedoeling hebben(1), 
+De test tussen verschillende assistenten (2), 
+de assistent en de toekomst (3), 
+assistenten en privacy (4).
 
 1. Wat assistenten kunnen en wat ze voor bedoeling hebben.
 
-In dit onderdeeltje wordt er in gegaan op de spraaksynthese, hoe dit werkt, waarom het online is en de functionaliteit.
+In dit onderdeeltje wordt er ingegaan op de spraaksynthese, hoe dit werkt, waarom het online is en de functionaliteit ervan.
 
-2. de test tussen verschillende assistenten.
+2. De test tussen verschillende assistenten.
 
-Er wordt ingegaan op de verschillende stemmen,dagelijkse bezigheden,de kennisdatabase, muziek en video,  smartphone,communicatie ,de conclusie, waar ze te vinden zijn. Ook zijn er 2 erg overzichtelijke tabellen.
+Er wordt ingegaan op de verschillende stemmen, dagelijkse bezigheden, de kennisdatabase, muziek en video, Smartphone, communicatie, de conclusie, waar ze te vinden zijn. Ook zijn er 2 erg overzichtelijke tabellen.
 
 3. de assistent en de toekomst.
 
-Hier wordt er in gegaan over Apple, de verwachte vernieuwingen, de toekomstige auto's, de assistenten tegonver offline en de assistenten over bepaalde termijn.
+Hier wordt ingegaan op Apple, de verwachtte vernieuwingen, de toekomstige auto's, de assistenten tegenover offline en de assistenten over bepaalde termijn.
 
 4. assistenten en privacy
 
-In dit onderdeeltje wordt er erg gefocust om "wat onthoudt de assistent?" en de relatie tussen assistenten en privacy.
+In dit onderdeeltje wordt er erg gefocust op "Wat onthoudt de assistent?" en de relatie tussen assistenten en privacy.
 
 ---
 
@@ -155,8 +158,8 @@ https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011
 
 De bron is een primaire bron. Het is een geschreven bron en heeft een informatief en economisch doel. Deze bron gaat over Amazon Alexa.
 
-Deze bron is gemaakt door Amazon zelf, met het doel, om het te verkopen en mensen het aldus te laten gebruiken,er is dus duidelijk een economisch doel. De bron is gemaakt in Amerika en Amazon is een retailer. Amazon is gestart als een boekenplatform en fungeerde eerst als een e-commercebedrijf. Het bedrijf is gevestigd in Seattle in de staat Washington.
+Deze bron is gemaakt door Amazon zelf, met het doel, om het te verkopen en mensen het aldus te laten gebruiken,er is dus duidelijk een economisch doel. De bron is gemaakt in Amerika en Amazon is een retailer ( = levering van diensten en-of goederen aan particulieren).  Amazon is gestart als een boekenplatform en fungeerde eerst als een e-commercebedrijf. Het bedrijf is gevestigd in Seattle in de staat Washington.
 Het was een van de eerste grote bedrijven die goederen over het internet verkochten en het werd opgericht in 1994 door Jeff Bezos. Later werd daar ook andere media aan toegevoegd en tot slot ook andere goederen. 
-In 2015 was ongeveer 1/5 van de omzet met media verbonden en dus ook veel overige artikelen. Tegenwoordig zijn ze ook actief op de server-markt. Het is één van de grootste aanbieders van serverdiensten ter wereld. Vanaf 2019 werd dit ook de belangrijkste activiteit van het bedrijf, omdat dit deel ook de meeste winst opleverd. 
+In 2015 was ongeveer 1/5 van de omzet met media verbonden en dus ook veel overige artikelen. Tegenwoordig zijn ze ook actief op de server-markt. Het is één van de grootste aanbieders van serverdiensten ter wereld. Vanaf 2019 werd dit ook de belangrijkste activiteit van het bedrijf, omdat dit deel ook de meeste winst oplevert. 
 
-Dit is ook een geschreven bron maar niet erg representatief voor mijn jaarwerk. Op de website vind je amper info over het product, dan moet je al behoorlijk elders gaan rondkijken. De website heeft enkel tot doel om het er mooi uit te laten zien en zodoende meer te verkopen. 
+Dit is ook een geschreven bron maar niet erg representatief voor mijn jaarwerk. Op de website vind je amper info over het product, dan moet je al behoorlijk elders gaan rondkijken. De website heeft enkel tot doel om het er mooi uit te laten zien en mensen aan te zetten tot het aankopen van allerlei spullen.

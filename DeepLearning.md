@@ -1,17 +1,18 @@
-compleet
+﻿compleet
 # Deep Learning
 
-Deep learning is een onderdeel van Machine learning. DL (Deep Learning) is meer een mentale groei en verbetering dan een machanische. Machine learning valt ook voor een deel in Artifiele inteligentie.
-In de industrie wordt DL voornamelijk gebruikt voor kleine practische problemen.
+Deep-learning is een onderdeel van Machine-learning. DL (Deep-Learning) is meer een mentale groei en verbetering dan een mechanische. Machine-learning valt ook voor een deel in Artificiële intelligentie.
+In de industrie wordt DL voornamelijk gebruikt voor kleine praktische problemen.
 
-Deep Learning is nogvolop in ontwikkeling  maar men denkt dat het niet alleen een goede 'tool' is maar mischien ook een mooie manier om onze hersenen beter te leren kennen. Via Deep Learning zijn ze de vorige verbeteringen in'Computer Vision','Speech regonition' en 'Machine translation'. DL leert beetje bij beetje en heeft hiermee de laatste jaren erg veel succes. Al zouden ze nu stoppen met onderzoek te doen naar Deep Learning, dan nog zou het een enorme inpact hebben op de wereld?
-Ook veranderd en verbeterd DL in verschillende snelheden.
-Een mooi vorbeeld van deep learning is dat als je alle schilderstechnieken en schilderijen zou invoeren kan je zo een machine kunnen leren schilderen.
+Deep-Learning is nog volop in ontwikkeling  maar men denkt dat het niet alleen een goede 'tool' is maar misschien ook een mooie manier om onze hersenen beter te leren kennen. 
+Via Deep-Learning hebben ze de vorige verbeteringen in 'Computer-Vision','Speech regonition' en 'Machine-translation' nog extra kunnen opwaarderen. DL leert beetje bij beetje en heeft hiermee de laatste jaren erg veel succes. Als mensen  nu zouden stoppen met onderzoek te doen naar Deep-Learning, dan nog zou het een enorme impact hebben op de wereld !
+DL verandert en verbetert ook in verschillende snelheden.
+Een mooi voorbeeld van Deep-learning is, als je alle schilderstechnieken en schilderijen zou invoeren, kan je zo een machine leren schilderen.
 
-### Hoe leren Machines
+### Hoe leren machines ?
 
-Je hebt verschillende manieren om de machine iets te leren. Zo heb je Machine Learning en DL.
-DL onder ML(Machine Learning)hebben een totaal andere manier van iets leren. Zoals de naam zegt leert Machine Learning meer oppervlakkig dan Deep Learning.
+Je hebt verschillende manieren om de machine iets te leren. Zo heb je Machine- Learning en DL.
+DL en ML hebben een totaal andere manier om iets te leren. Zoals de naam zegt leert Machine-Learning meer oppervlakkig dan Deep-Learning.
 
 ## brononderzoek
 
