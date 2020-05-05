@@ -49,6 +49,12 @@ https://www.deeplearning.ai/
 
 https://ai.google/about/
 
+##### wikipedia bronnen
+
+https://nl.wikipedia.org/wiki/Amazon_Alexa
+
+https://nl.wikipedia.org/wiki/Spraakherkenning
+
 
 ##### Bixby
 
