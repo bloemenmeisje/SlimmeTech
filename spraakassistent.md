@@ -7,9 +7,3 @@ Spraakassistenten volgen een bepaalde werkvolgorde. Allereerst stuurt de assiste
 Intelligentie vinden we echter niet in de hardware maar in de cloud. Hierdoor kan de assistent vrij klein zijn, er moet enkel een microfoon, een speaker en een verbinding naar het internet inzitten. Een assistent kan ook in iedere Smartphone, Tablet, slimme thermostaat of soundbar zitten. Dit noemen we een 'build-in'. De apparaten waar tegenwoordig standaard een spraakassistent inzit , zijn smart-speakers en soundbars, tv's en mediaspelers, smartphones, tablets, smart-displays, smartwatches en we vinden ze ook in de auto terug.
 
 De meest bekende spraakassistenten zijn: Amazon Alexa, Apple Siri, Samsung Bixby en Google Assistent.
-
-
-
-
-
-
