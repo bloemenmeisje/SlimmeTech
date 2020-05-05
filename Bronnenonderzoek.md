@@ -185,6 +185,5 @@ Deel 2: https://www.youtube.com/watch?v=-ePZ7OdY-Dw
 Dez bron is een documentaire in 2 delen die een goede inleiding of herhaling kan bieden over dit onderwerp. Ik heb deze bron bekeken als introductie en herhaling. Dit is een vrij gemakkelijke video die je behoorlijk veel informatie geeft zonder het heel zwaar te maken. De documentaire is vrij lang maar geeft veel duidelijke informatie.
 Deze bron is een secundaire bron(video).
 
-Deze bron is zeer representief voor mijn jaarwerk  het is geschikt voor iedereen die een beetje geintereseerd in dit onderwerp
-. Ik zou het iedereen aanbevelen want het geeft een ander beeld op de manier van leven.
+Deze bron is zeer representief voor mijn jaarwerk het is geschikt voor iedereen die een beetje geintereseerd in dit onderwerp. Ik zou het iedereen aanbevelen want het geeft een ander beeld op de manier van leven.
 
