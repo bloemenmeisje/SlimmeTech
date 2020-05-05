@@ -1,6 +1,4 @@
-﻿Compleet
-
-# Spraakassistenten 
+﻿# Spraakassistenten 
 
 Iedereen kent tegenwoordig wel de huishoudhulp via slimme apparaten of gemakkelijk een vraag kunnen stellen.  Iedere nieuwe Smartphone heeft tegenwoordig de optie, een slimme assistent te gebruiken. Veel mensen gebruiken deze ook zonder te weten wat de theorie en wetenschap erachter is.
 
