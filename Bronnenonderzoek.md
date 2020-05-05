@@ -174,3 +174,17 @@ Deze bron in een artikel uit de online krant Floydhub.In deze krant vind je alle
 Deze bron is een geschreven bron die online kwam in april 2019. Ik vond niet wie het geschreven had maar onderaan kan je veel technische papers vinden en de bronnen van de gebruikte foto's en video's. Het is een artikel dat vrij gemaakelijk is geschreven maar men moet wel zich er echt op focussen anders wordt het te moeilijk.
 Deze bron is een secundaire bron. Dit artikel geeft veel nuttige informatie maar is niet geschikt als men nog nooit van Deep Learning hebben gehoord.
 
+---
+
+Deel 1: https://www.youtube.com/watch?v=s0dMTAQM4cw
+
+Deel 2: https://www.youtube.com/watch?v=-ePZ7OdY-Dw
+
+##### Info over de bron
+
+Dez bron is een documentaire in 2 delen die een goede inleiding of herhaling kan bieden over dit onderwerp. Ik heb deze bron bekeken als introductie en herhaling. Dit is een vrij gemakkelijke video die je behoorlijk veel informatie geeft zonder het heel zwaar te maken. De documentaire is vrij lang maar geeft veel duidelijke informatie.
+Deze bron is een secundaire bron(video).
+
+Deze bron is zeer representief voor mijn jaarwerk  het is geschikt voor iedereen die een beetje geintereseerd in dit onderwerp
+. Ik zou het iedereen aanbevelen want het geeft een ander beeld op de manier van leven.
+
