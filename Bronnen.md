@@ -55,7 +55,6 @@ https://nl.wikipedia.org/wiki/Amazon_Alexa
 
 https://nl.wikipedia.org/wiki/Spraakherkenning
 
-
 ##### Bixby
 
 https://www.samsung.com/be/apps/bixby/
