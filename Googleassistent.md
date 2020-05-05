@@ -39,7 +39,7 @@ Met de vraag "hoe is het weer morgen" vind je assistent heel gemakkelijk de weer
 #### Communicatie,Shoppen en financien
 
 Google kan je ook helpen voor het shoppen,te communiceren en je financien in orde te houden.Zo kan je financien controleren,investeren en deze beheren,je uitgave beheren, boodschappenlijstjes te beheren en maken en dus ook productprijzen na gaan.
-voor het winkelen kan je ook winkels zoeken en hun producten bekijken,zoals kleding, accesoires, huishoudelijke producten,electonica, schoonheidsproducten maar ook eten en sport en outdoorartikelen.
+voor het winkelen kan je ook winkels zoeken en hun producten bekijken,zoals kleding, accesoires, huishoudelijke producten,electronica, schoonheidsproducten maar ook eten en sport en outdoorartikelen.
 Via Google assistent kan je ook gemakkelijk communiceren. Ze lezen met gemak je berichten en e-mails voor en openen je social media.
 Je kan bellen met of zonder videoverbinding en kan je een nummer voorlezen.
 Met een paar instellingen kan je ook stylistadviezen of aanbiedingen en kortingen opvragen. Via deze assistent kan je ook bij de klantenondersteuning komen, door deze het gewoon te vragen.
@@ -72,6 +72,6 @@ Op deze website vind je alle informatie die je nodig hebt om met google assisten
 Op de website zelf kan je ook enkele accesoires vinden om erbij te kopen( het economische gedeelte).
 
 Ook kan je de ondersteunde apps zien en de apps die kunnen helpen met het verkennen van je google assistent.
-Een klein overzichte van de apps en ideeen die je er kan vinden. Als je naar de tab wat kan het doen gaat zal je eerst een paar apps vinden die hij je aanraad en daaronder wat er nieuw is. Daarnaast kan je ook een hele lijst vinden van andere apps en opties: Bediening in huis, Eten en drinken, Film, foto en tv,Games en amusement, Gezondheid en fitness, Kinderen en gezin, Kunst en lifestyle, Lokaal, Muziek en audio, Nieuws en tijdschriften, Opleiding en naslag, Productiviteit, Reizen en vervoer, Shoppen, Sociaal en communicatie, Sport, Weer en ZAkelijk en financien.
+Een klein overzichte van de apps en ideeen die je er kan vinden. Als je naar de tab wat kan het doen gaat zal je eerst een paar apps vinden die hij je aanraad en daaronder wat er nieuw is. Daarnaast kan je ook een hele lijst vinden van andere apps en opties: Bediening in huis, Eten en drinken, Film, foto en tv,Games en amusement, Gezondheid en fitness, Kinderen en gezin, Kunst en lifestyle, Lokaal, Muziek en audio, Nieuws en tijdschriften, Opleiding en naslag, Productiviteit, Reizen en vervoer, Shoppen, Sociaal en communicatie, Sport, Weer en zakelijk en financien.
 
 Er zijn nog 2 tabs waarvan er 1 een overzicht geeft en de ander om te zien waar het beschikbaar is.
