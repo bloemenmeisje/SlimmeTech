@@ -162,3 +162,15 @@ Het was een van de eerste grote bedrijven die goederen over het internet verkoch
 In 2015 was ongeveer 1/5 van de omzet met media verbonden en dus ook veel overige artikelen. Tegenwoordig zijn ze ook actief op de server-markt. Het is één van de grootste aanbieders van serverdiensten ter wereld. Vanaf 2019 werd dit ook de belangrijkste activiteit van het bedrijf, omdat dit deel ook de meeste winst oplevert. 
 
 Dit is ook een geschreven bron maar niet erg representatief voor mijn jaarwerk. Op de website vind je amper info over het product, dan moet je al behoorlijk elders gaan rondkijken. De website heeft enkel tot doel om het er mooi uit te laten zien en mensen aan te zetten tot het aankopen van allerlei spullen.
+
+---
+
+https://blog.floydhub.com/gpt2/
+
+##### Info over de bron
+
+Deze bron in een artikel uit de online krant Floydhub.In deze krant vind je allerlei artikels over AI en alle onderdelen en groeperingen erond. Het is een englse krant en iedereen kan zich aanmelden om mee te schrijven in de krant. Het artikel gaat over Deep Learning in het algemeen maar er zijn enorm veel goede artikels op deze site.
+
+Deze bron is een geschreven bron die online kwam in april 2019. Ik vond niet wie het geschreven had maar onderaan kan je veel technische papers vinden en de bronnen van de gebruikte foto's en video's. Het is een artikel dat vrij gemaakelijk is geschreven maar men moet wel zich er echt op focussen anders wordt het te moeilijk.
+Deze bron is een secundaire bron. Dit artikel geeft veel nuttige informatie maar is niet geschikt als men nog nooit van Deep Learning hebben gehoord.
+
