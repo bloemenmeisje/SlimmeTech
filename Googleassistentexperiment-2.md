@@ -1,4 +1,3 @@
-niet compleet
 ## Google assistent als experiment
 
 Voor mijn jaarwerk heb ik mijn Google assistent ingeschakeld als experiment. ik von het best een moeilijke beslissing omdat er ook enkele nadelen aan verbonden zijn(Google herkent je stem, weet wat je opzoekt). Toch wou ik zien hoe een spraakassistent in real life werkt en hoe het verandert doorheen de tijd.
@@ -38,7 +37,9 @@ Ik belde ook steeds vaker door gebruik met google assistent. OOk een berichtje s
 Na veel oefenen begon ze (Zo leek het) me echt te begrijpen.
 Toen ik het steeds meer gebruikte kwam ik er ook achter dat je terug kan praten alsde assistent je een vraag stelt zoals:"Naar wie wil je een bericht verzenden". Dit ging ook in het begin niet zo vlot maar toch ging het langzaam steeds beter.
 
-Ik zocht na een tijdje vragen op die ik kon stellen en kwam zo op de vraag: "Verlaag de helderheid", dit doet die niet vanuit zichzelf maar opent wel de instellingen zodat je zelf de helderheid kan aanpassen. Dit
+Ik zocht na een tijdje vragen op die ik kon stellen en kwam zo op de vraag: "Verlaag de helderheid", dit doet die niet vanuit zichzelf maar opent wel de instellingen zodat je zelf de helderheid kan aanpassen.
+
+Ik vroeg me af Google assistent ook vragen kan beantwoorden. Toen ik de vraag: " Hoe oud is de taj Mahal ?", Dit werkte. Ik kreeg het antwoord 388 en dit is juist. Zo lukte ook de vraag wat is een mop. ze starte met een tekst voor te lezen waarin ze een mop definieerde. Hierna ging ik meer specifieke vragen stellen. Zoals wie is Obama en hoelang was hij president. Ook kwam de vraag hoeveel is de wortel van 16. Hier starte ze echter niet met praten maar opende ze de rekenmachine
 
 
 
