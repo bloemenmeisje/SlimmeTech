@@ -1,4 +1,3 @@
-compleet
 ### intervieuw
 
 #### antwoorder 1
