@@ -42,6 +42,6 @@ Ik zocht na een tijdje vragen op die ik kon stellen en kwam zo op de vraag: "Ver
 Ik vroeg me af Google assistent ook vragen kan beantwoorden. Toen ik de vraag: " Hoe oud is de taj Mahal ?", Dit werkte. Ik kreeg het antwoord 388 en dit is juist.
 Zo lukte ook de vraag wat is een mop. ze starte met een tekst voor te lezen waarin ze een mop definieerde. Hierna ging ik meer specifieke vragen stellen. Zoals wie is Obama en hoelang was hij president. Ook kwam de vraag hoeveel is de wortel van 16. Hier starte ze echter niet met praten maar opende ze de rekenmachine en stond het antwoord erin maar vertelde ze het niet.
 
-Hierna dacht ik dat het misschien wel tijd was voor een mop, dus ik vroeg aan google om 
+Hierna dacht ik dat het misschien wel tijd was voor een mop, dus ik vroeg aan google om een mop te vertellen. Dit deed ze echter niet. Ik kreeg als resultaat een lange lijst aan video's waar mop in kwamen. Dit was echter niet wat ik wou dus ging ik op onderzoek uit over hoe je het anders kon vragen.
 
 
