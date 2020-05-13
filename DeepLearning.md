@@ -15,5 +15,7 @@ DL en ML hebben een totaal andere manier om iets te leren. Zoals de naam zegt le
 
 ## brononderzoek
 
-https://blog.floydhub.com/gpt2/
+Deze bron in een artikel uit de online krant Floydhub.In deze krant vind je allerlei artikels over AI en alle onderdelen en groeperingen erond. Het is een englse krant en iedereen kan zich aanmelden om mee te schrijven in de krant. Het artikel gaat over Deep Learning in het algemeen maar er zijn enorm veel goede artikels op deze site.
 
+Deze bron is een geschreven bron die online kwam in april 2019. Ik vond niet wie het geschreven had maar onderaan kan je veel technische papers vinden en de bronnen van de gebruikte foto's en video's. Het is een artikel dat vrij gemaakelijk is geschreven maar men moet wel zich er echt op focussen anders wordt het te moeilijk.
+Deze bron is een secundaire bron. Dit artikel geeft veel nuttige informatie maar is niet geschikt als men nog nooit van Deep Learning hebben gehoord.
