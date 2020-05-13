@@ -10,10 +10,6 @@ Slimme apparaten worden ook door Siri bestuurd maar ook hierbij moet het besturi
 
 ## brononderzoek
 
-https://www.apple.com/siri/
-
-### informatie over de bron
-
 Deze bron is gemaakt door Apple, met het doel om mensen het te laten gebruiken en zodoende extra te verkopen. De bron is gemaakt in Amerika en Apple verkoopt ook nog andere producten zoals een Iphone, Ipad en andere producten.
 Dit is ook een geschreven bron en niet erg representatief voor dit werk. Op de website vind je amper info over het product en het heeft enkel het doel om er mooi uit te zien en te verkopen. Het publiek is dan ook voornamelijk bedoeld voor Applegebruikers.
 Ik kan met deze mensen ook niet in contact treden, want dan kom je bij de klantenservice.

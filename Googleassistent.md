@@ -54,6 +54,7 @@ Zo kan je assistent evengoed alle nieuwsposten opzoeken en kranten- of tijdschri
 
 ## brononderzoek
 
+https://assistant.google.com/
 
 De bron is een primaire bron. Deze bron is geschreven en heeft een informatief en economisch doel.
 Deze bron gaat over Google assistent en is vrij bertrouwbaar want het is gemaakt door de maker van Google assistent namelijk Google.
