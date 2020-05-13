@@ -10,8 +10,7 @@ Voor mijn "doe" deel besloot ik om een assistent te leren kennen en ermee te wer
 
 Ik heb de vorige jaren ook online gewerkt dus ga ik dit jaar ook online werken. Het is ook een goed onderwerp om mijn jaarwerk online te maken.
 
-Ik hoop een antwoord te krijgen op 2 vragen : 
-– Hoe zal de technologie van nu veranderen naar de toekomst ? 
-- Hoe werkt zo een spraakassistent?.
+Ik begon met het verzamelen van informatie over verschillende spraakassistenten zoals daar zijn,  Google Assistent, Apple Siri, Bixby van Samsung,.... 
 
-Ik begon met het verzamelen van informatie over verschillende spraakassistenten zoals daar zijn,  Google Assistent, Apple Siri, Bixby van Samsung,.... Toen ik hier behoorlijk wat informatie over had gevonden, ben ik begonnen met dit op te schrijven en een boek  te lezen. Nadat ik dit boek heb gelezen,  is het plan om ook andere bronnen te beschrijven.  Daarna zal ik vol goede moed moeten beginnen met het "doe" deel van mijn jaarwerk : “Hoe gebruik ik Google Assistent praktisch ?”. Daarna kan ik aan de slag voor een presentatie en een website. ALs ik volledig klaar ben, maak ik een pdf en druk ik deze af.
+Toen ik hier behoorlijk wat informatie over had gevonden, ben ik begonnen met dit op te schrijven en een boek  te lezen. Nadat ik dit boek heb gelezen,  is het plan om ook andere bronnen te beschrijven. 
+Daarna zal ik vol goede moed beginnen met het "doe" deel van mijn jaarwerk : “Hoe gebruik ik Google Assistent praktisch ?”. Daarna kan ik aan de slag voor een presentatie en een website. 
