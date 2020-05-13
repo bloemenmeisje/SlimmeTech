@@ -1,19 +1,25 @@
 # Communicatie
+
 Communicatie is een activiteit waarbij levende wezens betekenissen uitwisselen door op elkaars signalen te reageren. Het Latijnse woord communicare slaat terug op "iets gemeenschappelijk maken".
 
 ## Woorden én daden
+
 Horen, zien en zwijgen. Ook 1 minuut stilte kan veelzeggend zijn.
 
-Bij communicatie wordt informatie met elkaar gedeeld door middel van geluid (zoals bij spraak en toon) en vorm (zoals beeld, symboliek en tekst). Het contact omvat ook handelingen want door gedrag worden eindeloos veel betekenissen kenbaar gemaakt. De impact van (on–)bewuste daden kan heel groot zijn bij betekenistoekenning: non-verbale communicatie kan zelfs de doorslag geven boven doelbewust gekozen woorden en symboliek. Denk aan de (on–)geloofwaardigheid van een gesprekspartner die beweert dat hij niet nerveus is, maar wel zweet en trilt. 
+Bij communicatie wordt informatie met elkaar gedeeld door middel van geluid (spraak en toon) en vorm (beeld, symboliek en tekst). Het contact omvat ook handelingen want door gedrag worden eindeloos veel betekenissen kenbaar gemaakt. De impact van (on–)bewuste daden kan heel groot zijn bij betekenistoekenning: non-verbale communicatie kan zelfs de doorslag geven boven doelbewust gekozen woorden en symboliek. Denk aan de (on–)geloofwaardigheid van een gesprekspartner die beweert dat hij niet nerveus is, maar wel zweet en trilt. 
 
 ## Specifieke kenmerken van het communicatieproces
 
 Communicatie is een circulair proces waarin gemakkelijk misverstanden ontstaan. De vijf axioma's van Paul Watzlawick kunnen helpen dit complexe proces te begrijpen:
 
 1. Het is onmogelijk om niét te communiceren: alle gedrag is communicatie, ook wie onverschillig is of elke betrokkenheid ontkent, bedrijft hiermee communicatie (wegkijken, niets terugzeggen).
+
 2. Elke communicatie omvat een inhouds- en een betrekkingsniveau: wat er overkomt wordt beïnvloed door de relatie.
+
 3. Elke communicatie is afhankelijk van de interpretatie van gebeurtenissen: als partijen oorzaak en gevolg van elkaars interactie verschillend uitleggen (“Nee, jíj begon ermee”).
+
 4. Mensen communiceren zowel digitaal (via cijfers, letters, woorden en taal) maar ook analoog (zoals via toonzetting, stijl en gebaren).
+
 5. Elke communicatie is symmetrisch of complementair (aanvullend): men is uit op gelijkheid of men benadrukt juist verschillen (machtsverschil).
 
 ## Informeren en communiceren
