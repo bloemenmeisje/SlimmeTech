@@ -110,7 +110,7 @@ Voorbeelden van onderzoeksvragen zijn:
 
 Deep learning is een deel van een grotere familie van methodes van machinaal leren, zie Deep Learning.
 
-Deep learning kan toegepast worden in domeinen zoals beeldherkenning, spraakherkenning, natural language processing, audioherkenning, social network-filtering, machinevertaling, bioinformatica, samenstelling van medicijnen, medische beeldherkenning en bordspelprogramma's. Ze kunnen soms resultaten bekomen vergelijkbaar met of soms beter dan menselijke specialisten.
+
 
 ## Neuraal netwerk
 
