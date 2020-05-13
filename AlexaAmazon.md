@@ -14,6 +14,8 @@ Ook is Alexa niet de beste in kennisvragen (bv. hoe oud is de Taj Mahal ? Hier a
 
 ## brononderzoek
 
+https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011
+
 Deze bron is een primaire bron. Het is een geschreven bron en heeft een informatief en economisch doel. Deze bron gaat over Amazon Alexa.
 
 Deze bron is gemaakt door Amazon zelf, met het doel, om het te verkopen en mensen het aldus te laten gebruiken,er is dus duidelijk een economisch doel. 
