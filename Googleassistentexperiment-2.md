@@ -45,9 +45,8 @@ Zo lukte ook de vraag wat is een mop. ze starte met een tekst voor te lezen waar
 Hierna dacht ik dat het misschien wel tijd was voor een mop, dus ik vroeg aan google om een mop te vertellen. Dit deed ze echter niet. Ik kreeg als resultaat een lange lijst aan video's waar mop in kwamen. Dit was echter niet wat ik wou dus ging ik op onderzoek uit over hoe je het anders kon vragen.
 Ik probeerde en probeerde en toch bleef het niet lukken. Ik probeerde iets anders; " Zing een liedje? ". Ook dit werkte  niet, ik probeerde dit wel 10 keer maar toch vond ze het niet. Opnieuw ging ik op onderzoek. Ik kwam op enkele theorieen van verschillende bronnen waarbij ze vertelden dat dit enkel werkte bij de assistenten die tastbaar zijn zoals de Google home mini.
 
-Ik kwam er ook achter dat als men gewoon een woord inspreekt de assistent je er een definitie van geeft. Als je bevoorbeeld " mop" inspreekt vertelt  je assistent wat dat is en wat ze vond.
+Ik kwam er ook achter dat als men gewoon een woord inspreekt de assistent je er een definitie van geeft. Als je bevoorbeeld " mop" inspreekt vertelt je assistent wat dat is en wat ze vond.
 
-Zo kan je veel dingen vragen aan je assistent. Google assistent antwoordt ook op vragen zoals "hoe oud is de Notre Dame?".
-
-Zo kan je nog veel doen met je assistent, het geeft veel opties. Zo kan je ook boodschappenlijstjes aanmaken en je mail laten voorlezen. Dit vind ik namelijk
+Zo kan je veel dingen vragen aan je assistent.
+Zo kan je nog veel doen met je assistent, het geeft veel opties. Zo kan je ook boodschappenlijstjes aanmaken en je berichten laten voorlezen. Dit vind ik namelijk wel interessant dus onderzocht ik het. Hieruit bleek dat als je een
 
