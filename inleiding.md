@@ -1,10 +1,10 @@
-﻿## Woord vooraf
+﻿## Inleiding
 
 Ik heb gekozen voor het onderwerp Slimme Technologie.
 
 Hieronder kon ik verschillende onderdelen kiezen. Ik ben dan gegaan voor spraakassistenten met een beetje invloed van Dl (Deep-Learning). Dl valt ook onder Artificiële intelligentie net als Machine-Learning (ML). 
 
-Ik vond het een interessant onderwerp omdat het iets is dat we nu veel gebruiken maar ook de komende jaren nog veel gaan gebruiken. Men ziet het steeds meer voorbij komen en superveel gezinnen hebben ondertussen een spraakassistent thuis.
+Ik vond het een interessant onderwerp omdat het iets is dat we nu veel gebruiken maar ook de komende jaren nog veel meer gaan gebruiken. Men ziet het steeds meer voorbij komen en veel gezinnen hebben ondertussen een spraakassistent thuis.
 
 Voor mijn "doe" deel besloot ik om een assistent te leren kennen en ermee te werken.
 
