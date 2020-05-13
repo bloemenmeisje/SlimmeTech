@@ -23,11 +23,14 @@ Communicatie is een circulair proces waarin gemakkelijk misverstanden ontstaan. 
 5. Elke communicatie is symmetrisch of complementair (aanvullend): men is uit op gelijkheid of men benadrukt juist verschillen (machtsverschil).
 
 ## Informeren en communiceren
-Telefonie en chatten zijn voorbeelden van simultane communicatie, waarbij actie en reactie elkaar direct opvolgen. Bij bijvoorbeeld een ingezonden brief is de interval in het contact groter. De term feedback wordt in dit verband gebruikt voor de terugkoppeling of reactie op een communicatie-initiatief. Het bekendste basismodel dat een communicatieproces uitbeeldt bevat als elementen een zender die een boodschap via een medium naar een ontvanger stuurt die daar vervolgens feedback op geeft.
 
-Kenmerk van het contact bij communicatie is de twee- of meerzijdigheid ervan. Op bijvoorbeeld een aanleiding volgt een vraag, een antwoord, er komt een tegenreactie, enzovoort. De reactie kan van een een iemand komen, maar ook van een publiek. De communicatie eindigt als de wisselwerking stopt. Zolang er sprake is van (een poging tot) eenrichtingsverkeer dan noemen we het doorgaans informeren. De meeste boodschappen die worden verstuurd of uitgezonden komen nooit aan. Gegevens veranderen pas in informatie zodra ze zijn geïnterpreteerd. Een onbegrijpelijk bord bevat weliswaar signalen, maar als die betekenisloos zijn, is er geen sprake van informatieverwerking. 
+Telefonie en chatten zijn voorbeelden van simultane communicatie, waarbij actie en reactie elkaar direct opvolgen. Bij bijvoorbeeld een ingezonden brief is de interval in het contact groter.
+De term feedback wordt in dit verband gebruikt voor de terugkoppeling of reactie op een communicatie-initiatief. Het bekendste basismodel dat een communicatieproces uitbeeldt heeft als elementen een zender die een boodschap via een medium naar een ontvanger stuurt die daar vervolgens feedback op geeft.
+
+Een kenmerk van het contact bij communicatie is de twee- of meerzijdigheid ervan. Op bijvoorbeeld een aanleiding volgt een vraag, een antwoord, er komt een tegenreactie, etc . De reactie kan van een een iemand komen, maar ook van een publiek. De communicatie eindigt als de wisselwerking stopt. Zolang er sprake is van (een poging tot) eenrichtingsverkeer dan noemen we het doorgaans informeren. De meeste boodschappen die worden verstuurd of uitgezonden komen nooit aan. Gegevens veranderen pas in informatie zodra ze zijn geïnterpreteerd. Een onbegrijpelijk bord bevat weliswaar signalen, maar als die betekenisloos zijn, is er geen sprake van informatieverwerking. 
 
 ## Schaalniveaus van communicatie
+
 Een postzegel als informatiedrager: de tekst verwijst naar onder meer een schilder en de frankeerwaarde, het beeld naar een schilderij, decor, kleding, brief, typografie... De plaats waar een postzegel is geplakt kan soms een codeboodschap bevatten. In het Verenigd Koninkrijk is het verboden een postzegel met de beeltenis van de koningin ondersteboven op een poststuk te plakken.
 
 Ten aanzien van communicatieprocessen worden tot wel zeven niveaus onderscheiden[1]:
