@@ -110,25 +110,18 @@ Voorbeelden van onderzoeksvragen zijn:
 
 Deep learning is een deel van een grotere familie van methodes van machinaal leren, zie Deep Learning.
 
-
-
 ## Neuraal netwerk
 
-Een neuraal netwerk, vroeger neuronaal netwerk genoemd, is een groep van verbonden neuronen (zenuwcellen). De twee belangrijkste vormen zijn biologische neurale netwerken, in het bijzonder het menselijk brein, en kunstmatige neurale netwerken. Dit artikel gaat in meer algemene zin in op de relatie tussen beide begrippen. 
+Een neuraal netwerk, vroeger neuronaal netwerk genoemd, is een groep van verbonden neuronen (zenuwcellen). De twee belangrijkste vormen zijn biologische neurale netwerken, in het bijzonder het menselijk brein en kunstmatige neurale netwerken. 
 
 ### Biologische en kunstmatige neurale netwerken
 
-Biologische neurale netwerken zijn opgebouwd uit werkelijk bestaande zenuwcellen die in het zenuwstelsel en hersenen met elkaar zijn verbonden door middel van synapsen. In de neurowetenschap kunnen deze netwerken corresponderen met kleine groepjes neuronen met een specifieke functie, of grotere gebieden in de hersenen met een meer algemene functie. Kunstmatige neurale netwerken zijn opgebouwd uit kunstmatige eenheden of 'neuronen' die door middel van een computerprogramma de eigenschappen van echte biologische neuronen nabootsen. Kunstmatige neurale netwerken kunnen voor twee doeleinden worden toegepast: om meer inzicht te krijgen in biologische neurale netwerken, of om problemen op het terrein van kunstmatige intelligentie op te lossen. In het tweede geval is het dus niet per se de bedoeling een echt biologisch systeem te beschrijven. 
+Biologische neurale netwerken zijn opgebouwd uit werkelijk bestaande zenuwcellen die in het zenuwstelsel en hersenen met elkaar zijn verbonden door middel van synapsen. In de neurowetenschap kunnen deze netwerken corresponderen met kleine groepjes neuronen met een specifieke functie, of grotere gebieden in de hersenen met een meer algemene functie. 
 
-### Achtergrond
+Kunstmatige neurale netwerken zijn opgebouwd uit kunstmatige eenheden of 'neuronen' die door middel van een computerprogramma de eigenschappen van echte biologische neuronen nabootsen.
+Kunstmatige neurale netwerken kunnen voor twee doeleinden worden toegepast: om meer inzicht te krijgen in biologische neurale netwerken, of om problemen op het terrein van kunstmatige intelligentie op te lossen. 
 
-Neurale netwerken zijn ontworpen naar analogie van het biologische brein, m.a.w. het zijn zeer uitgebreide en onderling verbonden netwerken van neuronen. Kunstmatige neurale netwerken zijn toe te passen in computersystemen.[1] Een kunstmatig neuraal netwerk bestaat uit verscheidene (eventueel door software gesimuleerde) meestal zeer eenvoudige processors (neuronen) met een hoge mate van onderlinge connectie waarover simpele scalaire berichten verzonden worden. De interactie tussen de diverse onderling verbonden processors waaruit het netwerk bestaat is bovendien adaptief, zodat verbindingen tussen andere processors in het neurale netwerk kunnen ontstaan, kunnen worden versterkt, verzwakt of weer verbroken kunnen worden. Dit betekent dat een neuraal netwerk te 'trainen' is. 
-
-#### Vergelijking met het neuron
-
-Een enkelvoudige processor uit het kunstmatige neurale netwerk valt te vergelijken met zijn biologische tegenhanger, het neuron. Een dergelijk neuron in het lichaam kan wel tienduizenden verschillende verbindingen met andere neuronen hebben, en de neuronen kunnen signalen genereren, afhankelijk van de ontvangen signalen, naar andere neuronen. Deze signalen bestaan uit de aanwezigheid of afwezigheid van een elektrische potentiaal en zijn van een korte duur (in de orde van 1 milliseconde). De manier waarop dit in een biologisch neuron gebeurt is zeer overzichtelijk: als de totale stimulatie van het neuron (de som van activerende en remmende impulsen die het via synapsen ontvangt van andere neuronen) een bepaalde drempelwaarde overschrijdt, 'vuurt' het neuron, dat wil zeggen het ondergaat een depolarisatiegebeurtenis (zie hiervoor ook neuron). Deze depolarisatie vindt dan via de uitgaande verbindingen van het neuron zijn weg naar alle andere neuronen waarmee het neuron via zijn eigen uitgaande uitlopers weer verbonden is. Verbindingen tussen neuronen zijn, door de structuur van de synaps, eenrichtingverkeer: een uitloper kan een andere zenuwcel stimuleren (of remmen) maar niet zelf worden gestimuleerd of geremd door het vuren van het neuron dat het heeft beïnvloed, hoewel het vurende neuron wel zelf weer uitlopers kan hebben die een invloed hebben op de cel waardoor het tot vuren werd aangezet. Doorgaans worden neurale netwerken softwarematig gesimuleerd, waarmee deze op de gewone computer ontwikkeld en getest kunnen worden. Werkt een bepaalde architectuur van een neuraal netwerk goed dan kan een geweldige versnelling van de berekeningen worden bereikt door deze in hardware uit te voeren. 
-
-#### Onderdelen van een neuraal netwerk
+### Onderdelen van een neuraal netwerk
 
 Een neuraal netwerk kan bestaan uit een arbitrair aantal gesimuleerde neuronen (om van een netwerk te kunnen spreken is er natuurlijk wel altijd meer dan een neuron nodig). Deze neuronen kunnen in principe op alle denkbare manieren met elkaar worden verbonden, ieder neuron kan desnoods een connectie hebben met alle andere. Niettemin zijn er in de praktijk verschillende organisatievormen die voor bepaalde toepassingen beter blijken te voldoen dan andere. Een typisch neuraal netwerk bestaat uit drie lagen neuronen, een ingangslaag, een tussenlaag en een uitgangslaag. Het aantal ingangsneuronen is gelijk aan het aantal ingangsvariabelen, het aantal uitgangsneuronen wordt bepaald door het aantal gewenste uitgangsposities. Voorbeeld is patroonherkenning voor de letters van het alfabet, de ingangslaag zal hier bijvoorbeeld 256 neuronen hebben (voor 16 x 16 pixels), het aantal uitgangsneuronen zal 26 zijn, of 36 als ook cijfers herkend moeten worden. Het aantal neuronen in de tussenlaag ligt hier ergens tussenin en wordt door experimenteren bepaald. Neurale netwerken kunnen ook uit meerdere tussenlagen bestaan. 
 
