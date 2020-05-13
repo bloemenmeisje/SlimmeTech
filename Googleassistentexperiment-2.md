@@ -57,3 +57,16 @@ Ik had alles nagekeken en eventuele updates gedaan en all deze punten waren in o
 
 Een andere mogelijkheid was dat  het opgelost zou zijn door mijn gsm te herstarten. Ook dit was echter niet de oplossing
 
+Er waren nu nog 2 remedies die het meeste kans hadden om te werken. De 1ste was om je assistente weg te gooien en hem opnieuw te instaleren. De andere was om google zijn updates te verwijderen en proberen om zo weinig mogelijk up te daten en zo je assistent te laten werken.
+
+De twede lukte voor mij, als je de google app openende en gesproken zoekopdrachten aantikte kan je met je google Assistent een gesprek beginnen.
+
+Zo kwam ik erachter dat je zo wel een mop kon laten vertellen door je assistent. Het zijn voornamelijk erg flauwe maar het is nooit dezelfde. Ook kan je de assistent liedjes laten zingen : verjaardagsliedjes, maar ook eigen liedjes. Zo heeft Google Assistent 4 eigen liedjes.
+Je kan ook echte gesprekken voeren met de assistent.Als je bevoorbeeld vraagt hoe het gaat zal ze hierop antwoorden en enkele ideeen geven, Zoals een complimentje of een liedje of de glazen bol. Bij de glazen bol kan je je toekomst laten voorspellen door vragen te stellen en de Glazen Bol zal je antwoord geven.
+
+Boodschappen lijstjes kan je niet maken zonder eerst een van de bijhorende apps te downloaden. Dit ging dus voor mij niet.
+Normaal moest berichten voorlezen nu ook lukken. Ik probeerde het maar nog steeds ging het niet echt.
+Berichten versturen gaat echter nu niet meer dus moest ik het helemaal opnieuw trainen.
+
+Ik kan nog heel veel doen me mijn assistent maar het doel was om de basis te kennen en het leren gebruiken ervan. Ik dank dat dit gelukt is.
+
