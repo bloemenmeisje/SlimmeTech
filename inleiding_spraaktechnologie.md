@@ -36,11 +36,17 @@ Een postzegel als informatiedrager: de tekst verwijst naar onder meer een schild
 Ten aanzien van communicatieprocessen worden tot wel zeven niveaus onderscheiden[1]:
 
 1. massacommunicatie: bij een grote verzameling van mensen
+
 2. publiekscommunicatie: bij grote ongestructureerde groepen
+
 3. organisatiecommunicatie: bij grote gestructureerde groepen
+
 4. groepscommunicatie: bij kleine gestructureerde groepen
+
 5. interpersoonlijke communicatie: gesprek tussen twee mensen (duorelatie)
+
 6. intrapersoonijke communicatie: binnen het individueel centraal zenuwstelsel
+
 7. machinecommunicatie: bij computergestuurde reacties
 
 # Kunstmatige intelligentie
@@ -49,13 +55,16 @@ Kunstmatige intelligentie (KI) of artificiële intelligentie (AI) is de wetensch
 
 ## Omschrijving
 
-Het is moeilijk te definiëren wat 'intelligentie' precies is. Het is derhalve ook moeilijk te definiëren wat artificiële intelligentie precies is.
+Het is moeilijk te definiëren wat 'intelligentie' precies is. Het is dan ook moeilijk te definiëren wat artificiële intelligentie precies is.
 
 Dingen die aanvankelijk als zeer intelligent werden beschouwd, zoals het winnen van een partij schaak van de wereldkampioen schaken, blijken opeens toch niet zo intelligent te zijn als het doel eenmaal is bereikt (Kasparov-Deep Blue, 1997). Soms wordt weleens gezegd 'Kunstmatige intelligentie is wat we de computer nog niet kunnen laten doen'.
 
 Meer gedetailleerd definiëren Andreas Kaplan en Michael Haenlein artificiële intelligentie als "het vermogen van een systeem om externe gegevens correct te interpreteren, om te leren van deze gegevens, en om deze lessen te gebruiken om specifieke doelen en taken te verwezenlijken via flexibele aanpassing." Geleend uit de managementliteratuur, classificeren Kaplan en Haenlein artificiële intelligentie in drie verschillende types van AI-systemen: analytisch, mens-geïnspireerd en vermenselijkte artificiële intelligentie. 
+
 - Analytische AI heeft enkel eigenschappen die consistent zijn met cognitieve intelligentie die een cognitieve voorstelling van de wereld genereert en die leren gebruikt op basis van vorige ervaringen om toekomstige beslissingen te beïnvloeden. 
-- Mens-geïnspireerde AI bevat elementen van cognitieve en emotionele intelligentie, begrip, in aanvulling op cognitieve elementen, alsook menselijke emoties waarmee rekening wordt gehouden in het beslissingsproces. 
+
+- Mens-geïnspireerde AI bevat elementen van cognitieve en emotionele intelligentie, begrip, in aanvulling op cognitieve elementen, alsook menselijke emoties waarmee rekening wordt gehouden in het beslissingsproces.
+ 
 - Vermenselijkte AI vertoont eigenschappen van alle types competenties (cognitieve, emotionele en sociale intelligentie), en is in staat zelfbewust te zijn in interacties met anderen.
 
 Een vrij algemeen geaccepteerde test voor kunstmatige intelligentie is de turingtest, geformuleerd door de Engelse wiskundige Alan Turing, een van de vaders van de informatica. Deze komt erop neer dat als een computer iemand voor de gek kan houden en deze kan laten geloven dat hij een mens is, de computer intelligent moet zijn.
@@ -65,6 +74,7 @@ Deze visie kan tot het 'extreme' doorgevoerd worden, wat leidt tot het idee dat 
 Technieken als neurale netwerken en genetische algoritmen laten zien dat de AI ook inspiratie haalt uit de biologie. Zoals te lezen is zijn veel takken van de wetenschap gerelateerd aan de AI. De kunstmatige intelligentie zou dus ook gezien kunnen worden als een brug tussen verschillende disciplines. 
 
 ## Sterke en zwakke AI
+
 Binnen de AI kan onderscheid gemaakt worden tussen "sterke AI" en "zwakke AI".
 
 - Sterke AI houdt zich bezig met onderzoek met betrekking tot het creëren van een computer of software die echt kan redeneren en problemen oplossen, en die wellicht zelfbewustzijn zou hebben; hiervan zijn weer twee subtypen te onderscheiden, namelijk de mens-gelijke AI, een computer die redeneert en denkt als een mens, en de niet-mens-gelijke AI, waarin de computer een niet-menselijke, maar eigen computer-intelligentie ontwikkelt.
@@ -76,9 +86,13 @@ Binnen de AI kan onderscheid gemaakt worden tussen "sterke AI" en "zwakke AI".
 Kunstmatige intelligentie is een interdisciplinair vakgebied. Om functionele kunstmatige intelligentie te bereiken worden er technieken uit verschillende vakgebieden gebruikt. Deze vakgebieden variëren van informatica tot geesteswetenschappen. Een greep uit deze gebieden: patroonherkenning en beeldverwerking, cognitieve psychologie, logica, statistiek en linguïstiek. Voorbeelden van onderzoeksvragen zijn:
 
 - het begrijpen van opdrachten die worden gegeven met betrekking tot een kamer waarin zich eenvoudige geometrische vormen (kubussen, piramides, etc) in verschillende vormen en kleuren bevinden, zoals "zet de rode piramide op de grote blauwe kubus".
+
 - het simuleren van het gedrag van (veel) eenvoudiger dieren dan mens, bijvoorbeeld een mier, of een bodemaaltje, maar ook dat van een school vissen of een zwerm vogels (zwermintelligentie).
+
 - het spelen van diverse denksporten, bijvoorbeeld schaken, dammen, checkers of Go. Checkers (dammen op een 8x8 bord) was het eerste niet-triviale denkspel waarvoor begin jaren 60 al werd geclaimd dat het door de computer opgelost was. Bij deze bewering zijn - althans waren in die tijd - een groot aantal kanttekeningen te plaatsen en de "algemeen bekende feiten" hierover zijn bijna allemaal onjuist: het programma versloeg eenmaal een redelijk bekwaam speler die geen meester of grootmeester was, en verloor de volgende 6 partijen. De decennialang onbetwiste wereldkampioen Marion Tinsley is kort voor zijn dood tweemaal verslagen door een checkersprogramma dat Chinook heet.
+
 - het leren van een groot aantal feiten uit de echte wereld en het proberen daar door logische regels conclusies uit te trekken.
+
 - het voeren van een gesprek waarbij de enige echte input van de menselijke gesprekspartner zelf komt, zonder dat die dat in de gaten heeft (rogeriaanse psychotherapie). Dit is een soort turingtest op een beperkt terrein, en het blijkt verrassenderwijs mogelijk een enorm aantal mensen, mits ze tevoren geen achterdocht koesteren, te misleiden: velen hebben al gevraagd even met de terminal alleen te worden gelaten om onder vier ogen met de computer te kunnen praten, "omdat hun gesprekspartner hen zo goed begrijpt".
 
 ## Deep learning
@@ -92,21 +106,27 @@ Deep learning kan toegepast worden in domeinen zoals beeldherkenning, spraakherk
 Een neuraal netwerk, vroeger neuronaal netwerk genoemd, is een groep van verbonden neuronen (zenuwcellen). De twee belangrijkste vormen zijn biologische neurale netwerken, in het bijzonder het menselijk brein, en kunstmatige neurale netwerken. Dit artikel gaat in meer algemene zin in op de relatie tussen beide begrippen. 
 
 ### Biologische en kunstmatige neurale netwerken
+
 Biologische neurale netwerken zijn opgebouwd uit werkelijk bestaande zenuwcellen die in het zenuwstelsel en hersenen met elkaar zijn verbonden door middel van synapsen. In de neurowetenschap kunnen deze netwerken corresponderen met kleine groepjes neuronen met een specifieke functie, of grotere gebieden in de hersenen met een meer algemene functie. Kunstmatige neurale netwerken zijn opgebouwd uit kunstmatige eenheden of 'neuronen' die door middel van een computerprogramma de eigenschappen van echte biologische neuronen nabootsen. Kunstmatige neurale netwerken kunnen voor twee doeleinden worden toegepast: om meer inzicht te krijgen in biologische neurale netwerken, of om problemen op het terrein van kunstmatige intelligentie op te lossen. In het tweede geval is het dus niet per se de bedoeling een echt biologisch systeem te beschrijven. 
 
 ### Achtergrond
+
 Neurale netwerken zijn ontworpen naar analogie van het biologische brein, m.a.w. het zijn zeer uitgebreide en onderling verbonden netwerken van neuronen. Kunstmatige neurale netwerken zijn toe te passen in computersystemen.[1] Een kunstmatig neuraal netwerk bestaat uit verscheidene (eventueel door software gesimuleerde) meestal zeer eenvoudige processors (neuronen) met een hoge mate van onderlinge connectie waarover simpele scalaire berichten verzonden worden. De interactie tussen de diverse onderling verbonden processors waaruit het netwerk bestaat is bovendien adaptief, zodat verbindingen tussen andere processors in het neurale netwerk kunnen ontstaan, kunnen worden versterkt, verzwakt of weer verbroken kunnen worden. Dit betekent dat een neuraal netwerk te 'trainen' is. 
 
 #### Vergelijking met het neuron
+
 Een enkelvoudige processor uit het kunstmatige neurale netwerk valt te vergelijken met zijn biologische tegenhanger, het neuron. Een dergelijk neuron in het lichaam kan wel tienduizenden verschillende verbindingen met andere neuronen hebben, en de neuronen kunnen signalen genereren, afhankelijk van de ontvangen signalen, naar andere neuronen. Deze signalen bestaan uit de aanwezigheid of afwezigheid van een elektrische potentiaal en zijn van een korte duur (in de orde van 1 milliseconde). De manier waarop dit in een biologisch neuron gebeurt is zeer overzichtelijk: als de totale stimulatie van het neuron (de som van activerende en remmende impulsen die het via synapsen ontvangt van andere neuronen) een bepaalde drempelwaarde overschrijdt, 'vuurt' het neuron, dat wil zeggen het ondergaat een depolarisatiegebeurtenis (zie hiervoor ook neuron). Deze depolarisatie vindt dan via de uitgaande verbindingen van het neuron zijn weg naar alle andere neuronen waarmee het neuron via zijn eigen uitgaande uitlopers weer verbonden is. Verbindingen tussen neuronen zijn, door de structuur van de synaps, eenrichtingverkeer: een uitloper kan een andere zenuwcel stimuleren (of remmen) maar niet zelf worden gestimuleerd of geremd door het vuren van het neuron dat het heeft beïnvloed, hoewel het vurende neuron wel zelf weer uitlopers kan hebben die een invloed hebben op de cel waardoor het tot vuren werd aangezet. Doorgaans worden neurale netwerken softwarematig gesimuleerd, waarmee deze op de gewone computer ontwikkeld en getest kunnen worden. Werkt een bepaalde architectuur van een neuraal netwerk goed dan kan een geweldige versnelling van de berekeningen worden bereikt door deze in hardware uit te voeren. 
 
 #### Onderdelen van een neuraal netwerk
+
 Een neuraal netwerk kan bestaan uit een arbitrair aantal gesimuleerde neuronen (om van een netwerk te kunnen spreken is er natuurlijk wel altijd meer dan een neuron nodig). Deze neuronen kunnen in principe op alle denkbare manieren met elkaar worden verbonden, ieder neuron kan desnoods een connectie hebben met alle andere. Niettemin zijn er in de praktijk verschillende organisatievormen die voor bepaalde toepassingen beter blijken te voldoen dan andere. Een typisch neuraal netwerk bestaat uit drie lagen neuronen, een ingangslaag, een tussenlaag en een uitgangslaag. Het aantal ingangsneuronen is gelijk aan het aantal ingangsvariabelen, het aantal uitgangsneuronen wordt bepaald door het aantal gewenste uitgangsposities. Voorbeeld is patroonherkenning voor de letters van het alfabet, de ingangslaag zal hier bijvoorbeeld 256 neuronen hebben (voor 16 x 16 pixels), het aantal uitgangsneuronen zal 26 zijn, of 36 als ook cijfers herkend moeten worden. Het aantal neuronen in de tussenlaag ligt hier ergens tussenin en wordt door experimenteren bepaald. Neurale netwerken kunnen ook uit meerdere tussenlagen bestaan. 
 
 #### Werking
+
 Ieder neuron uit een bepaalde laag heeft verbinding met alle neuronen uit de laag ervoor. Iedere verbinding heeft een bepaalde overdrachtsfunctie, de som van alle ingangswaarden maal hun overdrachtsfunctie bepaalt de waarde van het neuron zelf. De overdrachtsfunctie geeft het 'gewicht' van de connectie aan, hoe sterk het signaal via die connectie aankomt bij het doelneuron, en kan positief (stimulerend) of negatief (remmend) zijn. Netwerken kunnen verschillende functies hebben. Zij kunnen gebruikt worden om informatie (bijvoorbeeld kennis) op te slaan, of om de opgeslagen informatie te transformeren of te veranderen. In het eerste geval spreekt men wel van een representatie, en in het tweede geval van een computatie. In netwerken opgeslagen informatie of kennis kan ook worden aangeleerd. Het 'trainen' van het netwerk gebeurt door het aanbieden van ingangswaarden met hun bijbehorende gewenste uitgangswaarden, en dan steeds door terugrekenen de overdrachtsfuncties bij te stellen. Meestal worden de overdrachtsfuncties geleidelijk bijgesteld, en bestaat een 'trainingssessie' uit vele (duizenden) iteraties. In het bovenstaand voorbeeld zal per letter een paar honderd voorbeelden aangeboden worden, of zoveel als nodig is. Een tweede stap in het leerproces is het aanbieden van nieuwe patronen en het controleren van het resultaat dat dat oplevert. Op die manier kan bepaald worden in hoeverre het netwerk 'volleerd' is, en hoe betrouwbaar de resultaten zijn. Uiteindelijk is voor ieder paar neuronen (A,B) in het netwerk een overdrachtsfunctie gedefinieerd, in het eenvoudigste geval een simpele coëfficiënt, die aangeeft hoe het vuren van A invloed heeft op B. Coëfficiënten worden vaak genormeerd (dat wil zeggen dat gezorgd wordt dat ze in het hele netwerk ergens tussen -1 en 1 liggen.) Het is mogelijk een neuraal netwerk te 'overtrainen', waarbij het op de bekende trainingsinput zeer goed reageert maar niet meer in staat is nieuwe inputs correct te categoriseren. Voor een goede werking van een netwerk dat blijvend lerend geconfigureerd is het soms nodig het net een poosje in vrijloop te zetten om dit effect tegen te gaan - de analogie met het 'dromen' van het menselijke brein heeft zich aan vele onderzoekers opgedrongen.
 
 ## Objectherkenning
+
 Mensen herkennen objecten zonder veel moeite hoewel objecten zelden exact hetzelfde voorkomen. Soms staan we dicht bij of veraf, wat ervoor zorgt dat het object groter of kleiner lijkt, op andere plaatsten staat hetzelfde object dan weer gedraaid of half verstopt achter iets anders. Toch hebben wij geen problemen om dit te herkennen, bij computergestuurde objectherkenning zorgt dit voor een grote moeilijkheid. Een pionier op het vlak van objectherkenning was David Lowe, een Canadese wetenschapper. Hij kwam met het idee om van een object punten te nemen die niet veranderen door translatie, rotatie, grootte en lichte vervorming. Het algoritme dat hiervoor gebruikt wordt, wordt Scale-invariant feature transform (SIFT) genoemd. Hoewel er vele manieren zijn om aan objectherkenning te doen, is dit de meest algemene methode. 
 
 ### De SIFT-methode
@@ -125,13 +145,16 @@ De resultaten die we nu bekomen hebben worden nu geclusterd, dit wil zeggen dat 
 # Spraaktechnologie
 
 ## Spraaksynthese
+
 Spraaksynthese is het kunstmatig produceren van menselijke spraak. Ook wel: Text-to-Speech (TTS), Computerstem, Tekst-naar-Spraak, kunstmatige spraak. Het is onder meer een onderzoeksgebied binnen de kunstmatige intelligentie. Met behulp van spraaksynthese-software wordt geschreven (orthografische of fonetische) tekst omgezet in gesproken tekst. Het doel van spraaksynthese-software is om menselijke spraak zo goed mogelijk na te bootsen.
 
 ### Methoden
+
 - De meest succesvolle methode van spraaksynthese is de Unit Selection Method. Deze methode wordt in de modernste spraaksynthese-software toegepast. De basis hiervoor is natuurlijke menselijke spraak. Een grote hoeveelheid fragmenten van menselijke spraak worden opgenomen, opgeslagen en op een intelligente manier aan elkaar geplakt tot de gewenste uiting. Ook voor het Nederlands bestaat tegenwoordig zeer hoogwaardige software. De toepassing van de unit selection method en de toenemende capaciteit van computers brengt tegenwoordig de kwaliteit van de spraaksynthese steeds dichter bij de natuurlijke menselijke stem. Hiermee wordt spraaksynthese werkelijk bruikbaar in geavanceerde omgevingen zoals callcenters. 
 - Selfservicetoepassingen of interactieve, spraakgestuurde toepassingen Interactive Voice Response (IVR) systemen worden veelal uitgerust met spraaksynthese. Dynamisch gegenereerde content zoals file-informatie en beurskoersen kan zo automatisch voorgelezen worden. 
 
 ## Spraakherkenning
+
 Spraakherkenning is een deelgebied van de informatica en computationele taalkunde waarbinnen methoden worden onderzocht en ontwikkeld die het mogelijk maken om automaten, in het bijzonder computers, het gesproken woord te laten herkennen en verwerken. Spraakherkenning moet onderscheiden worden van stemherkenning, een biometrische techniek om een bepaalde persoon aan de hand van zijn stem te kunnen identificeren. De methoden om beide te realiseren zijn echter wel nauw verwant.
 
 ### Soorten
@@ -143,6 +166,7 @@ Moderne spraakherkenning werkt met statistische modellen van spraak en taal en h
 ## Toepassingen
 
 ### Chatbot
+
 Een chatterbot, chatbot of kortweg bot is een geautomatiseerde gesprekspartner. Het is dan ook een samenvoeging van het woord 'chat' en 'robot'. Chatbots zijn te vinden op websites en in Instant Messenger-programma’s, zoals Facebook Messenger, Skype (het vroegere Windows Live Messenger, de opvolger van MSN Messenger), Yahoo, AIM, Google Talk, Telegram, WhatsApp, Discord en Slack. In het geval van Instant Messenger-programma's kan de chatbot worden toegevoegd als buddy. 
 
 #### Werking
@@ -162,36 +186,49 @@ Een dergelijke dienst is nuttig, maar niet erg slim: op de vraag "Ben je weer in
 Er worden wel chatbots gemaakt die zich proberen voor te doen als een echt mens; als er een dat volkomen lukt zegt men dat hij geslaagd is voor de Turing-test. Dit omdat Alan Turing, een van de stamvaders van de computer, in 1950 een artikel schreef over de vraag of dit in principe mogelijk is. 
 
 #### Toepassingen
+
 Steeds meer bedrijven zetten chatbots in om te ondersteunen in hun dialoog met consumenten. Vanwege het geautomatiseerde karakter is een chatbot een goedkoop alternatief voor het beantwoorden van basale vragen. Chatbots kunnen bijvoorbeeld ingezet worden als klantenservice (via websites).
 
 ## Virtuele assistent
+
 Een virtuele assistent (soms ook wel een spraakassistent) is een softwareprogramma die door middel van spraakherkenning taken of diensten kan uitvoeren voor de gebruiker. Het doel hiervan is om een intuïtieve koppeling te bieden tussen een gebruiker en een systeem of apparaat, zodat opdrachten of zoekopdrachten "menselijker" kunnen zijn.
 
 Vanaf circa 2012 werden dergelijke toepassingen voornamelijk gebruikt op smartphones met de besturingssystemen iOS en Android. Vanaf 2014 kwamen er slimme speakers op de markt met een ingebouwde virtuele assistent.
 
 ### Mogelijkheden
+
 Via een virtuele assistent is het mogelijk om informatie op te vragen over het weer, sportuitslagen, recepten, en om afspraken in een agenda te zetten of het instellen van een herinnering. Ook kan er opdracht worden gegeven voor bepaalde acties, zoals het afspelen van muziek of video, of het opstarten van een toepassing.
 
 ### Techniek
+
 Voordat een taalkundige invoer door de gebruiker kan worden gemaakt, moet deze eerst worden herkend en begrepen. Spraakherkenning en parseralgoritmen worden hiervoor gebruikt. Een herkende opdracht wordt vervolgens overgedragen naar de overeenkomstige toepassing. Het doel van de techniek is om een naadloze taaldialoog tussen mens en machine te creëren. Om een snelle reactietijd mogelijk te maken, worden de meeste gegevens verwerkt op servers van de aanbieder, en hiervoor is een internetverbinding noodzakelijk.
 
 ### Toepassingen
 
 #### Amazon Alexa
+
 Alexa is een virtuele assistent ontwikkeld door Amazon. Het werd eerst gebruikt door de Amazon Echo en de Amazon Echo Dot-slimme speakers. De gebruiker kan er gewoon tegen spreken om muziek af te spelen, actielijsten te maken, alarms in te stellen, en allerlei informatie op te vragen zoals het weer, de verkeerssituatie, sport of nieuws.[1] Alexa kan ook andere slimme apparaten aansturen zoals een domoticasysteem. Gebruikers kunnen de mogelijkheden uitbreiden door zogenaamde "skills" te installeren. 
 
 #### Google Assistant
+
 Google Assistant is een virtuele assistent ontwikkeld door Google. Het product werd voorgesteld in mei 2016 en is de opvolger van Google Now. De software is te vinden op de Pixel-smartphones en is in de chatapp Allo geïntegreerd. In Google Home wordt gebruikgemaakt van Google Assistant.
 
 In maart 2017 werd de Google Assistant uitgerold naar telefoons met het Android besturingssysteem, versies 6.0 en 7.0. Gebruikers kunnen een gesprek aangaan met de assistent. In mei 2018 demonstreerde Google dat Google Assistant telefonisch een afspraak met de kapper maakte zonder dat deze merkte dat het een machine was.
 
 #### Siri (Apple)
+
 Siri werd oorspronkelijk als project ontwikkeld door de afdeling kunstmatige intelligentie van SRI International. Het onderdeel spraakherkenning werd ontwikkeld door Nuance Communications en maakt gebruik van machinaal leren om te kunnen functioneren. Siri werd aangeboden als een applicatie via de applicatiewinkel App Store.
 
 Apple Inc. kocht het programma twee maanden later op 28 april 2010, en werd geïntegreerd in de iPhone 4S die uitkwam in oktober 2011. De aangekondigde ontwikkeling van BlackBerry OS- en Androidapplicaties werd stopgezet na de aankoop door Apple.[4] De oorspronkelijke versie voor de iPhone 4S ontving gemengde reacties. De stemherkenning en context van de zinnen werd geprezen, maar er was kritiek op de strakke commando's en een gebrek aan flexibiliteit.
 
 #### Microsoft Cortana
+
 Cortana was een virtuele assistent ontwikkeld door Microsoft, maar is ondertussen overleden.
 
 #### Bixbi
+
 Bixbi is sinds maart 2017 de virtuele assistent van Samsung Electronics.
+
+## practisch deel : gebruik van Google Assistent
+
+Ik ga op onderzoek in de wereld van Google assistent en probeer zo te begrijpen wat heel mijn jaarwerk is en betekent. Het is een lange weg met enkele bulten maar ik leer er erg veel uit.
