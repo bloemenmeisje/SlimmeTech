@@ -1,4 +1,3 @@
-﻿
 ## Bixby
 
 Bixby is de slimme assistent van Samsung. Deze assistent heeft als doel je dagelijkse routine makkelijker te maken en je te helpen bij afspraken of betalingen uit te voeren of als huishoudhulp te dienen. 

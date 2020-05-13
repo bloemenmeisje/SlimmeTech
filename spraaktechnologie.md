@@ -1,4 +1,3 @@
-﻿compleet
 # spraaktechnologie
 
 _Deze tekst is grotendeels overgenomen uit Nederlandse Wikipedia-artikelen maar wel aangepast voor de lezer:_
