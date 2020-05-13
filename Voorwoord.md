@@ -10,7 +10,8 @@ Mijn eerste gedachte van Artificiële Intelligentie ook wel afgekort als A.I.. T
 Dankzij de Slimme Apparaten kwam ik wel uit op slimme assistenten en de technologie erachter,  met de samenkomst van Machine-en Deep-Learning. Dit samen vormde dan weer een onderdeel van Artificiële Intelligentie.
 Mijn verwachtingen waren niet super hoog toen ik begon, maar ik verwachtte wel dat er coole dingen op mijn ontdekkingspad zouden terecht komen.
 
-Na mijn klein onderzoek,  begonnen er zich echter wel wat vragen te vormen in mijn hoofd: 
+Na mijn klein onderzoek,  begonnen er zich echter wel wat vragen te vormen in mijn hoofd:
+ 
 'Hoe komt het dat een slimme assistent zomaar woorden begrijpt?' , 
 'Wat is de technologie erachter?' , 
 'Wie zijn de grote bedrijven en drijvende krachten achter de slimme assistenten?' 

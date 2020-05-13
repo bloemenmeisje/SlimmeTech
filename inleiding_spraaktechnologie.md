@@ -6,17 +6,18 @@ Communicatie is een activiteit waarbij levende wezens betekenissen uitwisselen d
 
 Horen, zien en zwijgen. Ook 1 minuut stilte kan veelzeggend zijn.
 
-Bij communicatie wordt informatie met elkaar gedeeld door middel van geluid (spraak en toon) en vorm (beeld, symboliek en tekst). Het contact omvat ook handelingen want door gedrag worden eindeloos veel betekenissen kenbaar gemaakt. De impact van (on–)bewuste daden kan heel groot zijn bij betekenistoekenning: non-verbale communicatie kan zelfs de doorslag geven boven doelbewust gekozen woorden en symboliek. Denk aan de (on–)geloofwaardigheid van een gesprekspartner die beweert dat hij niet nerveus is, maar wel zweet en trilt. 
+Bij communicatie wordt informatie met elkaar gedeeld door middel van geluid (spraak en toon) en vorm (beeld, symboliek en tekst). Het contact omvat ook handelingen want door gedrag worden heel veel betekenissen kenbaar gemaakt. Het effect van (on–)bewuste daden kan heel groot zijn bij het geven van een betekenis: non-verbale communicatie kan zelfs de doorslag geven boven gekozen woorden en symboliek. We mogen de (on–)geloofwaardigheid van een gesprekspartner niet onderschatten. Bv : iemand die beweert dat hij niet nerveus is, maar wel zweet en trilt. 
 
 ## Specifieke kenmerken van het communicatieproces
 
-Communicatie is een circulair proces waarin gemakkelijk misverstanden ontstaan. De vijf axioma's van Paul Watzlawick kunnen helpen dit complexe proces te begrijpen:
+Communicatie is een proces waarin gemakkelijk misverstanden ontstaan. 
+De vijf grondregels van Paul Watzlawick kunnen helpen dit complexe proces te begrijpen:
 
-1. Het is onmogelijk om niét te communiceren: alle gedrag is communicatie, ook wie onverschillig is of elke betrokkenheid ontkent, bedrijft hiermee communicatie (wegkijken, niets terugzeggen).
+1. Het is onmogelijk om niét te communiceren: alle gedrag is communicatie, bv wegkijken of niets terugzeggen.
 
-2. Elke communicatie omvat een inhouds- en een betrekkingsniveau: wat er overkomt wordt beïnvloed door de relatie.
+2. Elke communicatie bestaat uit een inhouds- en een betrekkingsniveau: wat er overkomt, wordt beïnvloed door de relatie.
 
-3. Elke communicatie is afhankelijk van de interpretatie van gebeurtenissen: als partijen oorzaak en gevolg van elkaars interactie verschillend uitleggen (“Nee, jíj begon ermee”).
+3. Elke communicatie is afhankelijk van de interpretatie van gebeurtenissen: bv als partijen oorzaak en gevolg van elkaar verschillend uitleggen (“Nee, jíj begon ermee”).
 
 4. Mensen communiceren zowel digitaal (via cijfers, letters, woorden en taal) maar ook analoog (zoals via toonzetting, stijl en gebaren).
 
@@ -24,16 +25,21 @@ Communicatie is een circulair proces waarin gemakkelijk misverstanden ontstaan. 
 
 ## Informeren en communiceren
 
-Telefonie en chatten zijn voorbeelden van simultane communicatie, waarbij actie en reactie elkaar direct opvolgen. Bij bijvoorbeeld een ingezonden brief is de interval in het contact groter.
-De term feedback wordt in dit verband gebruikt voor de terugkoppeling of reactie op een communicatie-initiatief. Het bekendste basismodel dat een communicatieproces uitbeeldt heeft als elementen een zender die een boodschap via een medium naar een ontvanger stuurt die daar vervolgens feedback op geeft.
+Telefonie en chatten zijn voorbeelden van gelijktijdige communicatie, waarbij actie en reactie elkaar direct opvolgen. Bij bijvoorbeeld een ingezonden brief is de tijd tussen het contact groter.
+De term feedback wordt in dit verband gebruikt voor de reactie op een bericht. 
+Het bekendste basismodel van een communicatieproces heeft als elementen :  een zender die een boodschap via een medium naar een ontvanger stuurt die daar vervolgens feedback op geeft.
 
-Een kenmerk van het contact bij communicatie is de twee- of meerzijdigheid ervan. Op bijvoorbeeld een aanleiding volgt een vraag, een antwoord, er komt een tegenreactie, etc . De reactie kan van een een iemand komen, maar ook van een publiek. De communicatie eindigt als de wisselwerking stopt. Zolang er sprake is van (een poging tot) eenrichtingsverkeer dan noemen we het doorgaans informeren. De meeste boodschappen die worden verstuurd of uitgezonden komen nooit aan. Gegevens veranderen pas in informatie zodra ze zijn geïnterpreteerd. Een onbegrijpelijk bord bevat weliswaar signalen, maar als die betekenisloos zijn, is er geen sprake van informatieverwerking. 
+Een kenmerk van het contact bij communicatie is de twee- of meerzijdigheid ervan. Op bijvoorbeeld een aanleiding volgt een vraag, een antwoord, er komt een tegenreactie, etc . De reactie kan iemand komen, maar ook van een publiek. De communicatie eindigt als de wisselwerking stopt.
+
+Zolang er sprake is van (een poging tot) eenrichtingsverkeer dan noemen we het informeren. De meeste boodschappen die worden verstuurd of uitgezonden worden,  komen nooit aan. Gegevens veranderen pas in informatie zodra ze zijn geïnterpreteerd. Een onbegrijpelijk bord bevat signalen, maar als die geen betekenis hebben, is er geen sprake van informatieverwerking. 
 
 ## Schaalniveaus van communicatie
 
-Een postzegel als informatiedrager: de tekst verwijst naar onder meer een schilder en de frankeerwaarde, het beeld naar een schilderij, decor, kleding, brief, typografie... De plaats waar een postzegel is geplakt kan soms een codeboodschap bevatten. In het Verenigd Koninkrijk is het verboden een postzegel met de beeltenis van de koningin ondersteboven op een poststuk te plakken.
+Een postzegel als informatiedrager: de tekst verwijst naar onder meer naar een schilder en de frankeerwaarde, het beeld naar een schilderij, decor, kleding, brief, typografie... 
+De plaats waar een postzegel is geplakt kan soms een codeboodschap bevatten. 
+Zo is het in het Verenigd Koninkrijk verboden een postzegel met de beeltenis van de koningin ondersteboven op een poststuk te plakken.
 
-Ten aanzien van communicatieprocessen worden tot wel zeven niveaus onderscheiden[1]:
+Communicatieprocessen worden verdeeld in zeven niveaus :
 
 1. massacommunicatie: bij een grote verzameling van mensen
 
@@ -55,19 +61,23 @@ Kunstmatige intelligentie (KI) of artificiële intelligentie (AI) is de wetensch
 
 ## Omschrijving
 
-Het is moeilijk te definiëren wat 'intelligentie' precies is. Het is dan ook moeilijk te definiëren wat artificiële intelligentie precies is.
+Het is moeilijk te definiëren wat 'intelligentie' precies is. Laat staan dat men dan kan verwoorden wat artificiële intelligentie precies is.
 
-Dingen die aanvankelijk als zeer intelligent werden beschouwd, zoals het winnen van een partij schaak van de wereldkampioen schaken, blijken opeens toch niet zo intelligent te zijn als het doel eenmaal is bereikt (Kasparov-Deep Blue, 1997). Soms wordt weleens gezegd 'Kunstmatige intelligentie is wat we de computer nog niet kunnen laten doen'.
+Dingen die eerst als zeer intelligent werden beschouwd, zoals het winnen van een partij schaak van de wereldkampioen schaken, blijken opeens toch niet zo intelligent te zijn als het doel eenmaal is bereikt (Kasparov-Deep Blue, 1997). Soms wordt weleens gezegd 'Kunstmatige intelligentie is wat we de computer nog niet kunnen laten doen'.
 
-Meer gedetailleerd definiëren Andreas Kaplan en Michael Haenlein artificiële intelligentie als "het vermogen van een systeem om externe gegevens correct te interpreteren, om te leren van deze gegevens, en om deze lessen te gebruiken om specifieke doelen en taken te verwezenlijken via flexibele aanpassing." Geleend uit de managementliteratuur, classificeren Kaplan en Haenlein artificiële intelligentie in drie verschillende types van AI-systemen: analytisch, mens-geïnspireerd en vermenselijkte artificiële intelligentie. 
+Andreas Kaplan en Michael Haenlein proberen artificiële intelligentie te verklaren als
+ "het vermogen van een systeem om externe gegevens correct te interpreteren, om te leren van deze gegevens, en om deze lessen te gebruiken om specifieke doelen en taken te verwezenlijken via flexibele aanpassing." 
 
-- Analytische AI heeft enkel eigenschappen die consistent zijn met cognitieve intelligentie die een cognitieve voorstelling van de wereld genereert en die leren gebruikt op basis van vorige ervaringen om toekomstige beslissingen te beïnvloeden. 
+Kaplan en Haenlein verdelen artificiële intelligentie in drie verschillende types van AI-systemen: analytisch, mens-geïnspireerd en vermenselijkte artificiële intelligentie. 
 
-- Mens-geïnspireerde AI bevat elementen van cognitieve en emotionele intelligentie, begrip, in aanvulling op cognitieve elementen, alsook menselijke emoties waarmee rekening wordt gehouden in het beslissingsproces.
+- Analytische AI heeft enkel eigenschappen die nauwkeurig zijn met cognitieve intelligentie die een cognitieve voorstelling van de wereld maakt. Op die manier maken gebruik van vorige ervaringen om toekomstige beslissingen te beïnvloeden. 
+
+- Mens-geïnspireerde AI bevat elementen van cognitieve en emotionele intelligentie, begrip, in aanvulling op cognitieve elementen, maar ook menselijke emoties waarmee rekening wordt gehouden in het beslissingsproces.
  
-- Vermenselijkte AI vertoont eigenschappen van alle types competenties (cognitieve, emotionele en sociale intelligentie), en is in staat zelfbewust te zijn in interacties met anderen.
+- Vermenselijkte AI vertoont eigenschappen van alle types vaardigheden (cognitieve, emotionele en sociale intelligentie), en is in staat zelfbewust te zijn in interacties met anderen.
 
-Een vrij algemeen geaccepteerde test voor kunstmatige intelligentie is de turingtest, geformuleerd door de Engelse wiskundige Alan Turing, een van de vaders van de informatica. Deze komt erop neer dat als een computer iemand voor de gek kan houden en deze kan laten geloven dat hij een mens is, de computer intelligent moet zijn.
+Een vrij algemeen geaccepteerde test voor kunstmatige intelligentie is de Turingtest, geformuleerd door de Engelse wiskundige Alan Turing, een van de vaders van de informatica.
+Deze komt erop neer dat als een computer iemand voor de gek kan houden en deze kan laten geloven dat hij een mens is, de computer intelligent moet zijn.
 
 Deze visie kan tot het 'extreme' doorgevoerd worden, wat leidt tot het idee dat een kunstmatig intelligente entiteit het ultieme model van de mens is. In deze hoedanigheid heeft de AI veel te maken met de psychologie. Een andere visie is om alleen de 'goede' dingen van de mens te gebruiken en waar mogelijk dingen te verbeteren. Computers zijn in verschillende dingen, zoals wiskunde, een stuk beter dan mensen. Een menselijke intelligentie gecombineerd met de rekenkracht en opslagtechnieken van een computer overstijgt de menselijke intelligentie. Bij dergelijke artefacten is de mens als maat overduidelijk minder geschikt. Als dit het doel is dan relateert de AI zich weer meer met de informatica.
 
