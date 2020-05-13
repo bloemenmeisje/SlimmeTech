@@ -48,5 +48,9 @@ Ik probeerde en probeerde en toch bleef het niet lukken. Ik probeerde iets ander
 Ik kwam er ook achter dat als men gewoon een woord inspreekt de assistent je er een definitie van geeft. Als je bevoorbeeld " mop" inspreekt vertelt je assistent wat dat is en wat ze vond.
 
 Zo kan je veel dingen vragen aan je assistent.
-Zo kan je nog veel doen met je assistent, het geeft veel opties. Zo kan je ook boodschappenlijstjes aanmaken en je berichten laten voorlezen. Dit vind ik namelijk wel interessant dus onderzocht ik het. Hieruit bleek dat als je een
+Zo kan je nog veel doen met je assistent, het geeft veel opties. Zo kan je ook boodschappenlijstjes aanmaken en je berichten laten voorlezen. Dit vind ik namelijk wel interessant dus onderzocht ik het. Hieruit bleek dat als je een binnen gekomen bericht niet openent en vraagt aan je assistent om berichten voor te lezen. Dit lukte echter niet.
+
+Ik probeerde het enkele  keren maar dit lukte niet. Ik probeerde de assistent app te openen. deze werkte niet. Ik ging kijken wat er scheelde en er waren enkele mogelijkheden.
+
+De eerste mogelijkheid was dat er iets niet in orde was van wat ik nodig had voor mijn google Assistent. Dit was echter niet het geval want ik kan kon wel via google zelf de assistent gebruiken. Voor de zekerheid keek ik dit toch eens na. Ik had nodig : Als je androit + 5.0  gebruikt dan moet je 1 GB hebben, als je + 6.0 gebruikt moet je echter 1.5 GB hebben. Je moet een schermresolutie van 720p hebben en  de taal die je wilt gebruiken moet vermeld zijn in de talen die gebruikt kunnen worden. Daarnaast moet je ook
 
