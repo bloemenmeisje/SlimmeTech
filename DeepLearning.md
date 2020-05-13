@@ -3,6 +3,8 @@
 Deep-learning is een onderdeel van Machine-learning. DL (Deep-Learning) is meer een mentale groei en verbetering dan een mechanische. Machine-learning valt ook voor een deel in Artificiële intelligentie.
 In de industrie wordt DL voornamelijk gebruikt voor kleine praktische problemen.
 
+Deep learning kan toegepast worden in domeinen zoals beeldherkenning, spraakherkenning, natural language processing, audioherkenning, social network-filtering, machinevertaling, bioinformatica, samenstelling van medicijnen, medische beeldherkenning en bordspelprogramma's. Ze kunnen soms resultaten bekomen vergelijkbaar met of soms beter dan menselijke specialisten.
+
 Deep-Learning is nog volop in ontwikkeling  maar men denkt dat het niet alleen een goede 'tool' is maar misschien ook een mooie manier om onze hersenen beter te leren kennen. 
 Via Deep-Learning hebben ze de vorige verbeteringen in 'Computer-Vision','Speech regonition' en 'Machine-translation' nog extra kunnen opwaarderen. DL leert beetje bij beetje en heeft hiermee de laatste jaren erg veel succes. Als mensen  nu zouden stoppen met onderzoek te doen naar Deep-Learning, dan nog zou het een enorme impact hebben op de wereld !
 DL verandert en verbetert ook in verschillende snelheden.

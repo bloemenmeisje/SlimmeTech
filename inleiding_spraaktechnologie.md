@@ -79,9 +79,9 @@ Kaplan en Haenlein verdelen artificiële intelligentie in drie verschillende typ
 Een vrij algemeen geaccepteerde test voor kunstmatige intelligentie is de Turingtest, geformuleerd door de Engelse wiskundige Alan Turing, een van de vaders van de informatica.
 Deze komt erop neer dat als een computer iemand voor de gek kan houden en deze kan laten geloven dat hij een mens is, de computer intelligent moet zijn.
 
-Deze visie kan tot het 'extreme' doorgevoerd worden, wat leidt tot het idee dat een kunstmatig intelligente entiteit het ultieme model van de mens is. In deze hoedanigheid heeft de AI veel te maken met de psychologie. Een andere visie is om alleen de 'goede' dingen van de mens te gebruiken en waar mogelijk dingen te verbeteren. Computers zijn in verschillende dingen, zoals wiskunde, een stuk beter dan mensen. Een menselijke intelligentie gecombineerd met de rekenkracht en opslagtechnieken van een computer overstijgt de menselijke intelligentie. Bij dergelijke artefacten is de mens als maat overduidelijk minder geschikt. Als dit het doel is dan relateert de AI zich weer meer met de informatica.
-
-Technieken als neurale netwerken en genetische algoritmen laten zien dat de AI ook inspiratie haalt uit de biologie. Zoals te lezen is zijn veel takken van de wetenschap gerelateerd aan de AI. De kunstmatige intelligentie zou dus ook gezien kunnen worden als een brug tussen verschillende disciplines. 
+Deze visie kan tot het 'extreme' doorgevoerd worden, en dat geeft het idee dat een kunstmatig intelligente eenheid het ultieme model van de mens is. Daarom heeft AI veel te maken met de psychologie. 
+Een andere visie is om alleen de 'goede' dingen van de mens te gebruiken en waar mogelijk dingen te verbeteren. Computers zijn in verschillende dingen, zoals wiskunde, een stuk beter dan mensen. Een menselijke intelligentie gecombineerd met de rekenkracht en opslagtechnieken van een computer overstijgt de menselijke intelligentie. 
+Als dit het doel is, dan relateert de AI zich weer meer met de informatica.
 
 ## Sterke en zwakke AI
 
@@ -89,25 +89,26 @@ Binnen de AI kan onderscheid gemaakt worden tussen "sterke AI" en "zwakke AI".
 
 - Sterke AI houdt zich bezig met onderzoek met betrekking tot het creëren van een computer of software die echt kan redeneren en problemen oplossen, en die wellicht zelfbewustzijn zou hebben; hiervan zijn weer twee subtypen te onderscheiden, namelijk de mens-gelijke AI, een computer die redeneert en denkt als een mens, en de niet-mens-gelijke AI, waarin de computer een niet-menselijke, maar eigen computer-intelligentie ontwikkelt.
 
-- Zwakke AI houdt zich bezig met onderzoek in beperkte deelgebieden waarin gedragingen mogelijk zijn die intelligent lijken, maar niet echt intelligent zijn. Hier zijn de meeste vorderingen gemaakt, in de vorm van bijvoorbeeld zoekalgoritmen en expertsystemen. 
+- Zwakke AI houdt zich bezig met onderzoek in beperkte deelgebieden waarin gedragingen mogelijk zijn die intelligent lijken, maar niet echt intelligent zijn. 
 
 ## Onderzoeksgebieden binnen de AI
 
-Kunstmatige intelligentie is een interdisciplinair vakgebied. Om functionele kunstmatige intelligentie te bereiken worden er technieken uit verschillende vakgebieden gebruikt. Deze vakgebieden variëren van informatica tot geesteswetenschappen. Een greep uit deze gebieden: patroonherkenning en beeldverwerking, cognitieve psychologie, logica, statistiek en linguïstiek. Voorbeelden van onderzoeksvragen zijn:
+Kunstmatige intelligentie is een interdisciplinair vakgebied. Om functionele kunstmatige intelligentie te bereiken,  worden er technieken uit verschillende vakgebieden gebruikt. Deze vakgebieden variëren van informatica tot geesteswetenschappen. Een greep uit deze gebieden: patroonherkenning en beeldverwerking, cognitieve psychologie, logica, statistiek en linguïstiek. 
+Voorbeelden van onderzoeksvragen zijn:
 
 - het begrijpen van opdrachten die worden gegeven met betrekking tot een kamer waarin zich eenvoudige geometrische vormen (kubussen, piramides, etc) in verschillende vormen en kleuren bevinden, zoals "zet de rode piramide op de grote blauwe kubus".
 
-- het simuleren van het gedrag van (veel) eenvoudiger dieren dan mens, bijvoorbeeld een mier, of een bodemaaltje, maar ook dat van een school vissen of een zwerm vogels (zwermintelligentie).
+- het simuleren van het gedrag van (veel) eenvoudigere dieren dan mens, bijvoorbeeld een mier, of een bodemaaltje, maar ook dat van een school vissen of een zwerm vogels (zwermintelligentie).
 
-- het spelen van diverse denksporten, bijvoorbeeld schaken, dammen, checkers of Go. Checkers (dammen op een 8x8 bord) was het eerste niet-triviale denkspel waarvoor begin jaren 60 al werd geclaimd dat het door de computer opgelost was. Bij deze bewering zijn - althans waren in die tijd - een groot aantal kanttekeningen te plaatsen en de "algemeen bekende feiten" hierover zijn bijna allemaal onjuist: het programma versloeg eenmaal een redelijk bekwaam speler die geen meester of grootmeester was, en verloor de volgende 6 partijen. De decennialang onbetwiste wereldkampioen Marion Tinsley is kort voor zijn dood tweemaal verslagen door een checkersprogramma dat Chinook heet.
+- het spelen van diverse denksporten, bijvoorbeeld schaken, dammen, checkers of Go. Checkers (dammen op een 8x8 bord) was het eerste  denkspel waarvoor begin jaren 60 al werd geclaimd dat het door de computer opgelost was. Bij deze bewering zijn - althans in die tijd - een groot aantal kanttekeningen te plaatsen en de "algemeen bekende feiten" hierover zijn bijna allemaal onjuist: het programma versloeg eenmaal een redelijk bekwaam speler die geen meester of grootmeester was, en verloor de volgende 6 partijen. De onbetwiste wereldkampioen Marion Tinsley is kort voor zijn dood tweemaal verslagen door een checkersprogramma dat Chinook heet.
 
 - het leren van een groot aantal feiten uit de echte wereld en het proberen daar door logische regels conclusies uit te trekken.
 
-- het voeren van een gesprek waarbij de enige echte input van de menselijke gesprekspartner zelf komt, zonder dat die dat in de gaten heeft (rogeriaanse psychotherapie). Dit is een soort turingtest op een beperkt terrein, en het blijkt verrassenderwijs mogelijk een enorm aantal mensen, mits ze tevoren geen achterdocht koesteren, te misleiden: velen hebben al gevraagd even met de terminal alleen te worden gelaten om onder vier ogen met de computer te kunnen praten, "omdat hun gesprekspartner hen zo goed begrijpt".
+- het voeren van een gesprek waarbij de enige echte input van de menselijke gesprekspartner zelf komt, zonder dat die dat in de gaten heeft (rogeriaanse psychotherapie). Dit is een soort Turingtest op een beperkt terrein, en het blijkt verrassenderwijs mogelijk een enorm aantal mensen, mits ze tevoren geen achterdocht koesteren, te misleiden: velen hebben al gevraagd even met de terminal alleen te worden gelaten om onder vier ogen met de computer te kunnen praten, "omdat hun gesprekspartner hen zo goed begrijpt".
 
 ## Deep learning
 
-Deep learning is een deel van een grotere familie van methodes van machinaal leren, gebaseerd op kunstmatige neurale netwerken. Het leren kan gesuperviseerd gebeuren, semi-gesuperviseerd, of niet gesuperviseerd.
+Deep learning is een deel van een grotere familie van methodes van machinaal leren, zie Deep Learning.
 
 Deep learning kan toegepast worden in domeinen zoals beeldherkenning, spraakherkenning, natural language processing, audioherkenning, social network-filtering, machinevertaling, bioinformatica, samenstelling van medicijnen, medische beeldherkenning en bordspelprogramma's. Ze kunnen soms resultaten bekomen vergelijkbaar met of soms beter dan menselijke specialisten.
 
