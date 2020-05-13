@@ -1,5 +1,4 @@
-﻿niet zeker
-## Woord vooraf
+﻿## Woord vooraf
 
 Ik heb gekozen voor het onderwerp Slimme Technologie.
 

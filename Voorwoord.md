@@ -1,5 +1,3 @@
-﻿niet zeker
-
 # Voorwoord
 
 Ik heb voor dit onderwerp gekozen omdat ik het beangstigend vindt wat Google, Amazon, Facebook,...., allemaal van ons, de burgers van de aarde, weten en hoe ze dit te weten komen. Dit onderwerp wou ik ook bekijken omdat ik merk dat slimme assistenten en Google, Amazon,Facebook, Microsoft, enz. een erg grote rol spelen in het leven van tegenwoordig en ook steeds een grotere rol gaan krijgen.
