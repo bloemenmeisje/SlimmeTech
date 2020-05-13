@@ -47,6 +47,7 @@ Ik probeerde en probeerde en toch bleef het niet lukken. Ik probeerde iets ander
 
 Ik kwam er ook achter dat als men gewoon een woord inspreekt de assistent je er een definitie van geeft. Als je bevoorbeeld " mop" inspreekt vertelt  je assistent wat dat is en wat ze vond.
 
+Zo kan je veel dingen vragen aan je assistent. Google assistent antwoordt ook op vragen zoals "hoe oud is de Notre Dame?".
 
-
+Zo kan je nog veel doen met je assistent, het geeft veel opties. Zo kan je ook boodschappenlijstjes aanmaken en je mail laten voorlezen. Dit vind ik namelijk
 
