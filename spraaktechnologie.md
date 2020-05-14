@@ -1,14 +1,5 @@
 # spraaktechnologie
-
-_Deze tekst is grotendeels overgenomen uit Nederlandse Wikipedia-artikelen maar wel aangepast voor de lezer:_
-
-- [Lernout_%26_Hauspie](https://nl.wikipedia.org/wiki/Lernout_%26_Hauspie)
-- [Spraakherkenning](https://nl.wikipedia.org/wiki/Spraakherkenning)
-- [Spraaksynthese](https://nl.wikipedia.org/wiki/Spraaksynthese)
-- [Ieper_Business_Park]https://nl.wikipedia.org/wiki/Ieper_Business_Park)
-
---- 
-             
+            
 ## Lernout & Hauspie
 
 Lernout & Hauspie was een spraaktechnologiebedrijf opgericht door Jo Lernout, Pol Hauspie en Nico Willaert.
