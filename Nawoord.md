@@ -30,3 +30,7 @@ Het gebruik van de spraakassistenten zal in de nabije toekomst zeker toenemen...
 Mijn persoonlijke mening is dat die mensen willen kiezen voor een "betere, meer bewuste" wereld in het algemeen. 
 
 Ik heb veel geleerd doorheen dit jaar en ik ben wel heel blij dat ik dit onderwerp gekozen heb. Ik heb mijn vragen doorheen het jaar kunnen beantwoorden en dit gaf me ook een goed gevoel.
+
+Je kan mijn jaarwerk terugvinden op Github : https://github.com/bloemenmeisje/SlimmeTech .
+De software die ik gebruikte om mijn boekje vorm te geven is LYX, ik maakte ook een website :https://bloemenmeisje.github.io/SlimmeTech/
+
