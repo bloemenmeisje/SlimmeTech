@@ -216,6 +216,3 @@ Cortana was een virtuele assistent ontwikkeld door Microsoft, maar is ondertusse
 
 Bixbi is sinds maart 2017 de virtuele assistent van Samsung Electronics.
 
-## praktisch deel : gebruik van Google Assistent
-
-Ik ga op onderzoek in de wereld van Google assistent en probeer zo te begrijpen wat heel mijn jaarwerk is en betekent. Het is een lange weg met enkele bulten maar ik leer er erg veel uit.
