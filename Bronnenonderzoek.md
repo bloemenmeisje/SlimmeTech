@@ -2,7 +2,7 @@
 
 https://assistant.google.com/
 
-######  informatie over de bron
+##### informatie over de bron
 
 Deze bron is een primaire bron. Het is een geschreven bron en heeft een informatief en economisch doel.
 Deze bron gaat over Google assistent en is vrij betrouwbaar want het is gemaakt door de maker van Google assistent zelf, namelijk Google.

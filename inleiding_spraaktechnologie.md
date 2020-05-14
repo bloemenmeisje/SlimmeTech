@@ -156,7 +156,7 @@ Het is onder meer een onderzoeksgebied binnen de kunstmatige intelligentie. Met 
 - De meest succesvolle methode van spraaksynthese is de Unit Selection Method. Deze methode wordt in de modernste spraaksynthese-software toegepast. De basis hiervoor is natuurlijke menselijke spraak. Een grote hoeveelheid fragmenten van menselijke spraak worden opgenomen, opgeslagen en op een intelligente manier aan elkaar geplakt tot de gewenste uiting. Ook voor het Nederlands bestaat tegenwoordig zeer hoogwaardige software. De toepassing van de unit selection method en de toenemende capaciteit van computers brengt tegenwoordig de kwaliteit van de spraaksynthese steeds dichter bij de natuurlijke menselijke stem. Hiermee wordt spraaksynthese werkelijk bruikbaar in omgevingen zoals callcenters. 
 - Selfservicetoepassingen of interactieve, spraakgestuurde toepassingen Interactive Voice Response (IVR) systemen worden veelal uitgerust met spraaksynthese. File-informatie en beurskoersen kunnen zo automatisch voorgelezen worden. 
 
-## Spraakherkenning
+### Spraakherkenning
 
 Spraakherkenning is een deelgebied van de informatica waarbinnen methoden worden onderzocht en ontwikkeld die het mogelijk maken om automaten, in het bijzonder computers, het gesproken woord te laten herkennen en verwerken. 
 
