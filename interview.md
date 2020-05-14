@@ -160,7 +160,6 @@ Wist je dat de auteur van de “Blade Runner” geïnspireerd was door een agend
 
 ##### Denkt u dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
 
-
 Op een of ander manier bedacht ik net dat in de wereld van nu, het niet meer  God is,die in de wolken woont, maar de pinguïns naar het schijnt. :D
 Ik weet niet hoe dat het assisteren zit. Maar het feit dat je een gadget kunt kopen, die voor jou kan vertalen, lijkt mij een bevestiging dat “the future is already here”. It’s only not evenly distributed.
 
@@ -169,3 +168,12 @@ Ik weet niet hoe dat het assisteren zit. Maar het feit dat je een gadget kunt ko
 Misschien kunnen wij antwoorden op sommige van deze vragen in de culturen zoeken /vinden die al iets of wat hebben gezien. 
 Als wij een de mensen in de buurt van het stadspark, deze vragen kunnen stellen. Waarom hebben ze geen tv of computer of internet thuis?
 Bedoelde Johannes in de openbaring met een draak, toevallig niet de Chinezen met hun traditionele draak? Die verschijnt nu in de vorm van 5G. 
+
+### besluit en beschrijving
+
+Ik heb dit intervieuw gedaan met 2 mensen uit het onderwijs (unversitair) en 2 mensen uit het ITbesdrijfsleven. de leeftijd van de mensen zijn tussen 30 en 60. De namen vernoem in niet in verband met privacyoverwegeningen.
+
+Ze zijn wantrouwig tegenover de assistenten. Ze hebben allemaal al eens een assistent gebruikt maar enkel omdat ze nieuwschierig zijn. Ze vermoeden dat er ontwikkeling gaat plaatsvinden. De meest gebruikte assistenten zijn Amazon Alexa, Google Assistenten en Apple Siri. Er zijn positieve en negatieve punten. Ze vinden allemaal dat de assistenten niet gebruikt moeten worden als dagelijks middel en vermoeden ook dat het verschil van het leven zonder en met assistenten niet heel groot zouden zijn.
+Over de laatste vraag zijn ze het helemaal eens: "Er is te weinig privacy!"
+
+
