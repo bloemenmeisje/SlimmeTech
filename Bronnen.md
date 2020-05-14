@@ -55,6 +55,12 @@ https://nl.wikipedia.org/wiki/Amazon_Alexa
 
 https://nl.wikipedia.org/wiki/Spraakherkenning
 
+https://nl.wikipedia.org/wiki/Lernout_%26_Hauspie
+
+https://nl.wikipedia.org/wiki/Spraaksynthese
+
+https://nl.wikipedia.org/wiki/Ieper_Business_Park
+
 ##### Bixby
 
 https://www.samsung.com/be/apps/bixby/
