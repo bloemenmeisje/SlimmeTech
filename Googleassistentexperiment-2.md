@@ -1,8 +1,8 @@
-## Google assistent als experiment
+#Google assistent als experiment
 
 Voor mijn jaarwerk heb ik mijn Google assistent ingeschakeld als experiment. Ik vond het best een moeilijke beslissing omdat er ook enkele nadelen aan verbonden zijn (Google herkent je stem en weet dus wat je opzoekt). Toch wilde ik zien hoe een spraakassistent in 'real life' werkt en hoe het verandert doorheen de tijd.
 
-#### Het onderzoek
+## Het onderzoek
 
 De eerste opdracht was een beetje onderzoek te doen. Al snel kwam ik erachter dat je best veel nodig hebt om zo'n assistent op je gsm of tablet te activeren.
 Je hebt de google assistent app en 1 GB nodig op je apparaat,de versie 5.0 van Android en 6.13 van Googleapp en Google Play Services. Ook moest ik spraakservices instellen als de assistent dat niet automatisch deed.
@@ -14,13 +14,13 @@ tegen je assistent zeggen 'Navigeer naar huis', Als je locatie dan aanstaat,  ka
 Ook kan je een vraag stellen zoals 'Wanneer is mijn volgende afspraak ?' of ' Wie is de keizer van japan ?'.
 
 
-#### Het inschakelen
+### Het inschakelen
 
 Ik deed de updates van Android en Google en downloadde de Doogle Play Services. Ook maakte ik plaats door de foto's van interne opslag naar mijn SD-kaart te verplaatsen, dit deed ik ook met videos en muziek. 
 
 Vol verwachtingen opende ik de app van de assistent maar deze vertelde me dat er nog iets niet was. Ik checkte  de benodigdheden en kwam erachter dat alles in orde was. Na erover te hebben gediscussieerd met mijn papa,  startte ik mijn gsm helemaal opnieuw op. Hierna werkte het wel en vroeg ik wat voor het weer het ging zijn ?
 
-#### Leren werken met Google Assistent
+### Leren werken met Google Assistent
 
 Ik vond het best moeilijk om dingen te vragen aan 'mijn' assistent. In het begin waren het voornamelijk eenvoudige vragen die ik stelde:" Wat voor weer wordt het morgen?"," Wie is de president van Amerika?" en " Wat is de wortel van 9 ?". 
 Ik bedacht me dat ik mischien wel muziek kon laten afspelen of iemand bellen. Na een paar keer geprobeerd te hebben,  lukte het bellen maar de muziek laten spelen was een hele leerzame tijd. Eerst vroeg ik een nummer af te spelen door middel van een artiest, album en/of de titel. Nadien vroeg ik om YouTube te openen en een liedje op te zoeken,dit ging al wel. Toen ik hetzelfde vroeg met YouTube Music App werkte dit echter niet. Nadat ik dit enkele keren had geprobeerd, werkte het uiteindelijk wel.

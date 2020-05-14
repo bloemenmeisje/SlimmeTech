@@ -1,4 +1,4 @@
-## ﻿Moeilijke woorden
+# ﻿Moeilijke woorden
 
 - Akoestiek : is de wetenschap die zich bezighoudt met geluid.
 
