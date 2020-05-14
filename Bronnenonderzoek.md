@@ -173,9 +173,9 @@ https://blog.floydhub.com/gpt2/
 
 ##### Info over de bron
 
-Deze bron in een artikel uit de online krant Floydhub.In deze krant vind je allerlei artikels over AI en alle onderdelen en groeperingen erond. Het is een englse krant en iedereen kan zich aanmelden om mee te schrijven in de krant. Het artikel gaat over Deep Learning in het algemeen maar er zijn enorm veel goede artikels op deze site.
+Deze bron in een artikel uit de online krant Floydhub.In deze krant vind je allerlei artikels over AI en alle onderdelen en groeperingen errond. Het is een Engelse krant en iedereen kan zich aanmelden om mee te schrijven in die krant. Het artikel gaat over Deep Learning in het algemeen maar er zijn enorm veel goede artikels op deze site.
 
-Deze bron is een geschreven bron die online kwam in april 2019. Ik vond niet wie het geschreven had maar onderaan kan je veel technische papers vinden en de bronnen van de gebruikte foto's en video's. Het is een artikel dat vrij gemaakelijk is geschreven maar men moet wel zich er echt op focussen anders wordt het te moeilijk.
+Deze bron is een geschreven bron die online kwam in april 2019. Ik vond niet wie het geschreven had maar onderaan kan je veel technische papers vinden en de bronnen van de gebruikte foto's en video's. Het is een artikel dat vrij gemakkelijk geschreven is maar men moet wel zich er echt op focussen anders wordt het te moeilijk.
 Deze bron is een secundaire bron. Dit artikel geeft veel nuttige informatie maar is niet geschikt als men nog nooit van Deep Learning hebben gehoord.
 
 ---
@@ -186,9 +186,9 @@ Deel 2: https://www.youtube.com/watch?v=-ePZ7OdY-Dw
 
 ##### Info over de bron
 
-Dez bron is een documentaire in 2 delen die een goede inleiding of herhaling kan bieden over dit onderwerp. Ik heb deze bron bekeken als introductie en herhaling. Dit is een vrij gemakkelijke video die je behoorlijk veel informatie geeft zonder het heel zwaar te maken. De documentaire is vrij lang maar geeft veel duidelijke informatie.
-Deze bron is een secundaire bron(video). In deze bron heeft men het over  camera bewaking en gezichtsherkening in China. Men vertelt over google,amazon,I phone, enz...
-Het vertelt wat AI (Artificiele Intelegentie) kan doen in geneeskunde,eventuele vroege vastelling van ziekten .
+Deze bron is een documentaire in 2 delen die een goede inleiding of herhaling kan bieden over dit onderwerp. Ik heb deze bron bekeken als introductie en herhaling. Het is een vrij gemakkelijke video die je behoorlijk veel informatie geeft zonder het heel zwaar te maken. De documentaire is vrij lang maar geeft veel duidelijke informatie.
+Deze bron is een secundaire bron(video). In deze bron heeft men het over camera bewaking en gezichtsherkenning in China. Men vertelt over Google, Amazon,I phone, enz...
+Het vertelt wat AI (Artificiële Intelligentie) kan doen in geneeskunde,eventuele vroege vaststelling van ziekten .
 
-Deze bron is zeer representief voor mijn jaarwerk het is geschikt voor iedereen die een beetje geintereseerd in dit Ik. onderwerp zou het iedereen aanbevelen want het geeft een ander beeld op de manier van leven.
+Deze bron is zeer representief voor mijn jaarwerk. Het is geschikt voor iedereen die een beetje geinteresseerd is in deze materie.  Ik zou het onderwerp aan iedereen aanbevelen want het geeft een ander beeld op onze manier van leven.
 
