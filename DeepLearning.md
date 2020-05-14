@@ -1,4 +1,4 @@
-﻿# Deep Learning
+﻿#  Deep Learning
 
 Deep-learning is een onderdeel van Machine-learning. DL (Deep-Learning) is meer een mentale groei en verbetering dan een mechanische. Machine-learning valt ook voor een deel in Artificiële intelligentie.
 In de industrie wordt DL voornamelijk gebruikt voor kleine praktische problemen.
@@ -10,7 +10,7 @@ Via Deep-Learning hebben ze de vorige verbeteringen in 'Computer-Vision','Speech
 DL verandert en verbetert ook in verschillende snelheden.
 Een mooi voorbeeld van Deep-learning is, als je alle schilderstechnieken en schilderijen zou invoeren, kan je zo een machine leren schilderen.
 
-### Hoe leren machines ?
+## Hoe leren machines ?
 
 Je hebt verschillende manieren om de machine iets te leren. Zo heb je Machine- Learning en DL.
 DL en ML hebben een totaal andere manier om iets te leren. Zoals de naam zegt leert Machine-Learning meer oppervlakkig dan Deep-Learning.

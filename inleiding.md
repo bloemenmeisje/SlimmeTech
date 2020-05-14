@@ -1,4 +1,4 @@
-﻿## Inleiding
+﻿# Inleiding
 
 Ik heb gekozen voor het onderwerp Slimme Technologie.
 
