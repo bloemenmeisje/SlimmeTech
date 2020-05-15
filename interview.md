@@ -191,7 +191,7 @@ Dat kan ik voor je opzoeken?
 
 ##### Wat zijn volgens u de meest gebruikte spraakassistenten ?
 
-Siri : Onder de 35 jaar en Google : tussen de 35 en 65 jaar. Toch is er altijd ruimte vooor verbetering maar de mensen die het gebruikte waren over het algemeen best tevreden.
+Siri wordt voornamelijk gebruikt door mensen onder de 35 jaar en Google wordt vooral gebruikt door mensen tussen de 35 en 65 jaar. Toch is er altijd ruimte vooor verbetering maar de mensen die het gebruikte waren over het algemeen best tevreden.
 
 ##### Wat zijn volgens u, de voordelen en/of nadelen van het gebruik van een spraakassistent?
 
@@ -199,7 +199,7 @@ Hier is een zoekresultaat.
 
 ##### Vindt u dat men de spraakassistenten altijd en overal zouden moeten toepassen, zoals we nu onze gsm gebruiken ?
 
-Ik kan het voor je opzoeken?
+Ik kan het voor je opzoeken ?
 
 ##### Denkt u dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
 
@@ -213,9 +213,9 @@ Dit is het beste zoekresultaat op Google.
 
 ### besluit en beschrijving
 
-Ik heb dit intervieuw gedaan met 2 mensen uit het onderwijs (unversitair) en 2 mensen uit het ITbesdrijfsleven. de leeftijd van de mensen zijn tussen 30 en 60. De namen vernoem in niet in verband met privacyoverwegeningen.
+Ik heb dit intervieuw gedaan met 2 mensen uit het onderwijs (unversitair) en 2 mensen uit het IT-besdrijfsleven. De leeftijd van de mensen zijn tussen 30 jaar en 60 jaar. De namen vernoem in niet in verband met privacyoverwegingen.
 
-Ze zijn wantrouwig tegenover de assistenten. Ze hebben allemaal al eens een assistent gebruikt maar enkel omdat ze nieuwschierig zijn. Ze vermoeden dat er ontwikkeling gaat plaatsvinden. De meest gebruikte assistenten zijn Amazon Alexa, Google Assistenten en Apple Siri. Er zijn positieve en negatieve punten. Ze vinden allemaal dat de assistenten niet gebruikt moeten worden als dagelijks middel en vermoeden ook dat het verschil van het leven zonder en met assistenten niet heel groot zouden zijn.
+Ze zijn wantrouwig tegenover de assistenten. Ze hebben allemaal al eens een assistent gebruikt maar enkel omdat ze nieuwsgierig zijn. Ze vermoeden wel dat er een ontwikkeling gaat plaatsvinden. De meest gebruikte assistenten zijn Amazon Alexa, Google Assistent en Apple Siri. Er zijn positieve en negatieve punten. Ze vinden allemaal dat de assistenten niet gebruikt moeten worden als dagelijks middel en vermoeden ook dat het verschil van het leven zonder en met assistenten niet heel groot zouden zijn.
 Over de laatste vraag zijn ze het helemaal eens: "Er is te weinig privacy!"
 
-Het laatste intervieuw was afgenomen aan Google assistent. Ze verstond de vragen duidelijk niet goed. HIeraan kan dus nog gewerkt worden.
+Het laatste interview werd afgenomen aan Google assistent. Ze verstond de vragen duidelijk niet goed. HIeraan kan dus nog gewerkt worden.
