@@ -176,4 +176,40 @@ Ik heb dit intervieuw gedaan met 2 mensen uit het onderwijs (unversitair) en 2 m
 Ze zijn wantrouwig tegenover de assistenten. Ze hebben allemaal al eens een assistent gebruikt maar enkel omdat ze nieuwschierig zijn. Ze vermoeden dat er ontwikkeling gaat plaatsvinden. De meest gebruikte assistenten zijn Amazon Alexa, Google Assistenten en Apple Siri. Er zijn positieve en negatieve punten. Ze vinden allemaal dat de assistenten niet gebruikt moeten worden als dagelijks middel en vermoeden ook dat het verschil van het leven zonder en met assistenten niet heel groot zouden zijn.
 Over de laatste vraag zijn ze het helemaal eens: "Er is te weinig privacy!"
 
+#### Google assistent
 
+##### Wat vindt u van het gebruik van slimme spraakassistenten ? 
+
+ Het gaat geweldig vandaag want ik heb weer ontzettend veel geleerd.
+
+##### Gebruikt u zelf een slimme spraakassistent, zoja, welke?
+
+Hier is een zoekresultaat.
+
+##### Waarom heeft u hiervoor gekozen ?
+
+Dit is het beste resultaat dat ik kan vinden ( een app voor hulp bij spraakproblemen)
+
+##### Gelooft u dat deze vorm van Artificiële Intelligentie gaat blijven groeien en waarom ?
+
+Dat kan ik voor je opzoeken?
+
+##### Wat zijn volgens u de meest gebruikte spraakassistenten ?
+
+Siri : Onder de 35 jaar en Google : tussen de 35 en 65 jaar. Toch is er altijd ruimte vooor verbetering maar de mensen die het gebruikte waren over het algemeen best tevreden.
+
+##### Wat zijn volgens u, de voordelen en/of nadelen van het gebruik van een spraakassistent?
+
+Hier is een zoekresultaat.
+
+##### Vindt u dat men de spraakassistenten altijd en overal zouden moeten toepassen, zoals we nu onze gsm gebruiken ?
+
+Ik kan het voor je opzoeken?
+
+##### Denkt u dat het een groot verschil zou maken als er geen slimme assistenten zouden bestaan?
+
+Hier is het beste resultaat.
+
+##### Vindt u dat de "grote" assistenten ons genoeg privacy geven, of geven we onze privacy helemaal op?
+
+Dit is het beste zoekresultaat op Google.
