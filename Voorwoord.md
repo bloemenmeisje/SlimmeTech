@@ -21,7 +21,8 @@ Na mijn klein onderzoek,  begonnen er zich echter wel wat vragen te vormen in mi
 
 Dit gaf eigenlijk echt de doorslag. Ik besloot om de spraakassistenten onder de loep te nemen en hier mijn onderwerp van te maken.
 
-Ik zou graag enkele mesen willen bedanken om me te helpen met mijn jaarwerk. Heel veel dankbaarheid gaat naar mijn ouders. Ook ben ik Nikolai Domaev heel dankbaar om me te helpen met een boek te zoeken, ik zou graag ook dank je wel willen zeggen tegen Kris Buytaert, Bert Van Vreckem en Gratien D'haese. Ik ben heel dankbaar voor jullie hulp.
+Ik zou graag enkele mensen willen bedanken om me te helpen met mijn jaarwerk. 
+Heel veel dankbaarheid gaat naar mijn ouders. Ook ben ik Nikolai Domaev heel dankbaar omdat hij hielp met het zoeken van een gepast boek. Ik zou graag ook dank je wel willen zeggen tegen Kris Buytaert, Bert Van Vreckem en Gratien D'haese. Ik ben heel dankbaar voor jullie hulp. Jullie bijdrage heeft mijn jaarwerk enorm vooruit geholpen. 
 
 
 
