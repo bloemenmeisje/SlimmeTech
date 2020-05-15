@@ -15,8 +15,8 @@ Na mijn klein onderzoek,  begonnen er zich echter wel wat vragen te vormen in mi
 'Hoe komt het dat een slimme assistent zomaar woorden begrijpt?' , 
 'Wat is de technologie erachter?' , 
 'Wie zijn de grote bedrijven en drijvende krachten achter de slimme assistenten?' 
-' Wat kan een assistent allemaal voor je doen en hoe werkt hij of zij ? 
-' Is het moeilijk, om te werken, met een slimme assistent ? '
+'Wat kan een assistent allemaal voor je doen en hoe werkt hij of zij ? 
+'Is het moeilijk, om te werken, met een slimme assistent ? '
 'Hoe zal de technologie van nu veranderen naar de toekomst ? ' , enz.
 
 Dit gaf eigenlijk echt de doorslag. Ik besloot om de spraakassistenten onder de loep te nemen en hier mijn onderwerp van te maken.
