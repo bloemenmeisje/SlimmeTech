@@ -169,12 +169,7 @@ Misschien kunnen wij antwoorden op sommige van deze vragen in de culturen zoeken
 Als wij een de mensen in de buurt van het stadspark, deze vragen kunnen stellen. Waarom hebben ze geen tv of computer of internet thuis?
 Bedoelde Johannes in de openbaring met een draak, toevallig niet de Chinezen met hun traditionele draak? Die verschijnt nu in de vorm van 5G. 
 
-### besluit en beschrijving
-
-Ik heb dit intervieuw gedaan met 2 mensen uit het onderwijs (unversitair) en 2 mensen uit het ITbesdrijfsleven. de leeftijd van de mensen zijn tussen 30 en 60. De namen vernoem in niet in verband met privacyoverwegeningen.
-
-Ze zijn wantrouwig tegenover de assistenten. Ze hebben allemaal al eens een assistent gebruikt maar enkel omdat ze nieuwschierig zijn. Ze vermoeden dat er ontwikkeling gaat plaatsvinden. De meest gebruikte assistenten zijn Amazon Alexa, Google Assistenten en Apple Siri. Er zijn positieve en negatieve punten. Ze vinden allemaal dat de assistenten niet gebruikt moeten worden als dagelijks middel en vermoeden ook dat het verschil van het leven zonder en met assistenten niet heel groot zouden zijn.
-Over de laatste vraag zijn ze het helemaal eens: "Er is te weinig privacy!"
+---
 
 #### Google assistent
 
@@ -213,3 +208,12 @@ Hier is het beste resultaat.
 ##### Vindt u dat de "grote" assistenten ons genoeg privacy geven, of geven we onze privacy helemaal op?
 
 Dit is het beste zoekresultaat op Google.
+
+---
+
+### besluit en beschrijving
+
+Ik heb dit intervieuw gedaan met 2 mensen uit het onderwijs (unversitair) en 2 mensen uit het ITbesdrijfsleven. de leeftijd van de mensen zijn tussen 30 en 60. De namen vernoem in niet in verband met privacyoverwegeningen.
+
+Ze zijn wantrouwig tegenover de assistenten. Ze hebben allemaal al eens een assistent gebruikt maar enkel omdat ze nieuwschierig zijn. Ze vermoeden dat er ontwikkeling gaat plaatsvinden. De meest gebruikte assistenten zijn Amazon Alexa, Google Assistenten en Apple Siri. Er zijn positieve en negatieve punten. Ze vinden allemaal dat de assistenten niet gebruikt moeten worden als dagelijks middel en vermoeden ook dat het verschil van het leven zonder en met assistenten niet heel groot zouden zijn.
+Over de laatste vraag zijn ze het helemaal eens: "Er is te weinig privacy!"
