@@ -1,5 +1,6 @@
 [Voorwoord](Voorwoord.md) | [Nawoord](Nawoord.md)
 
+
 # Jaarwerk 10 de klas
 ## Slimme technologie
 
