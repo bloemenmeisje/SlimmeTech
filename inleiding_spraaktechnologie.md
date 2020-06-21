@@ -1,4 +1,4 @@
-[Home] (README.md) | [Voorwoord](Voorwoord.md) | [Deep Learning](DeepLearning.md) | [spraaktechnologie](spraaktechnologie.md) | [bronnenonderzoek](Bronnenonderzoek.md) | [Nawoord](Nawoord.md)
+[Home](README.md) | [Voorwoord](Voorwoord.md) | [Deep Learning](DeepLearning.md) | [spraaktechnologie](spraaktechnologie.md) | [bronnenonderzoek](Bronnenonderzoek.md) | [Nawoord](Nawoord.md)
 
 # Communicatie
 
