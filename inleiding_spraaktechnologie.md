@@ -1,3 +1,5 @@
+[Home] (README.md) | [Voorwoord](Voorwoord.md) | [Deep Learning](DeepLearning.md) | [spraaktechnologie](spraaktechnologie.md) | [bronnenonderzoek](Bronnenonderzoek.md) | [Nawoord](Nawoord.md)
+
 # Communicatie
 
 Communicatie is een activiteit waarbij levende wezens betekenissen uitwisselen door op elkaars signalen te reageren. Het Latijnse woord communicare slaat terug op "iets gemeenschappelijk maken".
