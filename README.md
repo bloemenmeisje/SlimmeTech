@@ -1,4 +1,4 @@
-[Voorwoord](Voorwoord.md) | [bronnenonderzoek](Bronnenonderzoek.md) | [Nawoord](Nawoord.md)
+[Voorwoord](Voorwoord.md) | [bronnenonderzoek](Bronnenonderzoek.md) | [informeren en communiceren](inleiding_spraaktechnologie.md) | [Nawoord](Nawoord.md)
 
 
 # Jaarwerk 10 de klas
